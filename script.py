@@ -2,6 +2,7 @@
 import os
 import sys
 import re
+import csv
 
 
 def count_verify_void_line(line):
@@ -18,6 +19,12 @@ def remove_finals_spaces_and_asterisk(line):
 
     return line
 
+def wos(titles):
+    file = open("wos_titles.txt", "w")
+    for title in titles:
+        file.write('\"' + str(title) + '\"' + " OR ")
+    
+    file.close()
 
 def write_title_file(titles):
     file = open("titles.txt", "w")
@@ -47,6 +54,7 @@ def get_articles(path, list_file):
         lines = art.readlines()
         articles.append(lines)
         art.close()
+
     
     return articles
 
@@ -67,12 +75,27 @@ def get_titles_articles(articles):
     
     return titles
 
+def csv_title_and_class(titles_file, titles_articles):
+    with open('title_and_class.csv', mode='w', encoding='utf-8', newline='') as csv_file:
+        fieldnames = ['title', 'class']
+        writer = csv.DictWriter(csv_file, fieldnames=fieldnames)
+
+        writer.writeheader()
+        for title_file, title_article in zip(titles_file, titles_articles):
+            if(title_article[2] == '-'):
+                writer.writerow({'title': title_file, 'class': title_article[:2]})    
+            else:
+                writer.writerow({'title': title_file, 'class': title_article[:3]})
+
 
 def main():
     path = sys.argv[1]
     list_file = get_list_file(path)
     articles = get_articles(path, list_file)
+    # for i in list_file:
+    #      print(i)
     titles_articles = get_titles_articles(articles)
-    write_title_file(titles_articles)
+    wos(titles_articles)
+    csv_title_and_class(titles_articles, list_file)
     
 main()
