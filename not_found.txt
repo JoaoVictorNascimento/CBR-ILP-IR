@@ -1,0 +1,267 @@
+A Method for Open­Vocabulary Speech­Driven Text Retrieval,RI
+The SENSEVAL­2 Panel on Domains, Topics and Senses,RI
+One­way Functions are Essential for Single­Server Private Information Retrieval,RI
+PRIME: A System for Multi­lingual Patent Retrieval,RI
+Cross­Lingual Medical Information Retrieval through Semantic Annotation,RI
+An Interactive Beat Tracking and Visualisation System,SON
+Listen to your Data: Model-Based Sonification for Data Analysis,SON
+Design of Virtual 3D Instruments for Musical Interaction,SON
+Audio feedback for gesture recognition,SON
+SOUND EFFECTS FOR A SILENT COMPUTER SYSTEM,SON
+Modal Synthesis of Wind Chime Sounds with Stochastic Event Triggering,SON
+CBR for Document Retrieval: The EALLQ Project,CBR
+Retrieving Gases in Structured Domains by Using Goal Dependencies ,CBR
+Infranet: Circumventing Web Censorship and Surveillance,RI
+Using Sounds to Present and Manage Information in Computers,SON
+Improved Noise­Tolerant Learning and Generalized Statistical Queries,RI
+A Unified Model for Metasearch and the Efficient Evaluation of Retrieval Systems via the Hedge Algorithm,RI
+Modular System Design for Multimedial Information Handling,RI
+SONIFICATION OF MARKOV CHAIN MONTE CARLO SIMULATIONS,SON
+Learning with Abduction,ILP
+Secret Sharing with Public Reconstruction,RI
+Universally Ideal Secret Sharing Schemes \Lambda,RI
+On the Relation between the Context of a Feature and the Domain Theory in Case-Based Planning,CBR
+A Case-Based Reasoning Approach to Collaborative Filtering,CBR
+Improving Case-Based Recommendation A Collaborative Filtering Approach,CBR
+Rule Evaluation Measures: A Unifying View,ILP
+SCAN YOUR LIFE: Integrating OCR into your Personal Haystack!,RI
+Heterogeneous Web Data Extraction using Ontology Hicham Snoussi,RI
+Semi­automatic Acquisition of Machine Translation Knowledge from Examples,RI
+Learning Functions Represented as Multiplicity Automata \Lambda,RI
+Comparing the Performance of Database Selection Algorithms,RI
+PAC Analyses of a Similarity Learning IBL Algorithm,CBR
+Inducing Information Extraction Systems for New Languages via Cross­Language Projection,RI
+Multimodal Feedback for Tilt Controlled Speed Dependent Automatic Zooming,SON
+A Virtual World for an Autonomous Underwater Vehicle,SON
+An Empirical Study of Automated Dictionary Construction for Information Extraction in Three Domains,RI
+A model for interaction in exploratory sonification displays,SON
+MARSYAS: A framework for audio analysis,RI
+A Case Study in Using Linguistic Phrases for Text Categorization on the WWW,RI
+Real Time Holter Monitoring of Biomedical Signals,SON
+Learning Query Behavior in the Haystack System,RI
+Design and Implementation of an Object-oriented Media Com position Framework,SON
+An Auditory Display System for Aiding Interjoint Coordination,SON
+"MANIFOLD COMPOSITIONS, MUSIC VISUALIZATION, AND SCIENTIFIC SONIFICATION IN AN IMMERSIVE VIRTUAL-REALITY ENVIRONMENT",SON
+Tcl Commands as Media in a Distributed Multimedia Toolkit ,RI
+A Series of Three Mixed Reality Workshops: Sounding Out Sound in Mixed Reality Environment,SON
+SOUND ANALYSIS USING MPEG COMPRESSED AUDIO,RI
+Image Background Search: Combining Object Detection Techniques into Content­Based Similarity Image Retrieval(CBSIR) Systems,RI
+CLIR using a Probabilistic Translation Model based on Web Documents,RI
+In Search of a Standards Based Approach to Hybrid Performance Monitoring,SON
+Surviving the Information Explosion: How People Find Their Electronic Information,RI
+General Bounds on Statistical Query Learning and PAC Learning with Noise via Hypothesis Boosting,RI
+The Impact of Database Selection on Distributed Searching,RI
+"The Var se System, Hybrid Auditory Interfaces, and Satellite-Ground Control: Using Auditory Icons and SoniÞcation in a Complex, Supervisory Control System",SON
+"Audio Analysis using the Discrete Wavelet Transform George Tzanetakis, Georg Essl, Perry Cook",RI
+Displaying Dynamic Information,RI
+On the Sample Complexity of Noise­Tolerant Learning,RI
+"A Unified Model for Metasearch, Pooling, and System Evaluation",RI
+Static and Dynamic Information Organization with Star Clusters,RI
+Clustering Large Datasets in Arbitrary Metric Spaces,RI
+Experimenting with Haptic Attributes for Display of Abstract Data,SON
+Automatic Musical Genre Classification Of Audio Signals,RI
+TIME-VARYING FILTER IN NON-UNIFORM BLOCK CONVOLUTION,SON
+Looking Under the Hood: Tools for Diagnosing Your Question Answering Engine 1,RI
+BABBLE ONLINE: APPLYING STATISTICS AND DESIGN TO SONIFY THE INTERNET,SON
+Evaluating Multi­lingual Information Retrieval and Clustering at ULIS,RI
+BROWSING MODES FOR EXPLORING SONIFIED LINE GRAPHS,SON
+A framework for audio analysis based on classification and temporal segmentation,RI
+"MANIPULATION, ANALYSIS AND RETRIEVAL SYSTEMS FOR AUDIO SIGNALS",RI
+Learning Unions of High Dimensional Boxes over the Reals,RI
+Specification and Simulation of Statistical Query Algorithms for Efficiency and Noise Tolerance,RI
+A Multimodal Electronic Travel Aid Device,SON
+Reexamining the Cluster Hypothesis: Scatter/Gather on Retrieval Results \Lambda,RI
+Rendering Localized Spatial Audio in a Virtual Auditory Space,SON
+Near-Critical Path Analysis:  A Tool for Parallel Program Optimization,SON
+Separating the Power of Monotone Span Programs over Different Fields,RI
+AUDIO-HAPTIC INTERNET BROWSER AND ASSOCIATED TOOLS FOR BLIND AND VISUALLY IMPAIRED COMPUTER USERS,SON
+On the Use of FastMap for Audio Retrieval and Browsing,SON
+AUDIO-ENHANCED COLLABORATION AT AN INTERACTIVE ELECTRONIC WHITEBOARD,SON
+CATEGORY: Artificial Intelligence Learning Human­like Knowledge by Singular Value Decomposition: A Progress Report,RI
+Japanese/English Cross­Language Information Retrieval: Exploration of Query Translation and Transliteration 1,RI
+A Digital Libraries System based on Multi­level Agents,RI
+Loose Coupling of Failure Explanation and Repair: sing Learning Goals to Sequence Learning Methods,CBR
+Learning Extraction Patterns for Subjective Expressions,RI
+Musical Genre Classification of Audio Signals,RI
+Retrieving Adaptable Cases The Role of Adaptation Knowledge in Case Retrieval,CBR
+Rhythmic Parsing of Sonified DNA and RNA Sequences,SON
+Applications of Approximate Word Matching in Information Retrieval James C. French Allison L. Powell,RI
+Multimedia structuring using trees,RI
+Footprint-Based Retrieval,CBR
+LANGUAGE MODELING FOR MULTI­DOMAIN SPEECH­DRIVEN TEXT RETRIEVAL,RI
+On Arithmetic Branching Programs \Lambda,RI
+Pitch Histograms in Audio and Symbolic Music Information Retrieval,RI
+Orchestration within the Sonification of basic Data Sets,SON
+Performance Issues in a Real-Time True Color Data Display,SON
+Relevance Score Normalization for Metasearch #,RI
+"A Multi­Layered, XML­Based Approach to the Integration of Linguis­ tic and Semantic Annotations",RI
+3D GRAPHICS TOOLS FOR SOUND COLLECTIONS,RI
+Chord: A Scalable Peer­to­peer Lookup Service for Internet Applications,RI
+LISTENING POST: GIVING VOICE TO ONLINE COMMUNICATION,SON
+Scalable Information Organization #,RI
+Running head: TEXTUAL COHERENCE USING LATENT SEMANTIC ANALYSIS The Measurement of Textual Coherence with Latent Semantic Analysis,RI
+Integrating Sounds and Motions in Virtual Environments,SON
+Beyond the Query-By-Example Paradigm: New Query Interfaces for Music Information Retrieval,SON
+Time in Geographic Space: Report on the Specialist Meeting of Research Initiative 10,SON
+Running head: LEARNING FROM TEXT Learning from text: Matching readers and texts by Latent Semantic Analysis,RI
+MOTION ESTIMATION BASED ON AFFINE MOMENT INVARIANTS,RI
+MUSE: A Musical Data Sonification Toolkit,SON
+Information Extraction as a Basis for High­Precision Text Classification,RI
+An Integrated Virtual Environment System,SON
+Analysis and User Evaluation of a Musical-V isual System: Does music make any difference?,SON
+MULTIFEATURE AUDIO SEGMENTATION FOR BROWSING AND ANNOTATION,RI
+Ranking and Selecting Synsets by Domain Relevance,RI
+A Rule-based Question Answering System for Reading Comprehension Tests,RI
+An Efficient and Flexible Format for Linguistic and Semantic Annotation,RI
+Running head: LATENT SEMANTIC ANALYSIS AND KNOWLEDGE ASSESSMENT,RI
+The Design of Sonically-Enhanced Widgets,SON
+Latent Semantic Analysis Approaches to Categorization,RI
+Sound Kitchen: Designing a Chemically Controlled Musical Performance,SON
+Evaluation Corpora for Sense Disambiguation in the Medical Domain,RI
+Automatically Constructing a Dictionary for Information Extraction Tasks,RI
+APPLYING HYPERTEXT STRUCTURES TO SOFTWARE DOCUMENTATION,RI
+Sonification and the Interaction of Perceptual Dimensions: Can the Data Get Lost in the Map?,SON
+PITCH AND TIMBRE MANIPULATIONS USING CORTICAL REPRESENTATION OF SOUND,SON
+Container Shipping: Operating System Support for I/O Intensive Applications,SON
+Onlinse Power­aware Routing in Wireless Ad­hoc Networks,RI
+An Integrated Approach to Motion and Sound,SON
+Qualitative Aspects of Auditory Direct Manipulation: A Case Study of the Towers of Hanoi,SON
+A Novelty­based Evaluation Method for Information Retrieval,RI
+Near Critical Path Analysis of Program Activity Graphs,SON
+MODELING COLLISION SOUNDS: NON-LINEAR CONTACT FORCE,SON
+Design and Implementation of a Multimedia Opera,SON
+Subspace Morphing Theory for Appearance Based Object Identification,RI
+Hierarchical Power­aware Routing in Sensor Networks,RI
+Applications of Image Understanding in Semantics-Oriented Multimedia Information Retrieval,RI
+Induction of Constraint Grammar-Rules Using Progol,ILP
+Utilizing the World Wide Web as an Encyclopedia: Extracting Term Descriptions from Semi­Structured Texts,RI
+Growth and Server Availability of the NCSTRL Digital Library,RI
+Breaking the O(n 1=(2k 1) ) Barrier for Information­Theoretic Private Information Retrieval,RI
+"Panorama: A Portable, Extensible Parallel Debugger",SON
+Modular Preference Moore Machines in News Mining Agents,RI
+Restructuring Chain Datalog Programs (Preliminary Report),ILP
+"Learning Boxes in High Dimension Amos Beimel y Eyal Kushilevitz z April 21, 1998",RI
+Little Words Can Make a Big Difference for Text Classification,RI
+Using Clustering Strategies for Creating Authority Files,RI
+Tetravalent Miniantibodies with High Avidity Assembling in Escherichia coli,SON
+Production Tools for Electronic Arenas: Event Management and Content Production,SON
+HUMAN PERCEPTION AND COMPUTER EXTRACTION OF MUSICAL BEAT STRENGTH,RI
+Adaptive Rapid Serial Visual Presentation,SON
+"Case-Based Reasoning for Candidate List Extraction in a Marketing Domain Michael Fagan, Konrad Bloor",CBR
+Information­Theoretic Private Information Retrieval: A Unified Construction,RI
+The Animation of Autonomous Actors Based on Production Rules,SON
+Learning Subjective Nouns using Extraction Pattern Bootstrapping,RI
+Inferring Graphs from Walks (Extended Abstract),RI
+Robust Information­Theoretic Private Information Retrieval,RI
+A Tool for Range Sensing and Environment Discovery for the Blind,SON
+Self­Organising Networks for Classification Learning from Normal and Aphasic Speech,RI
+Applying the Rapid Serial Visual Presentation Techniqueto Small Screens,SON
+Improving Full­Text Precision on Short Queries using Simple Constraints,RI
+Empirical Development of an Exponential Probabilistic Model for Text Retrieval,RI
+Experiments in computer­assisted annotation of audio,RI
+Hybrid­Search and Storage of Semi­structured Information,RI
+Improved Bicriteria Existence Theorems for Scheduling,RI
+"University of Glasgow at the Web track of TREC 2002 Vassilis Plachouras, Iadh Ounis, Gianni Amati  , and C.J. Van Rijsbergen",RI
+Automatic construction of parallel English­-Chinese corpus for cross­ language information retrieval,RI
+Organizing Encyclopedic Knowledge based on the Web and its Application to Question Answering,RI
+On the Power of Nonlinear Secret­Sharing,RI
+Visualizing the Behavior of Higher Dimensional Dynamical Systems,SON
+Coordinating the Interruption of People in Human-Computer Interaction,SON
+Beyond the Query­By­Example Paradigm: New Query Interfaces for Music Information Retrieval,RI
+From Dots To Shapes: an auditor y haptic game platform for teaching geometry to blind pupils,SON
+Combining Words and Compound Terms for Monolingual and Cross­Language Information Retrieval,RI
+Gesture and Musical Interaction: Interactive Engagement Through Dynamic Morphology,SON
+Synthesis of Sound Textures by Learning and Resampling of Wavelet Trees,SON
+Applying Machine Translation to Two­Stage Cross­Language Information Retrieval,RI
+How Well Can Passage Meaning be Derived without Using Word Order? A Comparison of Latent Semantic Analysis and Humans,RI
+A Systematic Approach to Creating and Maintaining Software Documentation,RI
+Cat­a­Cone: An Interactive Interface for Specifying Searches and Viewing Retrieval Results using a Large Category Hierarchy,RI
+Reducing Lexical Semantic Complexity with Systematic Polysemous Classes and Underspecification,RI
+Granular Synthesis for Display of Time-Varying Probability Densities,SON
+Discovering Internet Resources to Enrich a Structured Personal Information Space,RI
+Augmenting Reality Through The Coordinated Use of Diverse Interfaces,SON
+A Folder­Based Graphical Interface for an Information Retrieval System,RI
+Models for Metasearch,RI
+Linguistic Annotation for the Semantic Web,RI
+A Multivalued Conditional Logic with Probabilistic Interpretation for Causal Decision Theory,RI
+Probabilistic Surfaces: Point Based Primitives to Show Surface Uncertainty,SON
+BioSonics: Sensual Explorations of a Complex System,SON
+Modeling the Multi-Sensory Design Space,SON
+Sonification of Particle Systems via de Broglie's Hypothesis,SON
+Analyses for Elucidating Current Question Answering Technology,RI
+DISCRIMINATING VISIBLE SPEECH TOKENS USING MUL TI-MOD ALITY,SON
+Three Power­aware Routing Algorithms for Sensor Networks,RI
+Using Mobile Agents for Analyzing Intrusion in Computer Networks #,RI
+"Generating, Visualizing, and Evaluating High­Quality Clusters for Information Organization",RI
+Auditory Presentation of Graphical User Interfaces,SON
+Artefact & Artifice : views on life Alan Dorin,SON
+FILTERING NOISY PARALLEL CORPORA OF WEB PAGES,RI
+The Dynamic Absorbing Model for the Web,RI
+LOWER BOUNDS FOR MONOTONE SPAN PROGRAMS,RI
+TileBars: Visualization of Term Distribution Information in Full Text Information Access,RI
+SONIFICATION OF GEO-REFERENDED DATA FOR AUDITORY INFORMATION SEEKING: DESIGN PRINCIPLE AND PILOT STUDY,SON
+Lexical Semantics in the Age of the Semantic Web,RI
+INFORMATION EXTRACTION AS A BASIS FOR PORTABLE TEXT CLASSIFICATION SYSTEMS,RI
+Empirically Validated Web Page Design Metrics,RI
+Factors Influencing the Dimer to Monomer Transition of an Antibody Single-Chain Fv Fragment,SON
+Efficient Ø-Subsumption Based on Graph Algorithms,ILP
+A Corpus­Based Approach for Building Semantic Lexicons,RI
+Evaluating Database Selection Techniques: A Testbed and Experiment,RI
+Efficient Searching in Distributed Digital Libraries,RI
+Bayes Optimal Metasearch: A Probabilistic Model for Combining the Results of Multiple Retrieval Systems,RI
+MUSESCAPE: AN INTERACTIVE CONTENT-AWARE MUSIC BROWSER,SON
+Designing Non-Speech Sounds to Support Navigation in Mobile Phone Menus,SON
+Bootstrapping for Text Learning Tasks,RI
+A-Life and Musical Composition: A Brief Survey,SON
+Corpus­Based Identification of Non­Anaphoric Noun Phrases,RI
+Analysis of the Evolution of Peer­to­Peer Systems,RI
+Empirical Development of an Exponential Probabilistic Model for Text Retrieval Using Textual Analysis to Build a Better Model,RI
+Responsive Sonification of Well-logs,SON
+Automatically Generating Extraction Patterns from Untagged Text,RI
+THE APPLICATION OF A METHOD FOR INTEGRATING NON-SPEECH AUDIO INTO HUMAN-COMPUTER INTERFACES,SON
+Using Star Clusters for Filtering,RI
+An Empirical Approach to Conceptual Case Frame Acquisition,RI
+Information Retrieval as Counterfactual,RI
+A Practical Clustering Algorithm for Static and Dynamic Information Organization \Lambda,RI
+Metasearch Consistency #,RI
+Parallel Web Text Mining for Cross-Language IR,RI
+Audio Information Retrieval (AIR) Tools,RI
+Applying a Hybrid Query Translation Method to Japanese/English Cross­Language Patent Retrieval,RI
+A WHISPER IN THE WOODS AN AMBIENT SOUNDSCAPE FOR PERIPHERAL AWARENESS OF REMOTE PROCESSES,SON
+Case-Based and Symbolic Classification - A Case Study -,CBR
+An Unsupervised Semantic Tagger Applied to German,RI
+Psychophysical Scaling of Sonification Mappings,SON
+Exploiting Strong Syntactic Heuristics and Co­Training to Learn Semantic Lexicons,RI
+WebSound: a generic Web sonification tool allowing HCI researchers to dynamically create new access modalities,SON
+Improving Algorithms for Boosting,RI
+On Hyperstructure and Musical Structure,SON
+VIRTUAL CONTACT: THE CONTINUUM FROM PURELY VISUAL TO PURELY PHYSICAL,SON
+Speech­Driven Text Retrieval: Using Target IR Collections for Statistical Language Model Adaptation in Speech Recognition,RI
+The quest for auditory direct manipulation: The sonified Towers of Hanoi,SON
+General Bounds on Statistical Query Learning and PAC Learning with Noise via Hypothesis Boosting,RI
+Integrating Structural Search Capabilities Into Project Haystack,RI
+Data Manipulation Services in the Haystack IR System,RI
+Investigating Auditory Direct Manipulation: Sonifying the Towers of Hanoi,SON
+Condorcet Fusion for Improved Retrieval #,RI
+Modelling of the Ultrasound Return from Albunex Microspheres,SON
+Information Extraction as a Stepping Stone toward Story Understanding,RI
+Specification and Simulation of Statistical Query Algorithms for Eficiency and Noise Tolerance,RI
+A Haptic Back Display for Attentional and Directional Cueing,SON
+A Sonification Enhanced Navigation Tool,SON
+A new approach to clustering,RI
+N >> 2: Multi­speaker Display Systems for Virtual Reality and Spatial Audio Projection,RI
+An Information­theoretic Measure for Document Similarity,RI
+MODELING AND SONIFYING PEN STROKES ON SURFACES,SON
+An Architecture for Spatial Audio Servers,SON
+Personify a toolkit for perceptually meaningful sonification,SON
+A Corpus-based Bootstrapping Algorithm for Semi-Automated Semantic Lexicon Construction,RI
+Indexing by Latent Semantic Analysis,RI
+Extending Synsets with Medical Terms,RI
+PERSONAL WEBMELODY: CUSTOMIZED SONIFICATION OF WEB SERVERS,SON
+Building Compact Competent Case-Bases,CBR
+"WebSound: a generic Web sonification tool, and its application to an auditory Web browser for blind and visually impaired users",SON
+Communication in Key Distribution Schemes \Lambda,RI
+Principal Curve Sonification,SON
+Learning Dictionaries for Information Extraction by Multi­Level Bootstrapping,RI
+Distributed Energy­conserving Routing Protocols,RI
+EXTRACTION­BASED TEXT CATEGORIZATION: GENERATING DOMAIN­SPECIFIC ROLE RELATIONSHIPS AUTOMATICALLY,RI
