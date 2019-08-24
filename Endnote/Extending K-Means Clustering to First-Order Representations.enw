@@ -1,0 +1,15 @@
+%0 Conference Proceedings
+%T Extending K-Means Clustering to First-Order Representations
+%A Kirsten, Mathias
+%A Wrobel, Stefan
+%Y Cussens, James
+%Y Frisch, Alan
+%S Inductive Logic Programming
+%D 2000
+%I Springer Berlin Heidelberg
+%C Berlin, Heidelberg
+%@ 978-3-540-44960-7
+%F 10.1007/3-540-44960-4_7
+%X In this paper, we present an in-depth evaluation of two approaches of extending k-means clustering to work on first-order representations. The first-approach, k-medoids, selects its cluster center from the given set of instances, and is thus limited in its choice of centers. The second approach, k-prototypes, uses a heuristic prototype construction algorithm that is capable of generating new centers. The two approaches are empirically evaluated on a standard benchmark problem with respect to clustering quality and convergence. Results show that in this case indeed the k-medoids approach is a viable and fast alternative to existing agglomerative or top-down clustering approaches even for a small-scale dataset, while k-prototypes exhibited a number of deficiencies.
+%P 112-129
+

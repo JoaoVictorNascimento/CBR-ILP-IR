@@ -1,0 +1,17 @@
+%0 Conference Proceedings
+%T A comparison of ILP and propositional systems on propositional traffic data
+%A Roberts, Sam
+%A vanLaer, Wim
+%A Jacobs, Nico
+%A Muggleton, Stephen
+%A Broughton, Jeremy
+%Y Page, David
+%S Inductive Logic Programming
+%D 1998
+%I Springer Berlin Heidelberg
+%C Berlin, Heidelberg
+%@ 978-3-540-69059-7
+%F 10.1007/BFb0027333
+%X This paper presents an experimental comparison of two Inductive Logic Programming algorithms, PROGOL and TILDE, with C4.5, a propositional learning algorithm, on a propositional dataset of road traffic accidents. Rebalancing methods are described for handling the skewed distribution of positive and negative examples in this dataset, and the relative cost of errors of commission and omission in this domain. It is noted that before the use of these methods all algorithms perform worse than majority class. On rebalancing, all did significantly better. The conclusion drawn from the experimental results is that on such a propositional dataset ILP algorithms perform competitively in terms of predictive accuracy with propositional systems, but are significantly outperformed in terms of time taken for learning.
+%P 291-299
+

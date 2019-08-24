@@ -1,0 +1,15 @@
+%0 Conference Proceedings
+%T Supporting combined human and machine planning: An interface for planning by analogical reasoning
+%A Cox, Michael T.
+%A Veloso, Manuela M.
+%Y Leake, David B.
+%Y Plaza, Enric
+%S Case-Based Reasoning Research and Development
+%D 1997
+%I Springer Berlin Heidelberg
+%C Berlin, Heidelberg
+%@ 978-3-540-69238-6
+%F 10.1007/3-540-63233-6_522
+%X Realistic and complex planning situations require a mixed-initiative planning framework in which human and automated planners interact to mutually construct a desired plan. Ideally, this joint cooperation has the potential of achieving better plans than either the human or the machine can create alone. Human planners often take a case-based approach to planning, relying on their past experience and planning by retrieving and adapting past planning cases. Planning by analogical reasoning in which generative and case-based planning are combined, as in Prodigy/Analogy, provides a suitable framework to study this mixed-initiative integration. However, having a human user engaged in this planning loop creates a variety of new research questions. The challenges we found creating a mixed-initiative planning system fall into three categories: planning paradigms differ in human and machine planning; visualization of the plan and planning process is a complex, but necessary task; and human users range across a spectrum of experience, both with respect to the planning domain and the underlying planning technology. This paper presents our approach to these three problems when designing an interface to incorporate a human into the process of planning by analogical reasoning with Prodigy/Analogy. The interface allows the user to follow both generative and case-based planning, it supports visualization of both plan and the planning rationale, and it addresses the variance in the experience of the user by allowing the user to control the presentation of information.
+%P 531-540
+

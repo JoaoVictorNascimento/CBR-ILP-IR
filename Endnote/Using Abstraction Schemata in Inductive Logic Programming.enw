@@ -1,0 +1,15 @@
+%0 Conference Proceedings
+%T Using abstraction schemata in inductive logic programming
+%A Sadohar, Ken
+%A Haraguchi, Makoto
+%Y Lavrač, Nada
+%Y Džeroski, Sašo
+%S Inductive Logic Programming
+%D 1997
+%I Springer Berlin Heidelberg
+%C Berlin, Heidelberg
+%@ 978-3-540-69587-5
+%F 10.1007/3540635149_54
+%X We consider inductive logic programming guided by a language bias called abstraction schemata which enables us to specify a partial structure for a target program. Specifically, to improve the efficiency of such learning, we discuss a class of programs for which it is possible to devise a learning algorithm capable of identifying and pruning unpromising uses of the schemata. This identification process includes the bias shift problem: how to decide whether a hypothesis space contains no correct program with respect to a given example specification. For solving this problem, a required property of hypothesis spaces is discovered. This result yields a class of programs that are beyond the representational capabilities of previous approaches — most notably, non-trivial programs with local variables.
+%P 256-263
+

@@ -1,0 +1,16 @@
+%0 Conference Proceedings
+%T Estimating software development effort with case-based reasoning
+%A Finnie, G. R.
+%A Wittig, G. E.
+%A Desharnais, J. -M.
+%Y Leake, David B.
+%Y Plaza, Enric
+%S Case-Based Reasoning Research and Development
+%D 1997
+%I Springer Berlin Heidelberg
+%C Berlin, Heidelberg
+%@ 978-3-540-69238-6
+%F 10.1007/3-540-63233-6_474
+%X Software project effort estimation is a difficult problem complicated by a variety of interrelated factors. Current regression-based models have not had much success in accurately estimating system size. This paper describes a case based reasoning approach to software estimation which performs somewhat better than regression models based on the same data and which has some similarity to human expert judgement approaches. An analysis is performed to determine whether different forms of averaging and adaptation improve the overall quality of the estimate.
+%P 13-22
+

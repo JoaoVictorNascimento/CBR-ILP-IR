@@ -3,6 +3,7 @@ import os
 import sys
 import re
 import csv
+import pandas as pd
 
 
 def count_verify_void_line(line):
@@ -87,6 +88,22 @@ def csv_title_and_class(titles_file, titles_articles):
             else:
                 writer.writerow({'title': title_file, 'class': title_article[:3]})
 
+def found():
+    data2 = pd.read_csv("articles_not_found.csv").drop_duplicates(subset=None, keep='first', inplace=False)
+    data1 = pd.read_csv("title_and_class.csv").drop_duplicates(subset=None, keep='first', inplace=False)
+    merged_left = pd.merge(left=data1,right=data2, 
+                            how='left', left_on='title', right_on='title')
+    
+    data = merged_left[ pd.isnull(merged_left.class_y) ]
+    data = data.drop(['class_y'], axis=1)
+    data.to_csv('articles_found.csv', index=False)
+
+def asd():
+    from pathlib import Path
+    a = list(Path("Endnote").glob("*"))
+    b = [i.name for i in a]
+    print(b)
+    print(sum(b))
 
 def main():
     path = sys.argv[1]
@@ -97,5 +114,6 @@ def main():
     titles_articles = get_titles_articles(articles)
     wos(titles_articles)
     csv_title_and_class(titles_articles, list_file)
+    asd()
     
 main()

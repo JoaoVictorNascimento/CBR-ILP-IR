@@ -1,0 +1,14 @@
+%0 Conference Proceedings
+%T Case based reasoning, fuzzy systems modeling and solution composition
+%A Yager, Ronald R.
+%Y Leake, David B.
+%Y Plaza, Enric
+%S Case-Based Reasoning Research and Development
+%D 1997
+%I Springer Berlin Heidelberg
+%C Berlin, Heidelberg
+%@ 978-3-540-69238-6
+%F 10.1007/3-540-63233-6_531
+%X Fuzzy systems modeling technique and the case based reasoning methodology are briefly described. It is then shown that these two approaches can be viewed as essentially involving the same process, a matching step and a solution composition step. It is noted that in the typical case based reasoning application the solution composition step is more difficult. Two techniques are suggested to help in the solution composition task in case based reasoning. The first, the weighted median, is useful in domains in which the action space consists of an ordered collection of alternatives. The second, a variation of reinforcement learning, is useful in domains in which the resulting actions involve a sequence of steps.
+%P 633-642
+

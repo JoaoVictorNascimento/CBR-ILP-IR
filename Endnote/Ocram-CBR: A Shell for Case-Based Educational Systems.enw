@@ -1,0 +1,16 @@
+%0 Conference Proceedings
+%T Ocram-CBR: A Shell for Case-Based Educational Systems
+%A Papagni, Marco
+%A Cirillo, Vincenzo
+%A Micarelli, Alessandro
+%Y Leake, David B.
+%Y Plaza, Enric
+%S Case-Based Reasoning Research and Development
+%D 1997
+%I Springer Berlin Heidelberg
+%C Berlin, Heidelberg
+%@ 978-3-540-69238-6
+%F 10.1007/3-540-63233-6_483
+%X This paper presents a case-based authoring system for training and educational applications. The system, called Ocram-CBR and developed in JAVA(tm), can plan lessons for any application domain whatsoever. Ocram-CBR contains a User Modeling module, capable of building a representation of the user objectives and characteristics, that allows personalizing the teaching interaction. A distinguishing feature of the User Modeling module is the use of a hybrid approach, in which case-based components and an artificial neural network are integrated into one coherent system so that each component performs the tasks for which it is best suited. The Training module of Ocram-CBR plans lessons using a library of cases indexed and successively retrieved by means of a discrimination search and serial search. The system has been adapted for a training course in “Information Systems” and for a second application which will teach learners to write business letters more effectively.
+%P 104-113
+

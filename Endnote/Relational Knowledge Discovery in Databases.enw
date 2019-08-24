@@ -1,0 +1,14 @@
+%0 Conference Proceedings
+%T Relational knowledge discovery in databases
+%A Blockeel, Hendrik
+%A De Raedt, Luc
+%Y Muggleton, Stephen
+%S Inductive Logic Programming
+%D 1997
+%I Springer Berlin Heidelberg
+%C Berlin, Heidelberg
+%@ 978-3-540-69583-7
+%F 10.1007/3-540-63494-0_56
+%X In this paper, we indicate some possible applications of ILP or similar techniques in the knowledge discovery field, and then discuss several methods for adapting and linking ILP-systems to relational database systems. The proposed methods range from “pure ILP” to “based on techniques originating in ILP” We show that it is both easy and advantageous to adapt ILP-systems in this way.
+%P 199-211
+

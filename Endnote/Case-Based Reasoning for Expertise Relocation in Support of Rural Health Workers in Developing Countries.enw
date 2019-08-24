@@ -1,0 +1,14 @@
+%0 Conference Proceedings
+%T Case-based reasoning for expertise relocation in support of rural health workers in developing countries
+%A Opiyo, Elisha T. O.
+%Y Veloso, Manuela
+%Y Aamodt, Agnar
+%S Case-Based Reasoning Research and Development
+%D 1995
+%I Springer Berlin Heidelberg
+%C Berlin, Heidelberg
+%@ 978-3-540-48446-2
+%F 10.1007/3-540-60598-3_8
+%X Developing countries still suffer lack of adequate skilled medical health personnel and poor infrastructure. Expert systems have been identified as potential tools in addressing some aspects of these problems. In particular, most of the earlier researchers investigated the possibility of incorporating diagnostic-support applications in the medical work place. They did so by using expert systems that were built around representations such as production rules, frames, scripts and semantic networks. In this paper, a report on a different approach is given. A MEdical Reference SYstem(MERSY) is proposed. The basis of the design of MERSY is the case-based reasoning paradigm with some underlying domain model. This system therefore gets around the limitations of traditional expert systems that are related to knowledge representation and acquisition. The work also a emphasizes a high level of physical portability, hence the relocation of expertise. It is an on-going research.
+%P 77-87
+

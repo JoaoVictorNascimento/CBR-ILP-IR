@@ -1,0 +1,16 @@
+%0 Conference Proceedings
+%T Combining CBR with Interactive Knowledge Acquisition, Manipulation and Reuse⋆
+%A Leake, David B.
+%A Wilson, David C.
+%Y Althoff, Klaus-Dieter
+%Y Bergmann, Ralph
+%Y Branting, L.Karl
+%S Case-Based Reasoning Research and Development
+%D 1999
+%I Springer Berlin Heidelberg
+%C Berlin, Heidelberg
+%@ 978-3-540-48508-7
+%F 10.1007/3-540-48508-2_15
+%X Because of the complexity of aerospace design, intelligent systems to support and amplify the abilities of aerospace designers have the potential for profound impact on the speed and reliability of design generation. This article describes a framework for supporting the interactive capture of design cases and their application to new problems, illustrating the approach with a discussion of its use in a support system for aircraft design. The project integrates case-based reasoning with interactive tools for capturing expert design knowledge through “concept mapping.” Concept mapping tools provide crucial functions for interactively generating and examining design cases and navigating their hierarchical structure, while CBR techniques provide capabilities to facilitate retrieval and to aid interactive adaptation of designs. The project aims simultaneously to develop a useful design aid and more generally to develop practical interactive approaches to fundamental issues of case acquisition and representation, context-sensitive retrieval, and case adaptation.
+%P 203-217
+

@@ -1,0 +1,15 @@
+%0 Conference Proceedings
+%T Systematic Predicate Invention in Inductive Logic Programming
+%A Martin, Lionel
+%A Vrain, Christel
+%Y Lavrač, Nada
+%Y Džeroski, Sašo
+%S Inductive Logic Programming
+%D 1997
+%I Springer Berlin Heidelberg
+%C Berlin, Heidelberg
+%@ 978-3-540-69587-5
+%F 10.1007/3540635149_48
+%X We propose in this paper a new approach for learning predicate definitions from examples and from an initial theory. The particularity of this approach consists in inventing both a new predicate symbol and a specification for this predicate at most steps of learning. The specifications that are built are incomplete and imprecise, what is modelized by introducing the notion of a-interpretation. At the end of the learning task, some invented predicates are removed by unfolding techniques. The remaining predicates either enable to simplify the program, or are defined by recursive programs. In the second case, the program could not have been learned without inventing these predicates. The method has been implemented in a system, called SPILP, which has been successfully tested for inventing predicates which simplify the learned programs as well as for inventing recursively defined predicates. Let us point out that the introduction of σ-interpretations gives us a general framework for dealing with imprecise specifications and that SPILP can work, even when the target concepts are also incompletely defined by σ-interpretations.
+%P 189-204
+

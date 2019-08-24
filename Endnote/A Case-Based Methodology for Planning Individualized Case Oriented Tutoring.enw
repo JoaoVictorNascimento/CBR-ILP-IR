@@ -1,0 +1,15 @@
+%0 Conference Proceedings
+%T A Case-Based Methodology for Planning Individualized Case Oriented Tutoring
+%A Seitz, Alexander
+%Y Althoff, Klaus-Dieter
+%Y Bergmann, Ralph
+%Y Branting, L.Karl
+%S Case-Based Reasoning Research and Development
+%D 1999
+%I Springer Berlin Heidelberg
+%C Berlin, Heidelberg
+%@ 978-3-540-48508-7
+%F 10.1007/3-540-48508-2_23
+%X The presented methods allow the modeling of student skills by a history of how well a student has performed on a series of tutoring cases. By this means, the explicit representation of a student’s knowledge, which is especially difficult for case oriented systems, can be avoided. Moreover, case histories make it possible to model the improvement of student’s skills and thus can be used for retrieving and adapting appropriate tutoring plans for further tutoring cases.
+%P 318-328
+

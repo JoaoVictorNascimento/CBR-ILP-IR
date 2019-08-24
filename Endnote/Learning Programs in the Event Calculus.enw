@@ -1,0 +1,15 @@
+%0 Conference Proceedings
+%T Learning programs in the event calculus
+%A Moyle, Stephen
+%A Muggleton, Stephen
+%Y Lavrač, Nada
+%Y Džeroski, Sašo
+%S Inductive Logic Programming
+%D 1997
+%I Springer Berlin Heidelberg
+%C Berlin, Heidelberg
+%@ 978-3-540-69587-5
+%F 10.1007/3540635149_49
+%X The event calculus is a formalism for reasoning about actions and change in dynamic systems. It has been used in diverse areas including planning and communications protocol specification. Writing event calculus programs requires the construction of domain specific axioms (DSAs) - a programming task which is non-trivial, and one that hinders the broader use of the event calculus. This work demostrates that such axioms can be learned from temporal observations using Inductive Logic programming (ILP) techniques, in particular theory c0ompletion. The theory of logical back-propagation as a mechanism for theory completion is described and its implementation in the ILP system Progol is used here. These techniques were used to investigate learning DSAS for the traditional AI blocks world. In the experiments Progol, utilising logical back-propagation, learned correct DSAs. These results provide encouragement and highlight the possibility of discovering causal relationships from data in temporal databases, and also learning the domain specific knowledge necessary in the development of plans.
+%P 205-212
+

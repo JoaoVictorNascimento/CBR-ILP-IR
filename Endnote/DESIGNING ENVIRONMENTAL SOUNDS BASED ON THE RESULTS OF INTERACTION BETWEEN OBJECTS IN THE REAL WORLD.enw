@@ -1,0 +1,23 @@
+%0 Book Section
+%T Designing Environmental Sounds Based on the Results of Interaction Between Objects in the Real World
+%A Darvishi, A.
+%A Munteanu, E.
+%A Guggiana, V.
+%A Schauer, H.
+%A Motavalli, M.
+%A Rauterberg, M.
+%E Nordby, Knut
+%E Helmersen, Per
+%E Gilmore, David J.
+%E Arnesen, Svein A.
+%B Human—Computer Interaction: Interact ’95
+%D 1995
+%I Springer US
+%C Boston, MA
+%@ 978-1-5041-2896-4
+%F Darvishi1995
+%X This paper presents an object oriented layered software architecture for describing and designing environmental (everyday) sounds in user interfaces based on a new sound model (audio framework). This new architecture is defined by different layers including the physical layer, system sound software layer, sound analyser/synthesiser layer and the interface layer. The sound model described can be used as the basic design of environmental sounds in user interfaces. This paper describes the different components: physical modelling, interaction, context sensitivity, and metaphorical description. In the paper the term audio framework is ultimately used for the sound model presented. This paper first provides an overview of existing approaches for modelling environmental sounds, then presents the new audio framework, a comparison between real and model generated sounds and finally discusses potential applications.
+%R 10.1007/978-1-5041-2896-4_6
+%U https://doi.org/10.1007/978-1-5041-2896-4_6
+%P 38-42
+

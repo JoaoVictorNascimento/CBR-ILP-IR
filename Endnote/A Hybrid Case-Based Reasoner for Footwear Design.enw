@@ -1,0 +1,16 @@
+%0 Conference Proceedings
+%T A Hybrid Case-Based Reasoner for Footwear Design
+%A Main, Julie
+%A Dillon, Tharam S.
+%Y Althoff, Klaus-Dieter
+%Y Bergmann, Ralph
+%Y Branting, L.Karl
+%S Case-Based Reasoning Research and Development
+%D 1999
+%I Springer Berlin Heidelberg
+%C Berlin, Heidelberg
+%@ 978-3-540-48508-7
+%F 10.1007/3-540-48508-2_36
+%X This paper details the way case-based reasoning has been used to aid footwear designers in creating new designs while maximizing component reuse. A hybrid system was created which uses an object-oriented memory model, neural networks for retrieval and fuzzy feature vectors to augment the basic case-based reasoning model. One of the main tasks involved in the design of any case-based system is determining the features that make up a case and finding a way to index these cases in a case-base for efficient and correct retrieval. This paper looks at the components of this footwear design system and how the various elements join together to create a useful system, in particular, how the use of fuzzy feature vectors and neural networks can improve the indexing and retrieval steps in case-based systems.
+%P 497-509
+

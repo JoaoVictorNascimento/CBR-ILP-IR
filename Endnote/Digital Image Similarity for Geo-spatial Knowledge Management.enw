@@ -1,0 +1,16 @@
+%0 Conference Proceedings
+%T Digital Image Similarity for Geo-spatial Knowledge Management
+%A Carswell, James D.
+%A Wilson, David C.
+%A Bertolotto, Michela
+%Y Craw, Susan
+%Y Preece, Alun
+%S Advances in Case-Based Reasoning
+%D 2002
+%I Springer Berlin Heidelberg
+%C Berlin, Heidelberg
+%@ 978-3-540-46119-7
+%F 10.1007/3-540-46119-1_6
+%X The amount and availability of high-quality geo-spatial image data, such as digital satellite and aerial photographs, is increasing dramatically. Task-based management of such visual information and associated knowledge is a central concern for organisations that rely on digital imagery. We are developing geo-spatial knowledge management techniques that employ case-based reasoning as the core methodology. In order to provide effective retrieval of task-based experiences that center around geo-spatial imagery, we need to forward novel similarity metrics for directly comparing the image components of experience cases. Based on work in geo-spatial image database retrieval, we are building an effective similarity metric for geo-spatial imagery that makes comparisons based on derived image features, their shapes, and the spatial relations between them. This paper gives an overview of the geo-spatial knowledge management context, describes our image similarity metric, and provides an initial evaluation of the work.
+%P 58-72
+

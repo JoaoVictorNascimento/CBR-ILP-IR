@@ -1,0 +1,16 @@
+%0 Conference Proceedings
+%T Morphosyntactic Tagging of Slovene Using Progol
+%A Cussens, James
+%A Džeroski, Sašo
+%A Erjavec, Tomaž
+%Y Džeroski, Sašo
+%Y Flach, Peter
+%S Inductive Logic Programming
+%D 1999
+%I Springer Berlin Heidelberg
+%C Berlin, Heidelberg
+%@ 978-3-540-48751-7
+%F 10.1007/3-540-48751-4_8
+%X We consider the task of tagging Slovene words with morphosyntactic descriptions (MSDs). MSDs contain not only part-of-speech information but also attributes such as gender and case. In the case of Slovene there are 2,083 possible MSDs. P-Progol was used to learn morphosyntactic disambiguation rules from annotated data (consisting of 161,314 examples) produced by the MULTEXT-East project. P-Progol produced 1,148 rules taking 36 hours. Using simple grammatical background knowledge, e.g. looking for case disagreement, P-Progol induced 4,094 clauses in eight parallel runs. These rules have proved effective at detecting and explaining incorrect MSD annotations in an independent test set, but have not so far produced a tagger comparable to other existing taggers in terms of accuracy.
+%P 68-79
+

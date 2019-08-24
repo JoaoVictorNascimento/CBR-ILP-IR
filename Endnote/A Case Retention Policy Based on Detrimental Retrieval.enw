@@ -1,0 +1,15 @@
+%0 Conference Proceedings
+%T A Case Retention Policy based on Detrimental Retrieval
+%A Muñoz-Avila, Héctor
+%Y Althoff, Klaus-Dieter
+%Y Bergmann, Ralph
+%Y Branting, L.Karl
+%S Case-Based Reasoning Research and Development
+%D 1999
+%I Springer Berlin Heidelberg
+%C Berlin, Heidelberg
+%@ 978-3-540-48508-7
+%F 10.1007/3-540-48508-2_20
+%X This paper presents a policy to retain new cases based on retrieval benefits for case-based planning (CBP). After each case-based problem solving episode, an analysis of the adaptation effort is made to evaluate the guidance provided by the retrieved cases. If the guidance is determined to be detrimental, the obtained solution is retain as a new case in the case base. Otherwise, if the retrieval is beneficial, the case base remains unchanged. We will observe that the notion of adaptable cases is not adequate to address the competence of a case base in the context of CBP. Instead, we claim that the notion of detrimental retrieval is more adequate. We compare our retain policy against two policies in the CBP literature and claim that our policy to retain cases based on the benefits is more effective. Our claim is supported by empirical validation.
+%P 276-287
+

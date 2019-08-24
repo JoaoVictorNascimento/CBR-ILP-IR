@@ -1,0 +1,19 @@
+%0 Conference Proceedings
+%T A Cross-Modal Electronic Travel Aid Device
+%A Fontana, F.
+%A Fusiello, A.
+%A Gobbi, M.
+%A Murino, V.
+%A Rocchesso, D.
+%A Sartor, L.
+%A Panuccio, A.
+%Y Paternò, Fabio
+%S Human Computer Interaction with Mobile Devices
+%D 2002
+%I Springer Berlin Heidelberg
+%C Berlin, Heidelberg
+%@ 978-3-540-45756-5
+%F 10.1007/3-540-45756-9_46
+%X This paper describes the design of an Electronic Travel Aid device, that will enable blind individuals to “see the world with their ears.” A wearable prototype will be assembled using low-cost hardware: earphones, sunglasses fitted with two CMOS micro cameras, and a palmtop computer. Currently, the system is able to detect the light spot produced by a laser pointer, compute its angular position and depth, and generate a correspondent sound providing the auditory cues for the perception of the position and distance of the pointed surface. In this way the blind person can use a common pointer as a replacement of the cane.
+%P 393-397
+

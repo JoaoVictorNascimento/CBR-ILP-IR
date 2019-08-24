@@ -1,0 +1,16 @@
+%0 Conference Proceedings
+%T Representing Temporal Knowledge for Case-Based Prediction
+%A Jære, Martha Dørum
+%A Aamodt, Agnar
+%A Skalle, Pål
+%Y Craw, Susan
+%Y Preece, Alun
+%S Advances in Case-Based Reasoning
+%D 2002
+%I Springer Berlin Heidelberg
+%C Berlin, Heidelberg
+%@ 978-3-540-46119-7
+%F 10.1007/3-540-46119-1_14
+%X Cases are descriptions of situations limited in time and space. The research reported here introduces a method for representation and reasoning with time-dependent situations, or temporal cases, within a knowledge-intensive CBR framework. Most current CBR methods deal with snapshot cases, descriptions of a world state at a single time stamp. In many time-dependent situations, value sets at particular time points are less important than the value changes over some interval of time. Our focus is on prediction problems for avoiding faulty situations. Based on a well-established theory of temporal intervals, we have developed a method for representing temporal cases inside the knowledge-intensive CBR system Creek. The paper presents the theoretical foundation of the method, the representation formalism and basic reasoning algorithms, and an example applied to the prediction of unwanted events in oil well drilling.
+%P 174-188
+

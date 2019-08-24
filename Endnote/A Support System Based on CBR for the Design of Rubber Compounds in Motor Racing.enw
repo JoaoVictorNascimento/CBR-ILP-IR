@@ -1,0 +1,15 @@
+%0 Conference Proceedings
+%T A Support System Based on CBR for the Design of Rubber Compounds in Motor Racing
+%A Bandini, Stefania
+%A Manzoni, Sara
+%Y Blanzieri, Enrico
+%Y Portinale, Luigi
+%S Advances in Case-Based Reasoning
+%D 2000
+%I Springer Berlin Heidelberg
+%C Berlin, Heidelberg
+%@ 978-3-540-44527-2
+%F 10.1007/3-540-44527-7_30
+%X This work presents P-Race, a knowledge-based system developed for the Motorsports Department of Pirelli Tyres. The system supports the formulation of rubber compounds of tyre tread, in order to take part (and win) in motor racing. Multiple knowledge representations have been adopted and integrated into a single Case-Based Reasoning (CBR) computational framework in order to capture the different competence involved in the decision making process. Moreover, a dedicated representation formalism called Abstract Compounds Machine (ACM) has been introduced in order to represent, compute, and integrate in the CBR architecture the core knowledge regarding rubber compounds. The result is a general case-based architecture where the adaptation step is demanded to a component based on the ACM model.
+%P 348-357
+

@@ -1,0 +1,15 @@
+%0 Conference Proceedings
+%T Strongly typed inductive concept learning
+%A Flach, P. A.
+%A Giraud-Carrier, C.
+%A Lloyd, J. W.
+%Y Page, David
+%S Inductive Logic Programming
+%D 1998
+%I Springer Berlin Heidelberg
+%C Berlin, Heidelberg
+%@ 978-3-540-69059-7
+%F 10.1007/BFb0027322
+%X In this paper we argue that the use of a language with a type system, together with higher-order facilities and functions, provides a suitable basis for knowledge representation in inductive concept learning and, in particular, illu minates the relationship between attribute-value learning and inductive logic programming (ILP). Individuals are represented by closed terms: tuples of constants in the case of attribute-value learning; arbitrarily complex terms in the case of ILP. To illustrate the point, we take some learning tasks from the machine learning and ILP literature and represent them in Escher, a typed, higher-order, functional logic programming language being developed at the University of Bristol. We argue that the use of a type system provides better ways to discard meaningless hypotheses on syntactic grounds and encompasses many ad hoc approaches to declarative bias.
+%P 185-194
+

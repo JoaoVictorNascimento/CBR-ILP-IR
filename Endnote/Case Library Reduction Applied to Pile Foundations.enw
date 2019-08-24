@@ -1,0 +1,17 @@
+%0 Conference Proceedings
+%T Case Library Reduction Applied to Pile Foundations
+%A Lei, Celestino
+%A Babka, Otakar
+%A Garanito, Laurinda A. G.
+%Y Althoff, Klaus-Dieter
+%Y Bergmann, Ralph
+%Y Branting, L.Karl
+%S Case-Based Reasoning Research and Development
+%D 1999
+%I Springer Berlin Heidelberg
+%C Berlin, Heidelberg
+%@ 978-3-540-48508-7
+%F 10.1007/3-540-48508-2_17
+%X The case-based reasoning paradigm is applied in support of decision making processes related to pile foundations. Based on this paradigm, the system accumulates experience from previously realized pile foundations. This experience can be drawn when new situations with similar attributes of geotechnical situation of the site and geometric characteristics of the piles are encountered. Two case libraries were created based on previously realized sites. The representativeness of the case libraries and the efficiency of the search process are facilitated by the use of a genetic algorithm reduction.
+%P 233-247
+

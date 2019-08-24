@@ -1,0 +1,16 @@
+%0 Conference Proceedings
+%T Efficient Similarity Determination and Case Construction Techniques for Case-Based Reasoning
+%A Patterson, David W.
+%A Rooney, Niall
+%A Galushka, Mykola
+%Y Craw, Susan
+%Y Preece, Alun
+%S Advances in Case-Based Reasoning
+%D 2002
+%I Springer Berlin Heidelberg
+%C Berlin, Heidelberg
+%@ 978-3-540-46119-7
+%F 10.1007/3-540-46119-1_22
+%X In this paper, we present three techniques for knowledge discovery in case-based reasoning. The first two techniques D-HS and D-HS+SR are concerned with the discovery of similarity knowledge and operate on an uncompacted case-base while the third technique D-HS+PSR is concerned with the discovery of both similarity and case knowledge and operates on a compacted case-base. All three techniques provide a very efficient and competent means of similarity determination in CBR, which are empirically shown to be up to 25 times faster than k-NN without any loss in competency. D-HS+PSR proposes a novel approach to automatically engineering compact case-bases with a minimal overhead to the system, compared to other approaches such as case deletion/addition. Additionally as the approach provides a means for automatically reducing the number of cases required in the case-base without any loss in problem solving competency it has the greatest implication of the three techniques for reducing the effects of the utility problem in CBR.
+%P 292-305
+

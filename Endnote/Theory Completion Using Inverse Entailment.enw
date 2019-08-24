@@ -1,0 +1,15 @@
+%0 Conference Proceedings
+%T Theory Completion Using Inverse Entailment
+%A Muggleton, Stephen H.
+%A Bryant, Christopher H.
+%Y Cussens, James
+%Y Frisch, Alan
+%S Inductive Logic Programming
+%D 2000
+%I Springer Berlin Heidelberg
+%C Berlin, Heidelberg
+%@ 978-3-540-44960-7
+%F 10.1007/3-540-44960-4_8
+%X The main real-world applications of Inductive Logic Programming (ILP) to date involve the “Observation Predicate Learning” (OPL) assumption, in which both the examples and hypotheses define the same predicate. However, in both scientific discovery and language learning potential applications exist in which OPL does not hold. OPL is ingrained within the theory and performance testing of Machine Learning. A general ILP technique called “Theory Completion using Inverse Entailment” (TCIE) is introduced which is applicable to non-OPL applications. TCIE is based on inverse entailment and is closely allied to abductive inference. The implementation of TCIE within Progol5.0 is described. The implementation uses contra-positives in a similar way to Stickel’s Prolog Technology Theorem Prover. Progol5.0 is tested on two different data-sets. The first dataset involves a grammar which translates numbers to their representation in English. The second dataset involves hypothesising the function of unknown genes within a network of metabolic pathways. On both datasets near complete recovery of performance is achieved after relearning when randomly chosen portions of background knowledge are removed. Progol5.0’s running times for experiments in this paper were typically under 6 seconds on a standard laptop PC.
+%P 130-146
+

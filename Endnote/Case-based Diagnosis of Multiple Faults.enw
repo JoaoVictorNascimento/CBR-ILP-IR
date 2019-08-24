@@ -1,0 +1,14 @@
+%0 Conference Proceedings
+%T Case-based diagnosis of multiple faults
+%A Deters, Ralph
+%Y Veloso, Manuela
+%Y Aamodt, Agnar
+%S Case-Based Reasoning Research and Development
+%D 1995
+%I Springer Berlin Heidelberg
+%C Berlin, Heidelberg
+%@ 978-3-540-48446-2
+%F 10.1007/3-540-60598-3_37
+%X In order to maintain complex technical systems e.g. a telecommunication network, a rapid and precise recognition of faults and critical situations is required. But the large number of different components, the high degree of interdependencies among the components and the permanent changes in these systems make the diagnosis of faults and critical situations difficult.
+%P 411-420
+

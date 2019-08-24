@@ -1,0 +1,21 @@
+%0 Conference Proceedings
+%T An Application of Case-Based Reasoning to the Adaptive Management of Wireless Networks
+%A Barbera, Massimo
+%A Barbero, Cristina
+%A Dal Zovo, Paola
+%A Farinaccio, Fernanda
+%A Gkroustiotis, Evangelos
+%A Kyriazakos, Sofoklis
+%A Mura, Ivan
+%A Previti, Gianluca
+%Y Craw, Susan
+%Y Preece, Alun
+%S Advances in Case-Based Reasoning
+%D 2002
+%I Springer Berlin Heidelberg
+%C Berlin, Heidelberg
+%@ 978-3-540-46119-7
+%F 10.1007/3-540-46119-1_36
+%X This paper describes an innovative application of Case-Based Reasoning methodologies for the dynamic management of wireless telecommunications systems. In spite of the very dynamic nature of mobile communications, wireless networks only possess limited adaptive management capabilities, which are unable to adequately follow traffic fluctuations through flexible and real-time resource assignment reconfigurations. The study described in this paper is an attempt to improve over these limitations, by allowing wireless networks to alleviate the effects of traffic overloads through an automated reasoning about its performance levels and an on-the-fly reconfiguration of resources assignment. The proposed Case-Based Reasoning approach provides a suitable framework to define a simple and scalable solution that easily incorporates the preferences of the network operators.
+%P 490-504
+

@@ -1,0 +1,14 @@
+%0 Conference Proceedings
+%T Distance induction in first order logic
+%A Sebag, Michèle
+%Y Lavrač, Nada
+%Y Džeroski, Sašo
+%S Inductive Logic Programming
+%D 1997
+%I Springer Berlin Heidelberg
+%C Berlin, Heidelberg
+%@ 978-3-540-69587-5
+%F 10.1007/3540635149_55
+%X A distance on the problem domain allows one to tackle some typical goals of machine learning, e.g. classification or conceptual clustering, via robust data analysis algorithms (e.g. k-nearest neighbors or k-means).
+%P 264-272
+

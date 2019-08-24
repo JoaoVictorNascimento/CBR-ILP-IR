@@ -1,0 +1,16 @@
+%0 Conference Proceedings
+%T Similarity Guided Learning of the Case Description and Improvement of the System Performance in an Image Classification System
+%A Perner, Petra
+%A Perner, Horst
+%A Müller, Bernd
+%Y Craw, Susan
+%Y Preece, Alun
+%S Advances in Case-Based Reasoning
+%D 2002
+%I Springer Berlin Heidelberg
+%C Berlin, Heidelberg
+%@ 978-3-540-46119-7
+%F 10.1007/3-540-46119-1_44
+%X The development of an automatic image classification system is a hard problem since such a system must imitate the visual strategy of a human expert when interpreting the particular image. Usually it is not easy to make this strategy explicit. Rather than describing the visual strategy and the image features human are able to judge the similarity between the objects. This judgement can be the basis for a guideline of the development process. This guideline can help the developer to understand what kind of case description/features are necessary for a sufficient system performance and can give an idea what system performance can be achieved. In the paper we describe a novel strategy which can support a developer in building image classification systems. The development process as well as the elicitation of the case description is similarity-guided. Based on the similarity between the objects the system developer can provide new image features and improve the system performance until a system performance is reached that fits to the experts understanding about the relationship among the different objects.
+%P 604-612
+

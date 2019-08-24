@@ -1,0 +1,15 @@
+%0 Conference Proceedings
+%T How case-based reasoning and cooperative query answering techniques support RICAD
+%A Daengdej, Jirapun
+%A Lukose, Dickson
+%Y Leake, David B.
+%Y Plaza, Enric
+%S Case-Based Reasoning Research and Development
+%D 1997
+%I Springer Berlin Heidelberg
+%C Berlin, Heidelberg
+%@ 978-3-540-69238-6
+%F 10.1007/3-540-63233-6_502
+%X Many Case-Based Reasoning (CBR) systems are built using the conventional database systems as their case memory. Even though these Database Management Systems (DBMSs) provide a large number of advantages, CBR systems developers face one major draw back. That is, partial-match retrieval is not supported by most of the conventional DBMSs. To overcome this limitation, we investigated contemporary research in CBR and Cooperative Query Answering (CQA). Our finding indicates that there are a number of issues in CQA that can be solved by applying some of the innovative techniques developed by the CBR community, on the other hand, the CQA provide a number of new features which enable easy development of CBR systems. The main contribution of this paper is in explicating how CBR can benefit from the CQA research, and how CQA techniques can enhance the CBR systems. Further, it describes the CQA features in RICAD (Risk Cost Advisor, our experimental CBR system), and how these features enhance its performance.
+%P 315-324
+

@@ -1,0 +1,14 @@
+%0 Conference Proceedings
+%T Solution-relevant abstractions constrain retrieval and adaptation
+%A Melis, Erica
+%Y Leake, David B.
+%Y Plaza, Enric
+%S Case-Based Reasoning Research and Development
+%D 1997
+%I Springer Berlin Heidelberg
+%C Berlin, Heidelberg
+%@ 978-3-540-69238-6
+%F 10.1007/3-540-63233-6_508
+%X Two major problems in case-based reasoning are the efficient and justified retrieval of source cases and the adaptation of retrieved solutions to the conditions of the target. For analogical theorem proving by induction, we describe how a solution-relevant abstraction can restrict the retrieval of source cases and the mapping from the source problem to the target problem and how it can determine reformulations that further adapt the source solution.
+%P 383-392
+

@@ -1,0 +1,17 @@
+%0 Conference Proceedings
+%T Cse-Based Quality Management System using Expectation Values
+%A Taki, Hirokazu
+%A Hori, Satoshi
+%A Abe, Norihiro
+%Y Althoff, Klaus-Dieter
+%Y Bergmann, Ralph
+%Y Branting, L.Karl
+%S Case-Based Reasoning Research and Development
+%D 1999
+%I Springer Berlin Heidelberg
+%C Berlin, Heidelberg
+%@ 978-3-540-48508-7
+%F 10.1007/3-540-48508-2_42
+%X This paper describes a quality management system (called CBQM: Case-Based Quality Management) using the case-based reasoning mechanism which is based on a cost expectation value. The cost expectation value is calculated from objective and subjective values. We developed a quality management system that emplys a stochastic method. However, in some cases, this stochastic-based system failed to select good cases. Therefore, we have integrated some expectation values into the case selection mechanism. The CBQM has an expectation measurement. Its case selection criteria use not only similarity, but also some expectation values. If unforeseen malfunctions may occur due to inappropriate design, manufacturing condition and/or unsuitable usage, the similarity is not enough to select useful cases from a casebase. That is because the similarity is mainly based on products themselves. The CBQM adopts the cost expectation value in order to pick up useful cases. The CBQM’s selection criteria is based on the wuality of cases, which considers repair time, repair part cost, trouble recurrence, the confidence of diagnosis and repair difficulty. We validated this system in real product repair problems which field servive engineers repair home appliances.
+%P 572-580
+

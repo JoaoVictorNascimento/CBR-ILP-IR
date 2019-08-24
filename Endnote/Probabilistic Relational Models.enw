@@ -1,0 +1,14 @@
+%0 Conference Proceedings
+%T Probabilistic Relational Models
+%A Koller, Daphne
+%Y Džeroski, Sašo
+%Y Flach, Peter
+%S Inductive Logic Programming
+%D 1999
+%I Springer Berlin Heidelberg
+%C Berlin, Heidelberg
+%@ 978-3-540-48751-7
+%F 10.1007/3-540-48751-4_1
+%X Probabilistic models provide a sound and coherent foundation for dealing with the noise and uncertainty encountered in most real- world domains. Bayesian networks are a language for representing complex probabilistic models in a compact and natural way. A Bayesian network can be used to reason about any attribute in the domain, given any set of observations. It can thus be used for a variety tasks, including prediction, explanation, and decision making. The probabilistic seman- tics also gives a strong foundation for the task of learning models from data. Techniques currently exist for learning both the structure and the parameters, for dealing with missing data and hidden variables, and for discovering causal structure.
+%P 3-13
+

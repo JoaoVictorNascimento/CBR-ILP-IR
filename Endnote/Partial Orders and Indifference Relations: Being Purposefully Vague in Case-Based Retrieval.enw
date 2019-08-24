@@ -1,0 +1,15 @@
+%0 Conference Proceedings
+%T Partial Orders and Indifference Relations: Being Purposefully Vague in Case-Based Retrieval
+%A Ferguson, Alex
+%A Bridge, Derek
+%Y Blanzieri, Enrico
+%Y Portinale, Luigi
+%S Advances in Case-Based Reasoning
+%D 2000
+%I Springer Berlin Heidelberg
+%C Berlin, Heidelberg
+%@ 978-3-540-44527-2
+%F 10.1007/3-540-44527-7_8
+%X In this paper, we look at case retrieval systems for product selection. Such systems are interactive. This places demands on the technology: customers must be able to specify their requirements in ways that are meaningful to them; and, the cases that are retrieved must be comprehensible in terms of the customer requirements. To meet these demands, we introduce to case retrieval the notions of similarity metrics with partially- ordered return types and of relations that express indifference between degrees of similarity.
+%P 74-85
+

@@ -1,0 +1,19 @@
+%0 Conference Proceedings
+%T Discovering New Knowledge from Graph Data Using Inductive Logic Programming
+%A Miyahara, Tetsuhiro
+%A Shoudai, Takayoshi
+%A Uchida, Tomoyuki
+%A Kuboyama, Tetsuji
+%A Takahashi, Kenichi
+%A Ueda, Hiroaki
+%Y Džeroski, Sašo
+%Y Flach, Peter
+%S Inductive Logic Programming
+%D 1999
+%I Springer Berlin Heidelberg
+%C Berlin, Heidelberg
+%@ 978-3-540-48751-7
+%F 10.1007/3-540-48751-4_21
+%X We present a method for discovering new knowledge from structural data which are represented by graphs in the framework of inductive logic programming. A graph, or network, is widely used for representing relations between various data and expressing a small and easily understandable hypothesis. Formal Graph System (FGS) is a kind of logic programming system which directly deals with graphs just like first order terms. By employing refutably inductive inference algorithms and graph algorithmic techniques, we are developing a knowledge discovery system KD-FGS, which acquires knowledge directly from graph data by using FGS as a knowledge representation language.
+%P 222-233
+

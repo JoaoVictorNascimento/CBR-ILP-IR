@@ -1,0 +1,16 @@
+%0 Conference Proceedings
+%T Genetic Algorithms to Optimise CBR Retrieval
+%A Jarmulak, Jacek
+%A Craw, Susan
+%A Rowe, Ray
+%Y Blanzieri, Enrico
+%Y Portinale, Luigi
+%S Advances in Case-Based Reasoning
+%D 2000
+%I Springer Berlin Heidelberg
+%C Berlin, Heidelberg
+%@ 978-3-540-44527-2
+%F 10.1007/3-540-44527-7_13
+%X Knowledge in a case-based reasoning (CBR) system is often more extensive than simply the cases, therefore knowledge engineering may still be very demanding. This paper offers a first step towards an automated knowledge acquisition and refinement tool for non-case CBR knowledge. A data-driven approach is presented where a Genetic Algorithm learns effective feature selection for inducing case-base index, and feature weights for similarity measure for case retrieval. The optimisation can be viewed as knowledge acquisition or maintenance depending on whether knowledge is being created or refined. Optimising CBRretrieval is achieved using cases from the case-base and only minimal expert input, and so can be easily applied to an evolving case-base or a changing environment. Experiments with a real tablet formulation problem show the gains of simultaneously optimising the index and similarity measure. Provided that the available data represents the problem domain well, the optimisation has good generalisation properties and the domain knowledge extracted is comparable to expert knowledge.
+%P 136-147
+

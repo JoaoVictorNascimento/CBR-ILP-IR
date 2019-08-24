@@ -1,0 +1,14 @@
+%0 Conference Proceedings
+%T Relational distance-based clustering
+%A Kirsten, Mathias
+%A Wrobel, Stefan
+%Y Page, David
+%S Inductive Logic Programming
+%D 1998
+%I Springer Berlin Heidelberg
+%C Berlin, Heidelberg
+%@ 978-3-540-69059-7
+%F 10.1007/BFb0027330
+%X Work on first-order clustering has primarily been focused on the task of conceptual clustering, i.e., forming clusters with symbolic generalizations in the given representation language. By contrast, for propositional representations, experience has shown that simple algorithms based exclusively on distance measures can often outperform their concept-based counterparts. In this paper, we therefore build on recent advances in the area of first-order distance metrics and present RDBC, a bottom-up agglomerative clustering algorithm for first-order representations that relies on distance information only and features a novel parameter-free pruning measure for selecting the final clustering from the cluster tree. The algorithm can empirically be shown to produce good clusterings (on the mutagenesis domain) that, when used for subsequent prediction tasks, improve on previous clustering results and approach the accuracies of dedicated predictive learners.
+%P 261-270
+

@@ -1,0 +1,17 @@
+%0 Conference Proceedings
+%T A Unified Long-Term Memory System⋆
+%A Lawton, James H.
+%A Turner, Roy M.
+%A Turner, Elise H.
+%Y Althoff, Klaus-Dieter
+%Y Bergmann, Ralph
+%Y Branting, L.Karl
+%S Case-Based Reasoning Research and Development
+%D 1999
+%I Springer Berlin Heidelberg
+%C Berlin, Heidelberg
+%@ 978-3-540-48508-7
+%F 10.1007/3-540-48508-2_14
+%X Memory-based reasoning systems are a class of reasoners that derive solutions to new problems based on past experiences. Such reasoners use a long-term memory (LTM) to act as a knowledge base of these past experiences, which may be represented by such things as specific events (i.e. cases), plans, scripts, etc. This paper describes a Unified Long-Term Memory (ULTM) system, which is a dynamic, conceptual memory that was designed to be a general LTM capable of simultaneously supporting multiple intentional reasoning systems. Through a unique mixture of content-independent and domain-specific mechanisms, the ULTM is able to flexibly provide reasoners accurate and timely storage and recall of episodic memory structures. In addition, the ULTM provides support for recognizing opportunities to satisfy suspended goals, allowing reasoning systems to better cope with the unpredictability of dynamic real-world domains by helping them take advantage of unexpected events.
+%P 188-202
+

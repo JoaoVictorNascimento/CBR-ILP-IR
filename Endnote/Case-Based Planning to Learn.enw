@@ -1,0 +1,16 @@
+%0 Conference Proceedings
+%T Case-based planning to learn
+%A Murdock, J. William
+%A Shippey, Gordon
+%A Ram, Ashwin
+%Y Leake, David B.
+%Y Plaza, Enric
+%S Case-Based Reasoning Research and Development
+%D 1997
+%I Springer Berlin Heidelberg
+%C Berlin, Heidelberg
+%@ 978-3-540-69238-6
+%F 10.1007/3-540-63233-6_516
+%X Learning can be viewed as a problem of planning a series of modifications to memory. We adopt this view of learning and propose the applicability of the case-based planning methodology to the task of planning to learn. We argue that relatively simple, fine-grained primitive inferential operators are needed to support flexible planning. We show that it is possible to obtain the benefits of case-based reasoning within a planning to learn framework.
+%P 467-476
+

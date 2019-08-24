@@ -1,0 +1,15 @@
+%0 Conference Proceedings
+%T REMEX - A Case-Based Approach for Reusing Software Measurement Experienceware
+%A von GresseWangenheim, Christiane
+%Y Althoff, Klaus-Dieter
+%Y Bergmann, Ralph
+%Y Branting, L.Karl
+%S Case-Based Reasoning Research and Development
+%D 1999
+%I Springer Berlin Heidelberg
+%C Berlin, Heidelberg
+%@ 978-3-540-48508-7
+%F 10.1007/3-540-48508-2_13
+%X For the improvement of software quality and productivity, organizations need to systematically build up and reuse software engineering know-how, promoting organizational learning in software development. Therefore, an integrated support platform has to be developed for capturing, storing and retrieving software engineering knowledge. Technical support is complicated through specific characteristics of the software engineering domain, such as the lack of explicit domain models in practice and the diversity of environments. Applying Case-Based Reasoning, we propose an approach for the representation of relevant software engineering experiences, the goal-oriented and similarity-based retrieval tailorable to organization-specific characteristics and the continuous acquisition of new experiences. The approach is applied and validated in the context of the Goal/Question/Metric (GQM) approach, an innovative technology for software measurement.
+%P 173-187
+

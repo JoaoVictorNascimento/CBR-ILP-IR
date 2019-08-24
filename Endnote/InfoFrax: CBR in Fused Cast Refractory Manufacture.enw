@@ -1,0 +1,17 @@
+%0 Conference Proceedings
+%T InfoFrax: CBR in Fused Cast Refractory Manufacture
+%A Khemani, Deepak
+%A Selvamani, Radhika B.
+%A Dhar, Ananda Rabi
+%A Michael, S. M.
+%Y Craw, Susan
+%Y Preece, Alun
+%S Advances in Case-Based Reasoning
+%D 2002
+%I Springer Berlin Heidelberg
+%C Berlin, Heidelberg
+%@ 978-3-540-46119-7
+%F 10.1007/3-540-46119-1_41
+%X This paper describes a CBR application in manufacturing industry, a domain where CBR has by and large proved its applicability and success. The paper details a thorough understanding of the field of fused cast manufacturing basically seen from the perspective of glass furnace, where quality of glass produced is straightaway related to the refractory blocks used in furnace linings. The applicability of CBR paradigm is revisited in the present context. The CBR process needed is conceptualized and designed. The paper describes the evolution of the system beginning with tackling hurdles of knowledge acquisition, a number of pitfalls in the prototype phase, to final implementation of InfoFrax, the CBR system specially devised for the project. It gives an overall description of the architecture and usage. The paper also reports the immediate response to the software in form of direct user feedback, expectations from the existing system, and some future work already underway in the project.
+%P 560-574
+

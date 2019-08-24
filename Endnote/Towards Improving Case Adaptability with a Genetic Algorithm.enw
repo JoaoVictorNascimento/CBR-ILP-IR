@@ -1,0 +1,15 @@
+%0 Conference Proceedings
+%T Towards improving case adaptability with a genetic algorithm
+%A Purvis, Lisa
+%A Athalye, Salil
+%Y Leake, David B.
+%Y Plaza, Enric
+%S Case-Based Reasoning Research and Development
+%D 1997
+%I Springer Berlin Heidelberg
+%C Berlin, Heidelberg
+%@ 978-3-540-69238-6
+%F 10.1007/3-540-63233-6_510
+%X Case combination is a difficult problem in Case Based Reasoning, as sub-cases often exhibit conflicts when merged together. In our previous work we formalized case combination by representing each case as a constraint satisfaction problem, and used the minimum conflicts algorithm to systematically synthesize the global solution. However, we also found instances of the problem in which the minimum conflicts algorithm does not perform case combination efficiently. In this paper we describe those situations in which initially retrieved cases are not easily adaptable, and propose a method by which to improve case adaptability with a genetic algorithm. We introduce a fitness function that maintains as much retrieved case information as possible, while also perturbing a sub-solution to allow subsequent case combination to proceed more efficiently.
+%P 403-412
+

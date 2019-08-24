@@ -1,0 +1,17 @@
+%0 Conference Proceedings
+%T A Product Customization Module Based on Adaptation Operators for CBR Systems in E-Commerce Environments
+%A Schmitt, Sascha
+%A Maximini, Rainer
+%A Landeck, Gerhard
+%A Hohwiller, Jörg
+%Y Blanzieri, Enrico
+%Y Portinale, Luigi
+%S Advances in Case-Based Reasoning
+%D 2000
+%I Springer Berlin Heidelberg
+%C Berlin, Heidelberg
+%@ 978-3-540-44527-2
+%F 10.1007/3-540-44527-7_43
+%X Existing electronic shops based on CBR technology allow customers to search for adequate products by only specifying the attributes for the products in a fuzzy way. Unfortunately, most electronic shops do not further support customers after the retrieval step. However, especially configurable products could be customized at this stage. Based on the approach of interactive adaptation operators, we present a flexible system architecture for a customization module which can be easily integrated in electronic shops. Our approach of a modular adaptation concept is implemented and currently tested within the ESPRIT project WEBSELL 1
+%P 504-516
+

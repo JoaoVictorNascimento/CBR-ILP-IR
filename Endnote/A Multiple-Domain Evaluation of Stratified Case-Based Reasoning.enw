@@ -1,0 +1,16 @@
+%0 Conference Proceedings
+%T A Multiple-Domain Evaluation of Stratified Case-Based Reasoning
+%A Branting, L.Karl
+%A Tao, Yi
+%Y Althoff, Klaus-Dieter
+%Y Bergmann, Ralph
+%Y Branting, L.Karl
+%S Case-Based Reasoning Research and Development
+%D 1999
+%I Springer Berlin Heidelberg
+%C Berlin, Heidelberg
+%@ 978-3-540-48508-7
+%F 10.1007/3-540-48508-2_4
+%X Stratified case-based reasoning (SCBR) is a technique in which case abstractions are used to assist case retrieval, matching, and adaptation. Previous work has shown that SCBR can significantly decrease the computational expense required for retrieval, matching, and adaptation under a variety of different problem conditions. This paper extends this work to two new domains: a problem in combinatorial optimization, sorting by prefix reversal; and logistics planning. An empirical evaluation in the prefix-reversal problem showed that SCBR reduced search cost, but severely degraded solution quality. By contrast, in logistics planning, use of SCBR as an indexing mechanism led to faster solution times and permitted more problems to be solved than either hierarchical problem solving (by ALPINE) or ground level CBR (by SPA) alone. The primary factor responsible for the difference in SCBR’s performance in these two domains appeared to be that the optimal-case utility was low in the prefix-reversal task but high in logistics planning.
+%P 44-58
+

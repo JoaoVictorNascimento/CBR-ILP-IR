@@ -1,0 +1,14 @@
+%0 Conference Proceedings
+%T An investigation of marker-passing algorithms for analogue retrieval
+%A Wolverton, Michael
+%Y Veloso, Manuela
+%Y Aamodt, Agnar
+%S Case-Based Reasoning Research and Development
+%D 1995
+%I Springer Berlin Heidelberg
+%C Berlin, Heidelberg
+%@ 978-3-540-48446-2
+%F 10.1007/3-540-60598-3_32
+%X If analogy and case-based reasoning systems are to scale up to very large case bases, it is important to analyze the various methods used for retrieving analogues to identify the features of the problem for which they are appropriate. This paper reports on one such analysis, a comparison of retrieval by marker passing or spreading activation in a semantic network with Knowledge-Directed Spreading Activation, a method developed to be well-suited for retrieving semantically distant analogues from a large knowledge base. The analysis has two complementary components: (1) a theoretical model of the retrieval time based on a number of problem characteristics, and (2) experiments showing how the retrieval time of the approaches varies with the knowledge base size. These two components, taken together, suggest that KDSA is more likely than SA to be able to scale up to retrieval in large knowledge bases.
+%P 359-370
+

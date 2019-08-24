@@ -1,0 +1,14 @@
+%0 Conference Proceedings
+%T Merge strategies for multiple case plan replay
+%A Veloso, Manuela M.
+%Y Leake, David B.
+%Y Plaza, Enric
+%S Case-Based Reasoning Research and Development
+%D 1997
+%I Springer Berlin Heidelberg
+%C Berlin, Heidelberg
+%@ 978-3-540-69238-6
+%F 10.1007/3-540-63233-6_511
+%X Planning by analogical reasoning is a learning method that consists of the storage, retrieval, and replay of planning episodes. Planning performance improves with the accumulation and reuse of a library of planning cases. Retrieval is driven by domain-dependent similarity metrics based on planning goals and scenarios. In complex situations with multiple goals, retrieval may find multiple past planning cases that are jointly similar to the new planning situation. This paper presents the issues and implications involved in the replay of multiple planning cases, as opposed to a single one. Multiple case plan replay involves the adaptation and merging of the annotated derivations of the planning cases. Several merge strategies for replay are introduced that can process with various forms of eagerness the differences between the past and new situations and the annotated justifications at the planning cases. In particular, we introduce an effective merging strategy that considers plan step choices especially appropriate for the interleaving of planning and plan execution. We illustrate and discuss the effectiveness of the merging strategies in specific domains.
+%P 413-424
+

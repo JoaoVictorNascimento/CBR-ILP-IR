@@ -1,0 +1,15 @@
+%0 Conference Proceedings
+%T Using case-based reasoning for reusing software knowledge
+%A Tautz, Carsten
+%A Althoff, Klaus-Dieter
+%Y Leake, David B.
+%Y Plaza, Enric
+%S Case-Based Reasoning Research and Development
+%D 1997
+%I Springer Berlin Heidelberg
+%C Berlin, Heidelberg
+%@ 978-3-540-69238-6
+%F 10.1007/3-540-63233-6_488
+%X Reuse of software knowledge is a principle for improving productivity and reliability of software development. To achieve this, reuse must be done systematically. This means that processes for retrieving, reusing, revising, and retaining have to be defined. At the same time organizational issues (such as the establishment of a separate organizational unit responsible for organizational learning) must be considered. In this paper we compare software knowledge reuse models to the CBR cycle of Aamodt and Plaza [1] and show that the approaches are very similar. We suggest to extend the CBR cycle by including organizational issues explicitly and conclude that CBR is a promising technology for realizing software knowledge reuse if our suggested organizational extensions are considered.
+%P 156-165
+

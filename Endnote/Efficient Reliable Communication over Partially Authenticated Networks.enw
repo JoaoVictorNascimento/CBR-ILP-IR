@@ -1,0 +1,17 @@
+%0 Journal Article
+%T Efficient reliable communication over partially authenticated networks
+%A Beimel, Amos
+%A Malka, Lior
+%J Distributed Computing
+%D 2005
+%8 July 01
+%V 18
+%N 1
+%@ 1432-0452
+%F Beimel2005
+%X Reliable communication between processors in a network is a basic requirement for executing any protocol. Dolev [7] and Dolev et al. [8] showed that reliable communication is possible if and only if the communication network is sufficiently connected. Beimel and Franklin [1] showed that the connectivity requirement can be relaxed if some pairs of processors share authentication keys. That is, costly communication channels can be replaced by authentication keys.
+%9 journal article
+%R 10.1007/s00446-004-0119-y
+%U https://doi.org/10.1007/s00446-004-0119-y
+%P 1-19
+

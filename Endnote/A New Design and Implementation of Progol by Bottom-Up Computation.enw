@@ -1,0 +1,16 @@
+%0 Conference Proceedings
+%T A new design and implementation of progol by bottom-up computation
+%A Fujita, Hiroshi
+%A Yagi, Naoki
+%A Ozaki, Tomonobu
+%A Furukawa, Koichi
+%Y Muggleton, Stephen
+%S Inductive Logic Programming
+%D 1997
+%I Springer Berlin Heidelberg
+%C Berlin, Heidelberg
+%@ 978-3-540-69583-7
+%F 10.1007/3-540-63494-0_54
+%X This paper describes a parallel version of Progol based on MGTP which is a theorem prover employing bottom-up inference suitable for parallel implementation. Hypothesis formation in Progol, which is performed by top-down computation with Prolog in the sequential implementation, will be performed more efficiently by bottom-up computation with MGTP in the new implementation. For the Progol's generalto-specific search for hypotheses through the subsumption lattice, we developed a new way of calculating a heuristic function for the A*-like algorithm, which was also implemented with MGTP. Since MGTP already has very efficient parallel implementations on parallel inference machines, an efficient implementation of parallel-Progol will readily be realized as well.
+%P 161-174
+

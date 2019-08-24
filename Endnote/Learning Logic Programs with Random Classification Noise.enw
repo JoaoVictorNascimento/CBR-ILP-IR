@@ -1,0 +1,15 @@
+%0 Conference Proceedings
+%T Learning Logic programs with random classification noise
+%A Horváth, Tamás
+%A Sloan, Robert H.
+%A Turán, György
+%Y Muggleton, Stephen
+%S Inductive Logic Programming
+%D 1997
+%I Springer Berlin Heidelberg
+%C Berlin, Heidelberg
+%@ 978-3-540-69583-7
+%F 10.1007/3-540-63494-0_63
+%X We consider the learnability of classes of logic programs in the presence of noise, assuming that the label of each example is reversed with a fixed probability. We review the polynomial PAC learnability of nonrecursive, determinate, constant-depth Horn clauses in the presence of such noise. This result is extended to an analogous class of recursive logic programs that consist of a recursive clause, a base case clause, and ground background knowledge. Also, we show that arbitrary nonrecursive Horn clauses with forest background knowledge remain polynomially PAC learnable in the presence of noise. We point out that the sample size can be decreased by using dependencies among the literals.
+%P 315-336
+

@@ -1,0 +1,15 @@
+%0 Conference Proceedings
+%T The All-or-Nothing Nature of Two-Party Secure Computation
+%A Beimel, Amos
+%A Malkin, Tal
+%A Micali, Silvio
+%Y Wiener, Michael
+%S Advances in Cryptology — CRYPTO’ 99
+%D 1999
+%I Springer Berlin Heidelberg
+%C Berlin, Heidelberg
+%@ 978-3-540-48405-9
+%F 10.1007/3-540-48405-1_6
+%X A function f is computationally securely computable if two computationally-bounded parties Alice, having a secret input x, and Bob, having a secret input y, can talk back and forth so that (even if one of them is malicious) (1) Bob learns essentially only f(x,y) while (2) Alice learns essentially nothing.
+%P 80-97
+

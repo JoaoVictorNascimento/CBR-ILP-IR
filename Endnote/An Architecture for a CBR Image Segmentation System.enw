@@ -1,0 +1,15 @@
+%0 Conference Proceedings
+%T An Architecture for a CBR Image Segmentation System
+%A Perner, Petra
+%Y Althoff, Klaus-Dieter
+%Y Bergmann, Ralph
+%Y Branting, L.Karl
+%S Case-Based Reasoning Research and Development
+%D 1999
+%I Springer Berlin Heidelberg
+%C Berlin, Heidelberg
+%@ 978-3-540-48508-7
+%F 10.1007/3-540-48508-2_38
+%X Image Segmentation is a crucial step if extracting information from a digital image. It is not easy to set up the segmentation parameter so that it fits best over the entire set of images, which should be segmented. In the paper, we propose a novel architecture for image segmentation method based on CBR, which can adapt to changing image qualities and environmental conditions. We describe the whole architecture, the methods used for the various components of the systems and show how it performs on medical images.
+%P 525-534
+

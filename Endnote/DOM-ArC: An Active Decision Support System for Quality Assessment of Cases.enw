@@ -1,0 +1,15 @@
+%0 Conference Proceedings
+%T DOM-ArC: An active decision support system for quality assessment of cases
+%A Bakhtari, Shirin
+%A Oertel, Wolfgang
+%Y Veloso, Manuela
+%Y Aamodt, Agnar
+%S Case-Based Reasoning Research and Development
+%D 1995
+%I Springer Berlin Heidelberg
+%C Berlin, Heidelberg
+%@ 978-3-540-48446-2
+%F 10.1007/3-540-60598-3_34
+%X There is a general acceptance that a case-based assistance system that can meet the requirements of real-world complex applications should maintain a core of domain specific knowledge in combination with its case store. The presented DOM-ArC incorporates a domain ontology and is situated within a case-based design support system. The domain ontology incorporates not only deep domain knowledge, but also the decision making knowledge that ensures the quality and reliability of the domain cases. The DOM-ArC undertakes the role of an active assistant that supports the case-based reasoner with the following services. It reviews and analyses a case and makes suggestions about which case to retain, how to overcome deficiencies in a proposed solution, which solution to reject, and how to construct a case from scratch.
+%P 381-390
+

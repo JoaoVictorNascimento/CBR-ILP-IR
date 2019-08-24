@@ -1,0 +1,15 @@
+%0 Conference Proceedings
+%T Using learned extraction patterns for text classification
+%A Riloff, Ellen
+%Y Wermter, Stefan
+%Y Riloff, Ellen
+%Y Scheler, Gabriele
+%S Connectionist, Statistical and Symbolic Approaches to Learning for Natural Language Processing
+%D 1996
+%I Springer Berlin Heidelberg
+%C Berlin, Heidelberg
+%@ 978-3-540-49738-7
+%F 10.1007/3-540-60925-3_53
+%X A major knowledge-engineering bottleneck for information extraction systems is the process of constructing an appropriate dictionary of extraction patterns. AutoSlog is a dictionary construction system that has been shown to substantially reduce the time required for knowledge engineering by learning extraction patterns automatically. However, an open question was whether these extraction patterns were useful for tasks other than information extraction. We describe a series of experiments that show how the extraction patterns learned by AutoSlog can be used for text classification. Three dictionaries produced by AutoSlog for different domains performed well in our text classification experiments.
+%P 275-289
+

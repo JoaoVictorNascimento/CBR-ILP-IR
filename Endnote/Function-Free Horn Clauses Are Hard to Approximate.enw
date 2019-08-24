@@ -1,0 +1,14 @@
+%0 Conference Proceedings
+%T Function-free Horn clauses are hard to approximate
+%A Nock, Richard
+%A Jappy, Pascal
+%Y Page, David
+%S Inductive Logic Programming
+%D 1998
+%I Springer Berlin Heidelberg
+%C Berlin, Heidelberg
+%@ 978-3-540-69059-7
+%F 10.1007/BFb0027323
+%X In this paper, we show two hardness results for approximating the best function-free Horn clause by an element of the same class. Our first result shows that for some constant k > 0, the error rate of the best k-Horn clause cannot be approximated in polynomial time to within any constant factor by an element of the same class. Our second result is much stronger. Under some frequently encountered complexity hypothesis, we show that if we replace the constant number of Horn clauses by a small, poly-logarithmic number, the constant factor blows up exponentially to a quasi-polynomial factor nlogkn, where n is the number of predicates of the problem, a measure of its complexity. Our main result links the difficulty of error approximation with the number of clauses allowed. We finally give an outline of the incidence of our result on systems that learn using ILP (Inductive Logic Programming) formalism.
+%P 195-204
+

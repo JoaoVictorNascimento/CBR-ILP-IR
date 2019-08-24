@@ -1,0 +1,16 @@
+%0 Conference Proceedings
+%T Poetry Generation in COLIBRI
+%A Díaz-Agudo, Belén
+%A Gervás, Pablo
+%A González-Calero, Pedro A.
+%Y Craw, Susan
+%Y Preece, Alun
+%S Advances in Case-Based Reasoning
+%D 2002
+%I Springer Berlin Heidelberg
+%C Berlin, Heidelberg
+%@ 978-3-540-46119-7
+%F 10.1007/3-540-46119-1_7
+%X CBROnto is an ontology that incorporates common Case-Based Reasoning (CBR) terminology and serves as a domain-independent framework to design CBR applications. It is the core of COLIBRI, an environment to assist during the design of knowledge intensive CBR systems that combine cases with various knowledge types and reasoning methods. CBROnto captures knowledge about CBR tasks and methods, and aims to unify case specific and general domain knowledge representational needs. CBROnto specifies a modelling framework to describe reusable CBR Problem Solving Methods based on the CBR tasks they solve. This paper describes CBROnto’s main ideas and exemplifies them with an application to generate Spanish poetry versions of texts provided by the user.
+%P 73-87
+

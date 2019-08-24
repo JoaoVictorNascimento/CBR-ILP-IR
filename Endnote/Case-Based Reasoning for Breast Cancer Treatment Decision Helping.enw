@@ -1,0 +1,15 @@
+%0 Conference Proceedings
+%T Case-Based Reasoning for Breast Cancer Treatment Decision Helping
+%A Lieber, Jean
+%A Bresson, Benoît
+%Y Blanzieri, Enrico
+%Y Portinale, Luigi
+%S Advances in Case-Based Reasoning
+%D 2000
+%I Springer Berlin Heidelberg
+%C Berlin, Heidelberg
+%@ 978-3-540-44527-2
+%F 10.1007/3-540-44527-7_16
+%X This paper presents two applications for the breast cancer treatment decision helping. The first one is called Casimir/RBR and can be likened to a rule-based reasoning system. In some situations, the application of the rules of this system does not provide a satisfying treatment. Then, the application Casimir/CBR-which is not fully implementedcan be used. Casimir/CBR uses principles of case-based reasoning in order to suggest solutions by adapting the rules of Casimir/RBR. In this framework, the rules are considered as cases: they are adapted rather than used literally.
+%P 173-185
+

@@ -1,0 +1,15 @@
+%0 Conference Proceedings
+%T Learning a local similarity metric for case-based reasoning
+%A Ricci, Francesco
+%A Avesani, Paolo
+%Y Veloso, Manuela
+%Y Aamodt, Agnar
+%S Case-Based Reasoning Research and Development
+%D 1995
+%I Springer Berlin Heidelberg
+%C Berlin, Heidelberg
+%@ 978-3-540-48446-2
+%F 10.1007/3-540-60598-3_27
+%X This paper presents a new class of local similarity metrics, called AASM, that are not symmetric and that can be adopted as the basic retrieval method in a CBR system. An anytime learning procedure is also introduced that, starting from an initial set of stored cases, improves the retrieval accuracy by modifying the local definition of the metric. The learning procedure is a reinforcement learning algorithm and can be run as a black box since no particular setting is required. With the aid of classical test sets it is shown that AASM can improve in many cases the accuracy of both nearest neighbour methods and Salzberg's NGE. Moreover, AASM can achieve significant data compression (10%) while maintainig the same accuracy as NN.
+%P 301-312
+

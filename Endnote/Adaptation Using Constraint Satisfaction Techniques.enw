@@ -1,0 +1,15 @@
+%0 Conference Proceedings
+%T Adaptation using constraint satisfaction techniques
+%A Purvis, Lisa
+%A Pu, Pearl
+%Y Veloso, Manuela
+%Y Aamodt, Agnar
+%S Case-Based Reasoning Research and Development
+%D 1995
+%I Springer Berlin Heidelberg
+%C Berlin, Heidelberg
+%@ 978-3-540-48446-2
+%F 10.1007/3-540-60598-3_26
+%X Case adaptation, a central component of case-based reasoning, is often considered to be the most difficult part of a case-based reasoning system. The difficulties arise from the fact that adaptation often does not converge, especially if it is not done in a systematic way. This problem, sometimes termed the assimilation problem, is especially pronounced in the case-based design problem solving domain where a large set of constraints and features are processed. Furthermore, in the design domain, multiple cases must be considered in conjunction in order to solve the new problem, resulting in the difficulty of how to efficiently combine the cases into a global solution for the new problem.
+%P 289-300
+

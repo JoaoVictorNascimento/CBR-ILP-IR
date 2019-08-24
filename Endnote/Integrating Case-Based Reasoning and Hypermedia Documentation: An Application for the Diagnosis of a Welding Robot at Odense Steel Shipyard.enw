@@ -1,0 +1,19 @@
+%0 Conference Proceedings
+%T Integrating Case-Based Reasoning and Hypermedia Documentation: An Application for the Diagnosis of a Welding Robot at Odense Steel Shipyard
+%A Auriol, Eric
+%A Crowder, Richard M.
+%A MacKendrick, Rob
+%A Rowe, Roger
+%A Knudsen, Thomas
+%Y Althoff, Klaus-Dieter
+%Y Bergmann, Ralph
+%Y Branting, L.Karl
+%S Case-Based Reasoning Research and Development
+%D 1999
+%I Springer Berlin Heidelberg
+%C Berlin, Heidelberg
+%@ 978-3-540-48508-7
+%F 10.1007/3-540-48508-2_27
+%X Reliable and effective maintenance support is a vital consideration for the management within today’s manufacturing environment. This paper discusses the development a maintenance system for the world largest robot welding facility. The developed system combines a case-based reasoning approach for diagnosis with context information, as electronic on-line manuals, linked using open hypermedia technology. The work discussed in this paper delivers not only a maintenance system for the robot stations under consideration, but also a design framework for developing maintenance systems for other similar applications.
+%P 372-385
+

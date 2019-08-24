@@ -1,0 +1,15 @@
+%0 Conference Proceedings
+%T Probabilistic first-order classification
+%A Pompe, Uroš
+%A Kononenko, Igor
+%Y Lavrač, Nada
+%Y Džeroski, Sašo
+%S Inductive Logic Programming
+%D 1997
+%I Springer Berlin Heidelberg
+%C Berlin, Heidelberg
+%@ 978-3-540-69587-5
+%F 10.1007/3540635149_52
+%X We discuss the problem of classification using the first order hypotheses. This paper proposes an enhancement of classification based on the naive Bayesian scheme that is able to overcome the conditional independence assumption. Several experiments, involving some artificial and real-world, both propositional and relational domains, were conducted. The results indicate that the classification performance of propositional learners is reached when the richer first-order knowledge representation is not mandatory. This holds also in the domains where such representation is more convenient. Our framework can also benefit from the use of the hypotheses describing negative information. In such case, the classification becomes more noise resistant.
+%P 235-242
+

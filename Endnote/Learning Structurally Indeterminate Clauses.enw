@@ -1,0 +1,14 @@
+%0 Conference Proceedings
+%T Learning structurally indeterminate clauses
+%A Zucker, Jean-Daniel
+%A Ganascia, Jean-Gabriel
+%Y Page, David
+%S Inductive Logic Programming
+%D 1998
+%I Springer Berlin Heidelberg
+%C Berlin, Heidelberg
+%@ 978-3-540-69059-7
+%F 10.1007/BFb0027327
+%X This paper describes a new kind of language bias, S-structural indeterminate clauses, which takes into account the meaning of predicates that play a key role in the complexity of learning in structural domains. Structurally indeterminate clauses capture an important background knowledge in structural domains such as medicine, chemistry or computational linguistics: the specificity of the component/object relation. The REPART algorithm has been specifically developed to learn such clauses. Its efficiency lies in a particular change of representation so as to be able to use propositional learners. Because of the indeterminacy of the searched clauses the propositional learning problem to be solved is a kind of Multiple-Instance problem. Such reformulations may be a general approach for learning non determinate clauses in ILP. This paper presents original results discovered by REPART that exemplify how ILP algorithms may not only scale up efficiently to large relational databases but also discover useful and computationally hard-to-learn patterns.
+%P 235-244
+

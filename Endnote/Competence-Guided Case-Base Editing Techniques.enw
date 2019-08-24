@@ -1,0 +1,15 @@
+%0 Conference Proceedings
+%T Competence-Guided Case-Base Editing Techniques
+%A McKenna, Elizabeth
+%A Smyth, Barry
+%Y Blanzieri, Enrico
+%Y Portinale, Luigi
+%S Advances in Case-Based Reasoning
+%D 2000
+%I Springer Berlin Heidelberg
+%C Berlin, Heidelberg
+%@ 978-3-540-44527-2
+%F 10.1007/3-540-44527-7_17
+%X Case-based classification is a powerful classification method, which (in its simplest form) assigns a target case to the same class as the nearest of n previously classified cases. Many case-based classifiers use the simple nearest-neighbour technique to identify the nearest case, but this means comparing the target case to all of the stored cases at classification time, resulting in high classification costs. For this reason many techniques have been proposed to improve the performance of case-based classifiers by reducing the search they must perform. In this paper we will look at editing techniques that preserve the lazy-learning quality of case-based classification, but improve classification performance.
+%P 186-197
+

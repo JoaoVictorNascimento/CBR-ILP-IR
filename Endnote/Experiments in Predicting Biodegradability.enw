@@ -1,0 +1,19 @@
+%0 Conference Proceedings
+%T Experiments in Predicting Biodegradability
+%A Džeroski, Sašo
+%A Blockeel, Hendrik
+%A Kompare, Boris
+%A Kramer, Stefan
+%A Pfahringer, Bernhard
+%A Van Laer, Wim
+%Y Džeroski, Sašo
+%Y Flach, Peter
+%S Inductive Logic Programming
+%D 1999
+%I Springer Berlin Heidelberg
+%C Berlin, Heidelberg
+%@ 978-3-540-48751-7
+%F 10.1007/3-540-48751-4_9
+%X We present a novel application of inductive logic programming (ILP) in the area of quantitative structure-activity relationships (QSARs). The activity we want to predict is the biodegradability of chemical compounds in water. In particular, the target variable is the half-life in water for aerobic aqueous biodegradation. Structural descriptions of chemicals in terms of atoms and bonds are derived from the chemicals’ SMILES encodings. Definition of substructures are used as background knowledge. Predicting biodegradability is essentially a regression problem, but we also consider a discretized version of the target variable. We thus employ a number of relational classification and regression methods on the relational representation and compare these to propositional methods applied to different propositionalisations of the problem. Some expert comments on the induced theories are also given.
+%P 80-91
+

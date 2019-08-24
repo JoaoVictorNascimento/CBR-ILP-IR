@@ -1,0 +1,17 @@
+%0 Conference Proceedings
+%T Generalizing Refinement Operators to Learn Prenex Conjunctive Normal Forms
+%A Nienhuys-Cheng, Shan-Hwei
+%A Van Laer, Wim
+%A Ramon, Jan
+%A De Raedt, Luc
+%Y Džeroski, Sašo
+%Y Flach, Peter
+%S Inductive Logic Programming
+%D 1999
+%I Springer Berlin Heidelberg
+%C Berlin, Heidelberg
+%@ 978-3-540-48751-7
+%F 10.1007/3-540-48751-4_23
+%X Inductive Logic Programming considers almost exclusively universally quantified theories. To add expressiveness we should consider general prenex conjunctive normal forms (PCNF) with existential variables. ILP mostly uses learning with refinement operators. To extend refinement operators to PCNF, we should first extend substitutions to PCNF. If one substitutes an existential variable in a formula, one often obtains a specializtion rather than a generalization. In this article we define substitutions to specialize a given PCNF and a weakly complete downward refinement operator. Based on this operator, we have implemented a simple learning system PCL on some type of PCNF.
+%P 245-256
+

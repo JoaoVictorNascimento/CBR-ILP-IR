@@ -1,0 +1,13 @@
+%0 Conference Proceedings
+%T Using prior probabilities and density estimation for relational classification
+%A Cussens, James
+%Y Page, David
+%S Inductive Logic Programming
+%D 1998
+%I Springer Berlin Heidelberg
+%C Berlin, Heidelberg
+%@ 978-3-540-69059-7
+%F 10.1007/BFb0027314
+%X A Bayesian method for incorporating probabilistic background knowledge into ILP is presented. Positive only learning is extended to allow density estimation. Estimated densities and defined prior are combined in Bayes theorem to perform relational classification. An initial application of the technique is made to part-of-speech (POS) tagging. A novel use of Gibbs sampling for POS tagging is given.
+%P 106-115
+

@@ -1,0 +1,14 @@
+%0 Conference Proceedings
+%T KBS maintenance as learning two-tiered domain representation
+%A Agre, Gennady
+%Y Veloso, Manuela
+%Y Aamodt, Agnar
+%S Case-Based Reasoning Research and Development
+%D 1995
+%I Springer Berlin Heidelberg
+%C Berlin, Heidelberg
+%@ 978-3-540-48446-2
+%F 10.1007/3-540-60598-3_11
+%X The paper deals with the problem of improving problem-solving behavior of traditional KBS in the course of its real operation which is a part of the maintenance task. The solution of the problem is searched in integration of the KBS with a specially designed case-based reasoning module used for correcting solutions produced by the KBS. Special attention is paid to the methods of case matching and reconciling conflicts between CBR and RBR. The proposed solution for both problems is based on treating the maintenance task as a problem for learning two-tiered domain representation. From this view point rules form the first domain tier reflecting existing strong patterns in the representation of domain concepts, while the second tier is formed by the newly solved cases along with a special domain-dependent procedure for case matching. The main ideas of the approach are illustrated by the results of some experiments with the experimental system CoRCase.
+%P 109-120
+

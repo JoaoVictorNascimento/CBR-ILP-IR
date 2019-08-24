@@ -1,0 +1,16 @@
+%0 Conference Proceedings
+%T Surfing the Digital Wave
+%A Smyth, Barry
+%A Cotter, Paul
+%Y Althoff, Klaus-Dieter
+%Y Bergmann, Ralph
+%Y Branting, L.Karl
+%S Case-Based Reasoning Research and Development
+%D 1999
+%I Springer Berlin Heidelberg
+%C Berlin, Heidelberg
+%@ 978-3-540-48508-7
+%F 10.1007/3-540-48508-2_41
+%X In the future digital TV will offer an unprecedented level of programme choice. We are told that this will lead to dramatic increases in viewer satisfaction as all viewing tastes are catered for all of the time. However, the reality may be somewhat different. We have not yet developed the tools to deal with this increased level of choice (for example, conventional TV guides will be virtually useless), and viewers will face a significant and frustrating information overload problem. This paper describes a solution in the form of the PTV system. PTV employs user profiling and information filtering techniques to generate web-based TV viewing guides that are personalised for the viewing preferences of individual users. The paper explains how PTV constructs graded user profiles to drive a hybrid recommendation technique, combining case-based and collaborative information filtering methods. The results of an extensive empirical study to evaluate the quality of PTV’s casebased and collaborative filtering strategies are also described.
+%P 561-571
+

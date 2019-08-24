@@ -1,0 +1,17 @@
+%0 Conference Proceedings
+%T Automating the construction of authority files in digital libraries: A case study
+%A French, James C.
+%A Powell, Allison L.
+%A Schulman, Eric
+%A Pfaltz, John L.
+%Y Peters, Carol
+%Y Thanos, Costantino
+%S Research and Advanced Technology for Digital Libraries
+%D 1997
+%I Springer Berlin Heidelberg
+%C Berlin, Heidelberg
+%@ 978-3-540-69597-4
+%F 10.1007/BFb0026721
+%X The issue of quality control has become increasingly important as more online databases are integrated into digital libraries. This can have a dramatic effect on the search effectiveness of an online system. Authority work, the need to discover and reconcile variant forms of strings in bibliographic entries, will become more difficult. Spelling variants, misspellings, translation and transliteration differences all increase the difficulty of retrieving information. This paper is a case study of our efforts to automate the creation of an authority file for authors' institutional affiliations in the Astrophysics Data System. The techniques surveyed here for the detection and categorization of variant forms have broader applicability and may be used to help automate authority work for other bibliographic fields.
+%P 55-71
+

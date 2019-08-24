@@ -1,0 +1,14 @@
+%0 Conference Proceedings
+%T Normal forms for inductive logic programming
+%A Flach, Peter A.
+%Y Lavrač, Nada
+%Y Džeroski, Sašo
+%S Inductive Logic Programming
+%D 1997
+%I Springer Berlin Heidelberg
+%C Berlin, Heidelberg
+%@ 978-3-540-69587-5
+%F 10.1007/3540635149_43
+%X In this paper we study induction of unrestricted clausal theories from interpretations. First, we show that in the propositional case induction from complete evidence can be seen as an equivalence-preserving transformation from DNF to CNF. From this we conclude that induction is essentially a process of determining what is false in the domain of discourse. We then proceed by investigating dual normal forms for evidence and hypotheses in predicate logic. We define evidence nonnal form (ENF), which is Skolemised existential DNF under a Consistent Naming Assumption. Because ENF is incomplete, in the sense that it does not have the expressive power of clausal logic, ENF evidence requires the identification of Skolem terms. The approach is partly implemented in the Primus system.
+%P 149-156
+

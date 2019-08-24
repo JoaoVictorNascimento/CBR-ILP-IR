@@ -1,0 +1,15 @@
+%0 Conference Proceedings
+%T Creative design: Reasoning and understanding
+%A Simina, Marin
+%A Kolodner, Janet
+%Y Leake, David B.
+%Y Plaza, Enric
+%S Case-Based Reasoning Research and Development
+%D 1997
+%I Springer Berlin Heidelberg
+%C Berlin, Heidelberg
+%@ 978-3-540-69238-6
+%F 10.1007/3-540-63233-6_527
+%X This paper investigates memory issues that influence longterm creative problem solving and design activity, taking a case-based reasoning perspective. Our exploration is based on a well-documented example: the invention of the telephone by Alexander Graham Bell. We abstract Bell's reasoning and understanding mechanisms that appear time and again in long-term creative design. We identify that the understanding mechanism is responsible for analogical anticipation of design constraints and analogical evaluation, beside case-based design. But an already understood design can satisfy opportunistically suspended design problems, still active in background. The new mechanisms are integrated in a computational model, ALEC1, that accounts for some creative behavior in case-based design.
+%P 587-598
+

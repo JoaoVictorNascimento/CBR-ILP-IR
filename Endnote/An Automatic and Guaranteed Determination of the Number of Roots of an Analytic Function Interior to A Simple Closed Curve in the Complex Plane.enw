@@ -1,0 +1,17 @@
+%0 Journal Article
+%T An automatic and guaranteed determination of the number of roots of an analytic function interior to a simple closed curve in the complex plane
+%A Herlocker, Jonathan
+%A Ely, Jeffrey
+%J Reliable Computing
+%D 1995
+%8 September 01
+%V 1
+%N 3
+%@ 1573-1340
+%F Herlocker1995
+%X A well known result from complex analysis allows us, under suitable circumstances, to compute the number of roots of an analytic function,f(z), that lie inside a counterclockwise, simple closed curve,C, by computing the integral.$$\frac{1}{{2\pi i}}\int_C {\frac{{f'(z)}}{{f(z)}}} dz.$$
+%9 journal article
+%R 10.1007/BF02385255
+%U https://doi.org/10.1007/BF02385255
+%P 239-249
+

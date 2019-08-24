@@ -1,0 +1,14 @@
+%0 Conference Proceedings
+%T CBR and Machine Learning for combustion system design
+%A Stehr, Jutta
+%Y Veloso, Manuela
+%Y Aamodt, Agnar
+%S Case-Based Reasoning Research and Development
+%D 1995
+%I Springer Berlin Heidelberg
+%C Berlin, Heidelberg
+%@ 978-3-540-48446-2
+%F 10.1007/3-540-60598-3_10
+%X Nowadays the automotive industry has to face two major challenges. First products must meet continually increasing government requirements on fuel economy and low exhaust emission. Second the market demands product variety and short production cycles. The automobile's combustion system determines the exhaust emission rate, combustion system engineering is one of the crucial steps in the development process. Cylinder head design is a good example of showing how enhanced AI technologies like CBR and Machine Learning support high-level engineering design tasks.
+%P 98-108
+

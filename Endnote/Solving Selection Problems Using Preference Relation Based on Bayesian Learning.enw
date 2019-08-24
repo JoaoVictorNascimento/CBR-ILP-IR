@@ -1,0 +1,15 @@
+%0 Conference Proceedings
+%T Solving Selection Problems Using Preference Relation Based on Bayesian Learning
+%A Nakano, Tomofumi
+%A Inuzuka, Nobuhiro
+%Y Cussens, James
+%Y Frisch, Alan
+%S Inductive Logic Programming
+%D 2000
+%I Springer Berlin Heidelberg
+%C Berlin, Heidelberg
+%@ 978-3-540-44960-7
+%F 10.1007/3-540-44960-4_9
+%X This paper defines a selection problem which selects an appropriate object from a set that is specified by parameters. We discuss inductive learning of selection problems and give a method combining inductive logic programming (ILP) and Bayesian learning. It induces a binary relation comparing likelihood of objects being selected. Our methods estimate probability of each choice by evaluating variance of an induced relation from an ideal binary relation. Bayesian learning combines a prior probability of objects and the estimated probability. By making several assumptions on probability estimation, we give several methods. The methods are applied to Part-of-Speech tagging.
+%P 147-164
+

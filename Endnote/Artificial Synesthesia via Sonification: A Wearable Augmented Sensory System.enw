@@ -1,0 +1,16 @@
+%0 Journal Article
+%T Artificial synesthesia via sonification: A wearable augmented sensory system
+%A Foner, Leonard N.
+%J Mobile Networks and Applications
+%D 1999
+%8 March 01
+%V 4
+%N 1
+%@ 1572-8153
+%F Foner1999
+%X A design for an implemented, prototype wearable artificial sensory system is presented, which uses data sonification to compensate for normal limitations in the human visual system. The system gives insight into the complete visible‐light spectra from objects being seen by the user. Long‐term wear and consequent training might lead to identification of various visually‐indistinguishable materials based on the sounds of their spectra. A detailed system design and results of user testing are presented, and many possible extensions to both the sonification and the sensor package are discussed.
+%9 journal article
+%R 10.1023/A:1019178210975
+%U https://doi.org/10.1023/A:1019178210975
+%P 75-81
+

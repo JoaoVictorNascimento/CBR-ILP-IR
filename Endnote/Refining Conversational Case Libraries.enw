@@ -1,0 +1,15 @@
+%0 Conference Proceedings
+%T Refining conversational case libraries
+%A Aha, David W.
+%A Breslow, Leonard A.
+%Y Leake, David B.
+%Y Plaza, Enric
+%S Case-Based Reasoning Research and Development
+%D 1997
+%I Springer Berlin Heidelberg
+%C Berlin, Heidelberg
+%@ 978-3-540-69238-6
+%F 10.1007/3-540-63233-6_498
+%X Conversational case-based reasoning (CBR) shells (e.g., Inference's CBR Express) are commercially successful tools for supporting the development of help desk and related applications. In contrast to rule-based expert systems, they capture knowledge as cases rather than more problematic rules, and they can be incrementally extended. However, rather than eliminate the knowledge engineering bottleneck, they refocus it on case engineering, the task of carefully authoring cases according to library design guidelines to ensure good performance. Designing complex libraries according to these guidelines is difficult; software is needed to assist users with case authoring. We describe an approach for revising case libraries according to design guidelines, its implementation in Clire, and empirical results showing that, under some conditions, this approach can improve conversational CBR performance.
+%P 267-278
+

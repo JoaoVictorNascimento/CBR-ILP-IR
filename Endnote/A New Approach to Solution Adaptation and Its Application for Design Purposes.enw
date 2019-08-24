@@ -1,0 +1,15 @@
+%0 Conference Proceedings
+%T A New Approach to Solution Adaptation and Its Application for Design Purposes
+%A Hejazi, Mahmoudreza
+%A Badie, Kambiz
+%Y Craw, Susan
+%Y Preece, Alun
+%S Advances in Case-Based Reasoning
+%D 2002
+%I Springer Berlin Heidelberg
+%C Berlin, Heidelberg
+%@ 978-3-540-46119-7
+%F 10.1007/3-540-46119-1_40
+%X In this paper, a new approach is proposed for transformational adaptation based on detecting a solution’s incompatibility regarding the new problem situation and trying to overcome the incompatibility in an iterative manner. By incompatibility, we mean a state for which the required objectives are not satisfied due to any change in the status of the constraints. Based upon this approach, we have proposed a framework for redesigning an existing system under new constraints. To show the capability of this framework, a software prototype was developed that it is capable of redesigning an existing digital circuit under presence of new constraints, e.g. type of gates, power dissipation, fan in/out, gate prices and so on.
+%P 549-559
+

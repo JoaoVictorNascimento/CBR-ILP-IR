@@ -1,0 +1,15 @@
+%0 Conference Proceedings
+%T Active Exploration in Instance-Based Preference Modeling
+%A Karl Branting, L.
+%Y Althoff, Klaus-Dieter
+%Y Bergmann, Ralph
+%Y Branting, L.Karl
+%S Case-Based Reasoning Research and Development
+%D 1999
+%I Springer Berlin Heidelberg
+%C Berlin, Heidelberg
+%@ 978-3-540-48508-7
+%F 10.1007/3-540-48508-2_3
+%X Knowledge of the preferences of individual users is essential for intelligent systems whose performance is tailored for individual users, such as agents that interact with human users, instructional environments, and learning apprentice systems. Various memory-based, instance-based, and case-based systems have been developed for preference modeling, but these system have generally not addressed the task of selecting examples to use as queries to the user. This paper describes UGAMA, an approach to learning preference criteria through active exploration. Under this approach, Unit Gradient Approximations (UGAs) of the underlying quality function are obtained at a set of reference points through a series of queries to the user. Equivalence sets of UGAs are then merged and aligned (MA) with the apparent boundaries between linear regions. In an empirical evaluation with artificial data, use of UGAs as training data for an instance-based ranking algorithm (1ARC) led to more accurate ranking than training with random instances, and use of UGAMA led to greater ranking accuracy than UGAs alone.
+%P 29-43
+

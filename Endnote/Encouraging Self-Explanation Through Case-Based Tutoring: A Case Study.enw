@@ -1,0 +1,15 @@
+%0 Conference Proceedings
+%T Encouraging self-explanation through case-based tutoring: A case study
+%A Redmond, Michael
+%A Phillips, Susan
+%Y Leake, David B.
+%Y Plaza, Enric
+%S Case-Based Reasoning Research and Development
+%D 1997
+%I Springer Berlin Heidelberg
+%C Berlin, Heidelberg
+%@ 978-3-540-69238-6
+%F 10.1007/3-540-63233-6_486
+%X This paper presents a case-based tutor, CECELIA 1.1, that is based on techniques from CELIA, a computer model of case-based apprenticeship learning [Redmond 1992]. The teaching techniques include: interactive, step by step presentation of case solution steps, student predictions of an expert's actions, presentation of the expert's steps, student explanations of the expert's actions, and presentation of the expert's explanation. In addition, CECELIA takes advantage of a technique from VanLehn's [1987] SIERRA — presenting examples in an order so that solutions only differ by one branch, or disjunct, from previously presented examples. CECELIA relies on its teaching strategy encouraging greater processing of the examples by the student, rather than on embedding great amounts of intelligence in the tutor. CECELIA is implemented using HyperCard on an Apple Macintosh, and has been pilot tested with real students. The tests suggest that the approach can be helpful, but also suggest that eliciting self-explanations from students who normally do not self-explain may be challenging.
+%P 132-143
+

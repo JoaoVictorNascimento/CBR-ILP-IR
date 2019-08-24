@@ -1,0 +1,14 @@
+%0 Conference Proceedings
+%T Integrity constraints in ILP using a Monte Carlo approach
+%A Jorge, Alípio
+%A Brazdil, Pavel B.
+%Y Muggleton, Stephen
+%S Inductive Logic Programming
+%D 1997
+%I Springer Berlin Heidelberg
+%C Berlin, Heidelberg
+%@ 978-3-540-69583-7
+%F 10.1007/3-540-63494-0_58
+%X Many state-of-the-art ILP systems require large numbers of negative examples to avoid overgeneralization. This is a considerable disadvantage for many ILP applications, namely inductive program synthesis where relativelly small and sparse example sets are a more realistic scenario. Integrity constraints are first order clauses that can play the role of negative examples in an inductive process. One integrity constraint can replace a long list of ground negative examples. However, checking the consistency of a program with a set of integrity constraints usually involves heavy theorem-proving. We propose an efficient constraint satisfaction algorithm that applies to a wide variety of useful integrity constraints and uses a Monte Carlo strategy. It looks for inconsistencies by random generation of queries to the program. This method allows the use of integrity constraints instead of (or together with) negative examples. As a consequence programs to induce can be specified more rapidly by the user and the ILP system tends to obtain more accurate definitions. Average running times are not greatly affected by the use of integrity constraints compared to ground negative examples.
+%P 229-244
+

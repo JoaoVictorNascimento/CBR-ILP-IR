@@ -1,0 +1,15 @@
+%0 Conference Proceedings
+%T Building a Case-Based Decision Support System for Land Development Control Using Land Use Function Pattern
+%A Wang, Xingwen
+%A Yeh, Anthony G. O.
+%Y Craw, Susan
+%Y Preece, Alun
+%S Advances in Case-Based Reasoning
+%D 2002
+%I Springer Berlin Heidelberg
+%C Berlin, Heidelberg
+%@ 978-3-540-46119-7
+%F 10.1007/3-540-46119-1_47
+%X Land development control is the process of controlling land development to meet the needs of the society. In this paper, we attempt to advance the use of case-based reasoning in building a case-based decision support system for land development control. Land development control is a complex domain. We first discuss how to deal with the data and knowledge involved in land development control in order to represent the knowledge and define the case in the system. We then propose to use land use function pattern, which is built on geospatial relations and land use functions of the proposed development site with its surrounding environment, to simplify case input, representation and retrieval of the system. Different land use types have different land use function patterns. Land use function pattern can be extracted from the domain knowledge derived from town planning legislation, regulations, and guidelines. Our work mainly aims to support the work of planning officers in seeking similar precedent cases in preparing recommendations to the Town Planning Board. From the preliminary results of the experimental system, we find that cases can be more easily input and represented and similar case(s) can be more efficiently and effectively retrieved using land use function pattern.
+%P 642-654
+

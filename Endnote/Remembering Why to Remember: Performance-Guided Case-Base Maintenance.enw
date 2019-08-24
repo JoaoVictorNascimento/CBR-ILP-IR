@@ -1,0 +1,15 @@
+%0 Conference Proceedings
+%T Remembering Why to Remember: Performance-Guided Case-Base Maintenance
+%A Leake, David B.
+%A Wilson, David C.
+%Y Blanzieri, Enrico
+%Y Portinale, Luigi
+%S Advances in Case-Based Reasoning
+%D 2000
+%I Springer Berlin Heidelberg
+%C Berlin, Heidelberg
+%@ 978-3-540-44527-2
+%F 10.1007/3-540-44527-7_15
+%X An important focus of recent CBR research is on how to develop strategies for achieving compact, competent case-bases, as a way to improve the performance of CBR systems. However, compactness and competence are not always good predictors of performance, especially when problem distributions are non-uniform. Consequently, this paper argues for developing methods that tie case-base maintenance more directly to performance concerns. The paper begins by examining the relationship between competence and performance, discussing the goals and constraints that should guide addition and deletion of cases. It next illustrates the importance of augmenting competence-based criteria with quantitative performance-based considerations, and proposes a strategy for closely re.ecting adaptation performance e.ects when compressing a case-base. It then presents empirical studies examining the performance tradeo.s of current methods and the benefits of applying fine-grained performance-based criteria to case-base compression, showing that performance-based methods may be especially important for task domains with non-uniform problem distributions.
+%P 161-172
+
