@@ -1,0 +1,69 @@
+FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Beimel, A
+   Bergadano, F
+   Bshouty, NH
+   Kushilevitz, E
+   Varricchio, S
+AF Beimel, A
+   Bergadano, F
+   Bshouty, NH
+   Kushilevitz, E
+   Varricchio, S
+TI Learning functions represented as multiplicity automata
+SO JOURNAL OF THE ACM
+LA English
+DT Article
+DE computational learning; DNF; learning disjoint; DNF; learning
+   polynomials; multiplicity automata
+ID SPARSE MULTIVARIATE POLYNOMIALS; DECISION TREES; FINITE-FIELDS; DNF
+   FORMULAS; ALGORITHMS; QUERIES; INTERPOLATION; COUNTEREXAMPLES
+AB We study the learnability of multiplicity automata in Angluin's exact learning model, and we investigate its applications. Our starting point is a known theorem from automata theory relating the number of states in a minimal multiplicity automaton for a function to the rank of its Hankel matrix. With this theorem in hand, we present a new simple algorithm for learning multiplicity automata with improved time acid query complexity, and we prove the learnability of various concept classes. These include (among others):
+   The class of disjoint DNF, and more generally satisfy-O(1) DNF.
+   The class of polynomials over finite fields.
+   The class of bounded-degree polynomials over infinite fields.
+   The class of XOR of terms.
+   Certain classes of boxes in high dimensions.
+   In addition, we obtain the best query complexity for several classes known to be learnable by other methods such as decision trees and polynomials over GF(2).
+   While multiplicity automata are shown to be useful to prove the learnability of some subclasses of DNF formulae and various other classes, we study the limitations of this method. We prove that this method cannot be used to resolve the learnability of some other open problems such as the learnability of general DNF formulas or even k-term DNF for k = omega(log n) or satisfy-s DNF formulas for s = omega(1). These results are proven by exhibiting functions in the above classes that require multiplicity automata with super-polynomial number of states.
+C1 Harvard Univ, Div Engn & Appl Sci, Cambridge, MA 02139 USA.
+   Univ Turin, Turin, Italy.
+   Univ Calgary, Dept Comp Sci, Calgary, AB T2N 1N4, Canada.
+   Technion Israel Inst Technol, Dept Comp Sci, IL-32000 Haifa, Israel.
+   Univ Aquila, I-67100 Laquila, Italy.
+RP Beimel, A (reprint author), Harvard Univ, Div Engn & Appl Sci, 40 Oxford St, Cambridge, MA 02139 USA.
+EM beimel@deas.harvard.edu; bergulan@di.unito.it; bshouty@cpcs.ucalgary.ca;
+   eyalk@cs.technion.ac.il; varricch@univaq.it
+RI bergadano, francesco/Q-2879-2019; BEIMEL, AMOS/F-2033-2012
+OI BEIMEL, AMOS/0000-0002-6572-4195
+NR 61
+TC 46
+Z9 46
+U1 0
+U2 2
+PU ASSOC COMPUTING MACHINERY
+PI NEW YORK
+PA 2 PENN PLAZA, STE 701, NEW YORK, NY 10121-0701 USA
+SN 0004-5411
+EI 1557-735X
+J9 J ACM
+JI J. ACM
+PD MAY
+PY 2000
+VL 47
+IS 3
+BP 506
+EP 530
+DI 10.1145/337244.337257
+PG 25
+WC Computer Science, Hardware & Architecture; Computer Science, Information
+   Systems; Computer Science, Software Engineering; Computer Science,
+   Theory & Methods
+SC Computer Science
+GA 331AE
+UT WOS:000087994000004
+DA 2019-08-26
+ER
+
+EF

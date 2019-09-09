@@ -1,0 +1,48 @@
+FN Clarivate Analytics Web of Science
+VR 1.0
+PT B
+AU Chen, J
+   Nie, JY
+AF Chen, J
+   Nie, JY
+GP acl
+TI Automatic construction of parallel English-Chinese corpus for
+   cross-language information retrieval
+SO 6TH APPLIED NATURAL LANGUAGE PROCESSING CONFERENCE/1ST MEETING OF THE
+   NORTH AMERICAN CHAPTER OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS,
+   PROCEEDINGS OF THE CONFERENCE AND PROCEEDINGS OF THE ANLP-NAACL 2000
+   STUDENT RESEARCH WORKSHOP
+LA English
+DT Proceedings Paper
+CT 6th Applied Natural Language Processing Conference/1st Meeting of the
+   North American Chapter of the
+   Association-for-Computational-Linguistics/ANLP-NAACL 2000 Student
+   Research Workshop
+CY APR 29-MAY 04, 2000
+CL Seattle, WA
+SP Assoc Computat Linguist, N Amer Chapter
+AB A major obstacle to the construction of a probabilistic translation model is the lack of large parallel corpora. In this paper we first describe a parallel text mining system that finds parallel texts automatically on the Web. The generated Chinese-English parallel corpus is used to train a probabilistic translation model which translates queries for Chinese-English cross-language information retrieval (CLIR). We will discuss some problems in translation model training and show the preliminary CLIR results.
+C1 Univ Montreal, Dept Informat & Rech Operat, Montreal, PQ H3C 3J7, Canada.
+RP Chen, J (reprint author), Univ Montreal, Dept Informat & Rech Operat, CP 6128,Succursale Ctr Ville, Montreal, PQ H3C 3J7, Canada.
+NR 16
+TC 3
+Z9 4
+U1 0
+U2 1
+PU ASSOCIATION COMPUTATIONAL LINGUISTICS
+PI SOMERSET
+PA PO BOX 6090, SOMERSET, NJ 08875 USA
+BN 1-55860-704-8
+PY 2000
+BP 21
+EP 28
+PG 8
+WC Computer Science, Artificial Intelligence; Computer Science,
+   Interdisciplinary Applications; Linguistics
+SC Computer Science; Linguistics
+GA BAP09
+UT WOS:000223099500004
+DA 2019-08-27
+ER
+
+EF

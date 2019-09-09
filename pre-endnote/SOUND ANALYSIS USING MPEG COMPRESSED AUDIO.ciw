@@ -1,0 +1,50 @@
+FN Clarivate Analytics Web of Science
+VR 1.0
+PT S
+AU Tzanetakis, G
+   Cook, P
+AF Tzanetakis, G
+   Cook, P
+GP IEEE, SIGNAL PROC SOC
+   IEEE, SIGNAL PROC SOC
+   IEEE, SIGNAL PROC SOC
+TI Sound analysis using MPEG compressed audio
+SO 2000 IEEE INTERNATIONAL CONFERENCE ON ACOUSTICS, SPEECH, AND SIGNAL
+   PROCESSING, PROCEEDINGS, VOLS I-VI
+SE International Conference on Acoustics Speech and Signal Processing
+   (ICASSP)
+LA English
+DT Proceedings Paper
+CT IEEE International Conference on Acoustics, Speech, and Signal
+   Processing
+CY JUN 05-09, 2000
+CL ISTANBUL, TURKEY
+SP IEEE Signal Proc Soc
+AB There is a huge amount of audio data available that is compressed using the MPEG audio compression standard. Sound analysis is based on the computation of short time feature vectors that describe the instantaneous spectral content of the sound. An interesting possibility is the calculation of features directly from compressed data. Since the bulk of the feature calculation is performed during the encoding stage this process has a significant performance advantage if the available data is compressed. Combining decoding and analysis in one stage is also very important for audio streaming applications.
+   In this paper, we describe the calculation of features directly from MPEG audio compressed data. Two of the basic processes of analyzing sound are: segmentation and classification. To illustrate the effectiveness of the calculated features we have implemented two case studies: a general audio segmentation algorithm and a Music/Speech classifier. Experimental data is provided to show that the results obtained are comparable with sound analysis algorithms working directly with audio samples.
+C1 Princeton Univ, Dept Comp Sci, Princeton, NJ 08544 USA.
+RP Tzanetakis, G (reprint author), Princeton Univ, Dept Comp Sci, 35 Olden St, Princeton, NJ 08544 USA.
+NR 10
+TC 6
+Z9 6
+U1 0
+U2 0
+PU IEEE
+PI NEW YORK
+PA 345 E 47TH ST, NEW YORK, NY 10017 USA
+SN 1520-6149
+BN 0-7803-6293-4
+J9 INT CONF ACOUST SPEE
+PY 2000
+BP 761
+EP 764
+PG 4
+WC Acoustics; Computer Science, Artificial Intelligence; Computer Science,
+   Information Systems; Engineering, Electrical & Electronic
+SC Acoustics; Computer Science; Engineering
+GA BQ62X
+UT WOS:000088999500191
+DA 2019-08-26
+ER
+
+EF

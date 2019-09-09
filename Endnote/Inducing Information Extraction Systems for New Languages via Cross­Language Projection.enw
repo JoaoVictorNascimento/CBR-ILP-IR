@@ -1,0 +1,8 @@
+%0 Conference Proceedings
+%T Inducing Information Extraction Systems for New Languages via Cross­Language Projection
+%D 2002 
+%A Riloff, Ellen
+%A Schafer, Charles
+%A Yarowsky, David
+%X Information extraction (IE) systems are costly to build because they require development texts, parsing tools, and specialized dictionaries for each application domain and each natural language that needs to be processed. We present a novel method for rapidly creating IE systems for new languages by exploiting existing IE systems via cross-language projection. Given an IE system for a source language (e.g., English), we can transfer its annotations to corresponding texts in a target language (e.g., French) and learn information extraction rules for the new language automatically. In this paper, we explore several ways of realizing both the transfer and learning processes using off-the-shelf machine translation systems, induced word alignment, attribute projection, and transformation-based learning. We present a variety of experiments that show how an English IE system for a plane crash domain can be leveraged to automatically create a French IE system for the same domain.
+

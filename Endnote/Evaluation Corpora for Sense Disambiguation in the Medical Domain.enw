@@ -1,0 +1,9 @@
+%0 Conference Proceedings
+%T Evaluation Corpora for Sense Disambiguation in the Medical Domain
+%D 2002
+%A Raileanu, Diana
+%A Buitelaar, Paul
+%A Vintar, Spela
+%A Bay, Jörg
+%X An important aspect of word sense disambiguation is the evaluation of different methods and parameters. Unfortunately, there is a lack of test sets for evaluation, specifically for languages other than English and even more so for specific domains like medicine. Given that our work focuses on English as well as German text in the medical domain, we had to develop our own evaluation corpora in order to test our disambiguation methods. In this paper we describe the work on developing these corpora, using GermaNet and UMLS as (lexical) semantic resources, next to a description of the annotation tool KiC that we developed for support of the annotation task.
+

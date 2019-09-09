@@ -1,0 +1,6 @@
+%0 Conference Proceedings
+%T Information Extraction as a Stepping Stone toward Story Understanding
+%A Riloff, Ellen
+%D 1999
+%X Historically, story understanding systems have depended on a great deal of hand-crafted knowledge. Natural language understanding systems that use conceptual knowledge structures [SA77, Cul78, Wil78, Car79, Leh81, Kol83] typically rely on enormous amounts of manual knowledge engineering. While much of the work on conceptual knowledge structures has been hailed as pioneering research in cognitive modeling and narrative understanding, from a practical perspective it has also been viewed with skepticism because of the underlying knowledge engineering bottleneck. The thought of building a large-scale conceptual natural language processing (NLP) system that can understand open-ended text is daunting even to the most ardent enthusiasts. So must we grit our collective teeth and assume that story understanding will be limited to prototype systems in the foreseeable future? Or will conceptual natural language processing ultimately depend on a massive, broad-scale manual knowledge engineering effort, such as CYC [LPS86]?
+

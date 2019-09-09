@@ -1,0 +1,45 @@
+FN Clarivate Analytics Web of Science
+VR 1.0
+PT B
+AU Hearst, MA
+   Karadi, C
+AF Hearst, MA
+   Karadi, C
+BE Belkin, NJ
+   Narasimhalu, AD
+   Willett, P
+TI Cat-a-cone: An interactive interface for specifying searches and viewing
+   retrieval results using a large category hierarchy
+SO PROCEEDINGS OF THE 20TH ANNUAL INTERNATIONAL ACM SIGIR CONFERENCE ON
+   RESEARCH AND DEVELOPMENT IN INFORMATION RETRIEVAL
+LA English
+DT Proceedings Paper
+CT 20th Annual International ACM SIGIR Conference on Research and
+   Development in Information Retrieval
+CY JUL 27-31, 1997
+CL PHILADELPHIA, PA
+SP ACM SIGIR, BCS IRSG, UK, GI, Germany, IPSJ, Japan
+AB This paper introduces a novel user interface that integrates search and browsing of very large category hierarchies with their associated text collections. A key component is the separate but simultaneous display of the representations of the categories and the retrieved documents. Another key component is the display of multiple selected categories simultaneously, complete with their hierarchical context. The prototype implementation uses animation and a three-dimensional graphical workspace to accommodate the category hierarchy and to store intermediate search results. Query specification in this 3D environment is accomplished via a novel method for painting Boolean queries over a combination of category labels and free text, Examples are shown on a collection of medical text.
+RP Hearst, MA (reprint author), XEROX CORP,PALO ALTO RES CTR,3333 COYOTE HILL RD,PALO ALTO,CA 94304, USA.
+NR 0
+TC 60
+Z9 60
+U1 0
+U2 0
+PU ASSOC COMPUTING MACHINERY
+PI NEW YORK
+PA 1515 BROADWAY, NEW YORK, NY 10036-9998
+BN 0-89791-836-3
+PY 1997
+BP 246
+EP 255
+DI 10.1145/258525.258582
+PG 10
+WC Computer Science, Information Systems
+SC Computer Science
+GA BJ36E
+UT WOS:A1997BJ36E00028
+DA 2019-08-29
+ER
+
+EF

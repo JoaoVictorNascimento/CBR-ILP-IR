@@ -1,0 +1,6 @@
+%0 Conference Proceedings 
+%T Multimedia structuring using trees
+%D 2000
+%A Tzanetakis, George
+%A Julia, Luc E. 
+%X Traditionally work on multimedia structuring has been centered on the creation of indices and their use for searching. Although searching is important there are many cases where the user just wants to browse through the data to find something interesting without having any particular search goal. Multimedia data exhibits hierarchical structure that can be exploited for more natural user interaction with the content. In order to handle the large amounts of multimedia data more structure than what is currently available is required. In this paper, we have focused on structuring multimedia data using trees to describe both temporal and categorical relations. The pervasive use of trees to express hierarchies facilitates browsing, profiling, and authoring. Our main target application is the implementation of a personalized TV-guide. The constraints imposed by this application caused the development of a new simple compact graphical user interface for tree browsing.

@@ -1,0 +1,7 @@
+%0 Conference Proceedings
+%T Efficient Searching in Distributed Digital Libraries
+%D 1998 
+%A French, James C.
+%A Powell, Allison L.
+%A Creighton, Walter R.
+%X When a digital library is decomposed into many geographically distributed repositories, search efficiencybecomesan issue. Increasing network congestion makes this a compelling issue. We discuss an effective method for reducing the number of servers needed to respond to a query and give examples of search space reduction in the NCSTRL distributed digital library. 

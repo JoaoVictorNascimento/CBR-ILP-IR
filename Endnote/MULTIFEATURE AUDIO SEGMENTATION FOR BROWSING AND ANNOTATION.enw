@@ -1,0 +1,9 @@
+%0 Journal Article
+%T MULTIFEATURE AUDIO SEGMENTATION FOR BROWSING AND ANNOTATION
+%D 1999 
+%A PrincetonUniversity, ComputerScienceDepartment
+%A PrincetonUniversity, ComputerScienceandMusicDeptartment
+%J Proceedings of the 1999 IEEE Workshop on Applications of Signal Processing to Audio and Acoustics. WASPAA'99 (Cat. No.99TH8452)
+%X Indexing and content-based retrieval are necessary to handle the large amounts of audio and multimedia data that is becoming available on the Web and elsewhere. Since manual indexing using existing audio editors is extremely time consuming a number of automatic content analysis systems have been proposed. Most of these systems rely on speech recognition techniques to create text indices. On the other hand, very few systems have been proposed for automatic indexing of music and general audio. Typically these systems rely on classification and similarity-retrieval techniques and work in restricted audio domains. A somewhat different, more general approach for fast indexing of arbitrary audio data is the use of segmentation based on multiple temporal features combined with automatic or semi-automatic annotation. In this paper, a general methodology for audio segmentation is proposed. A number of experiments were performed to evaluate the proposed methodology and compare different segmentation schemes. Finally, a prototype audio browsing and annotation tool based on segmentation combined with existing classification techniques was implemented. 
+
+

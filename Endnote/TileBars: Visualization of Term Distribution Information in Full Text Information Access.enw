@@ -1,0 +1,5 @@
+%0 Conference Paper
+%T TileBars: Visualization of Term Distribution Information in Full Text Information Access
+%D 1995
+%A Marti A. Hearst 
+%X The field of information retrieval has traditionally focused ontextbases consisting of titles and abstracts. As a consequence,many  underlying assumptions must be  altered for retrievalfrom full-length text collections. This paper argues for mak-ing use of text structure when retrieving from full text doc-uments, and presents a visualization paradigm, called Tile-Bars, that demonstrates the usefulness of explicit term distri-bution information in Boolean-type queries. TileBars simul-taneously and compactly indicate relative document length,query term frequency, and query term distribution. The pat-terns in a column of TileBars can be quickly scanned and de-ciphered, aiding users in making judgments about the poten-tial relevance of the retrieved documents.

@@ -1,0 +1,6 @@
+%0 Conference Proceedings
+%T A Rule-Based Question Answering System For Reading Comprehension Tests
+%D 2000
+%A Riloff, Ellen
+%A Thelen, Michael
+%X We have developed a rule-based system, Quarc, that can read a short story and find the sentence in the story that best answers a given question. Quarc uses heuristic rules that look for lexical and semantic clues in the question and the story. We have tested Quarc on reading comprehension tests typically given to children in grades 3--6. Overall, Quarc found the correct sentence 40% of the time, which is encouraging given the simplicity of its rules. 

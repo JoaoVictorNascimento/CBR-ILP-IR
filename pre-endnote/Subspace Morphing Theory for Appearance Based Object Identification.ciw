@@ -1,0 +1,48 @@
+FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Zhang, ZF
+   Srihari, RK
+AF Zhang, ZF
+   Srihari, RK
+TI Subspace morphing theory for appearance based object identification
+SO PATTERN RECOGNITION
+LA English
+DT Article
+DE appearance based object identification; subspace morphing; SV vector;
+   projections; morphed vectors; essential SV vectors; collection matrix;
+   essential collection matrix; identification capability; identification
+   precision
+ID FACE RECOGNITION
+AB Object identification techniques have wide applications ranging from industry, business, military, law enforcement, to people's daily life. This research is motivated to develop a new theory for appearance based object identification with its applications in different areas. Although many successful techniques have been proposed in certain specific applications, object identification, in general, still remains as a difficult and challenging problem. In appearance based approaches, almost all the proposed methods are based on a fundamental assumption, i.e., all the images (both in the model base and to be queried) are in the same dimensions, so that the feature vectors are all in the same feature space; if images are provided with different dimensions, a normalization in scale to a pre-determined image space must be conducted. In this research, a theory for appearance based object identification called subspace morphing is developed, which allows scale-invariant identification of images of objects, and therefore, does not require normalization. Theoretical analysis and experimental evaluation show that in the situation where images are provided in different dimensions, which is common in many applications, subspace morphing theory is superior to the existing, normalization-based techniques in performance. (C) 2002 Pattern Recognition Society. Published by Elsevier Science Ltd. All rights reserved.
+C1 SUNY Binghamton, Watson Sch, Dept Comp Sci, Binghamton, NY 13902 USA.
+   SUNY Buffalo, CEDAR, Buffalo, NY 14228 USA.
+RP Zhang, ZF (reprint author), SUNY Binghamton, Watson Sch, Dept Comp Sci, Binghamton, NY 13902 USA.
+NR 21
+TC 1
+Z9 1
+U1 0
+U2 0
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0031-3203
+J9 PATTERN RECOGN
+JI Pattern Recognit.
+PD NOV
+PY 2002
+VL 35
+IS 11
+BP 2389
+EP 2396
+AR PII S0031-3203(01)00209-6
+PG 8
+WC Computer Science, Artificial Intelligence; Engineering, Electrical &
+   Electronic
+SC Computer Science; Engineering
+GA 587JG
+UT WOS:000177636300006
+DA 2019-08-27
+ER
+
+EF

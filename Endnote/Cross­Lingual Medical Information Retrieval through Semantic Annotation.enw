@@ -1,0 +1,6 @@
+%0 Conference Paper
+%T Cross­Lingual Medical Information Retrieval through Semantic Annotation
+%D 2002
+%A Vintar, Špela
+%A Buitelaar, Paul
+%X We present a framework for concept-based, cross-lingual information retrieval (CLIR) in the medical domain, which is under development in the MUCHMORE project. Our approach is based on using the Unified Medical Language System (UMLS) as the primary source of semantic data, whereby documents and queries are annotated with multiple layers of linguistic information. Linguistic processing includes POS-tagging, morphological analysis, phrase recognition and the identification of medical concepts and semantic relations between them.

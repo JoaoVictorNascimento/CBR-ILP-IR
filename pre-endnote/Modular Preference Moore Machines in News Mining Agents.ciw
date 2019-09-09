@@ -1,0 +1,47 @@
+FN Clarivate Analytics Web of Science
+VR 1.0
+PT B
+AU Wermter, S
+   Arevian, G
+AF Wermter, S
+   Arevian, G
+BE Smith, MH
+   Gruver, WA
+   Hall, LO
+TI Modular preference Moore machines in news mining agents
+SO JOINT 9TH IFSA WORLD CONGRESS AND 20TH NAFIPS INTERNATIONAL CONFERENCE,
+   PROCEEDINGS, VOLS. 1-5
+LA English
+DT Proceedings Paper
+AB This paper focuses on Hybrid Symbolic Neural Architectures that support the task of classifying textual information in learning agents. We give an outline of these symbolic and neural preference Moore machines. Furthermore, we demonstrate how they can be used in the context of information mining and news classification. Using the Reuters newswire text data, we demonstrate how hybrid symbolic and neural machines can provide an effective foundation for learning news agents. 
+CT 9th International-Fuzzy-Systems-Association World Congress/20th
+   North-American-Fuzzy-Information-Processing-Society, International
+   Conference
+CY JUL 25-28, 2001
+CL VANCOUVER, CANADA
+SP Int Fuzzy Syst Assoc, N Amer Fuzzy Informat Proc Soc, IEEE Syst, Man & Cybernet Soc, IEEE, Neural Networks Council
+ID RECURRENT
+AB This paper focuses on Hybrid Symbolic Neural Architectures that support the task of classifying textual information in learning agents. We give an outline of these symbolic and neural preference Moore machines, Furthermore, we demonstrate how they can be used in the context of information mining and news classification. Using the Reuters newswire text data, we demonstrate how hybrid symbolic and neural machines can provide an effective foundation for learning news agents.
+C1 Univ Sunderland, Informat Ctr, SCET, Sunderland SR6 0DD, Durham, England.
+RP Wermter, S (reprint author), Univ Sunderland, Informat Ctr, SCET, St Peters Campus,St Peters Way, Sunderland SR6 0DD, Durham, England.
+NR 33
+TC 0
+Z9 0
+U1 0
+U2 0
+PU IEEE
+PI NEW YORK
+PA 345 E 47TH ST, NEW YORK, NY 10017 USA
+BN 0-7803-7078-3
+PY 2001
+BP 1792
+EP 1797
+PG 6
+WC Computer Science, Artificial Intelligence; Mathematics, Applied
+SC Computer Science; Mathematics
+GA BT52S
+UT WOS:000173245100316
+DA 2019-08-27
+ER
+
+EF

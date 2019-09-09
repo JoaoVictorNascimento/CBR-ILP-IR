@@ -1,0 +1,8 @@
+%0 Conference Proceedings
+%T Running head: LEARNING FROM TEXT Learning from text: Matching readers and texts by Latent Semantic Analysis
+%D 1998
+%A Wolfe, Michael Wehring
+%A Schreiner, Maureen Elizabeth
+%A Rehder, Bob
+%A Laham, Darrell
+%X This study examines the hypothesis that the ability of a reader to learn from text depends on the match between the background knowledge of the reader and the difficulty of the text information. Latent Semantic Analysis (LSA), a statistical technique that represents the content of a document as a vector in high‐dimensional semantic space based on a large text corpus, is used to predict how much readers will learn from texts based on the estimated conceptual match between their topic knowledge and the text information. Participants completed tests to assess their knowledge of the human heart and circulatory system, then read one of four texts that ranged in difficulty from elementary to medical school level, then completed the tests again. Results show a nonmonotonic relation in which learning was greatest for texts that were neither too easy nor too difficult. LSA proved as effective at predicting learning from these texts as traditional knowledge assessment measures. For these texts, optimal assignment of text on the basis of either prereading measure would have increased the amount learned significantly.

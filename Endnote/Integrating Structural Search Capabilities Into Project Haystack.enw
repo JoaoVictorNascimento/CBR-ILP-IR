@@ -1,0 +1,5 @@
+%0 Conference Proceedings
+%T Integrating Structural Search Capabilities Into Project Haystack
+%D 2000
+%A Shnitser, Svetlana
+%X In this thesis, we have designed and implemented a system for performing structural searched in Haystack. The Haystack data model is semi-structured, and the challenge of this project was to develop a system that performs database-like queries on semistructured data using current relational database technologies. To achieve this goal, we have designed a database schema that would allow us to store our data model. We have specified the format in which the user can enter database queries and implemented procedures that translate user queries into SQL. We have designed a way to integrate structural search with text search in Haystack and have outlined ideas on how database queries can be used for machine learning. 

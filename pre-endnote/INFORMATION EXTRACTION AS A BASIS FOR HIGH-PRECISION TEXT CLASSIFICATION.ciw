@@ -1,0 +1,42 @@
+FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU RILOFF, E
+   LEHNERT, W
+AF RILOFF, E
+   LEHNERT, W
+TI INFORMATION EXTRACTION AS A BASIS FOR HIGH-PRECISION TEXT CLASSIFICATION
+SO ACM TRANSACTIONS ON INFORMATION SYSTEMS
+LA English
+DT Article
+DE INFORMATION EXTRACTION; TEXT CLASSIFICATION
+ID RETRIEVAL
+AB We describe an approach to text classification that represents a compromise between traditional word-based techniques and in-depth natural language processing.  Our approach uses a natural language processing task called ''information extraction'' as a basis for high-precision text classification.  We present three algorithms that use varying amounts of extracted information to classify texts.  The relevancy signatures algorithm uses linguistic phrases; the augmented relevancy signatures algorithm uses phrases and local context; and the case-based text classification algorithm uses larger pieces of context.  Relevant phrases and contexts are acquired automatically using a training corpus.  We evaluate the algorithms on the basis of two test sets from the MUC-4 corpus.  All three algorithms achieved high precision on both test sets, with the augmented relevancy signatures algorithm and the case-based algorithm reaching 100% precision with over 60% recall on one set.  Additionally, we compare the algorithms on a larger collection of 1700 texts and describe an automated method for empirically deriving appropriate threshold values.  The results suggest that information extraction techniques can support high-precision text classification and, in general, that using more extracted information improves performance.  As a practical matter, we also explain how the text classification system can be easily ported across domains.
+RP RILOFF, E (reprint author), UNIV MASSACHUSETTS,DEPT COMP SCI,AMHERST,MA 01003, USA.
+NR 34
+TC 69
+Z9 72
+U1 0
+U2 1
+PU ASSOC COMPUTING MACHINERY
+PI NEW YORK
+PA 1515 BROADWAY, NEW YORK, NY 10036
+SN 1046-8188
+J9 ACM T INFORM SYST
+JI ACM Trans. Inf. Syst.
+PD JUL
+PY 1994
+VL 12
+IS 3
+BP 296
+EP 333
+DI 10.1145/183422.183428
+PG 38
+WC Computer Science, Information Systems
+SC Computer Science
+GA PH887
+UT WOS:A1994PH88700005
+DA 2019-08-27
+ER
+
+EF

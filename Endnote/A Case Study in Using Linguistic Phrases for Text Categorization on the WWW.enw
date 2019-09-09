@@ -1,0 +1,8 @@
+%0 Conference Proceedings
+%T A Case Study in Using Linguistic Phrases for Text Categorization on the WWW
+%D 1998
+%A Ffirnkranz, Johannes
+%A Mitchell, Tom Michael
+%A Riloff, Ellen
+%X Most learning algorithms that are applied to text categorization problems rely on a bag-of-words document representation, i.e., each word occurring in the document is considered as a separate feature. In this paper, we investigate the use of linguistic phrases as input features for text categorization problems. These features are based on information extraction patterns that are generated and used by the AUTOSLOG-TS system. We present experimental results on using such features as background knowledge for two machine learning algorithms on a classification task on the WWW. The results show that phrasal features can improve the precision of learned theories at the expense of coverage.
+

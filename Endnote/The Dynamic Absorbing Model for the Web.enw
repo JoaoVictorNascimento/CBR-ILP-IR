@@ -1,0 +1,7 @@
+%0 Conference Proceedings
+%T The Dynamic Absorbing Model for the Web
+%D 2003
+%A Amati, Gianni
+%A Ounis, Iadh
+%A Plachouras, Vassilis
+%X In this paper we propose a new theoretical method for combining both content and link structure analysis for Web information retrieval. This approach is based on performing a random walk on a modified Markov chain, induced from the Web graph. This new model is applicable either in a static way, where a global prestige score is computed for every document, or in a dynamic way, where the link structure of the results from a first pass retrieval is taken into account. The results of experiments on the TREC WT10g and .GOV collections show that it is a robust method, particularly suitable for dynamic link analysis. Moreover, we show that it outperforms PageRank under the same experimental settings. 

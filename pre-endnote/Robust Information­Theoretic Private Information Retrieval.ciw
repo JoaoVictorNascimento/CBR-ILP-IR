@@ -1,0 +1,49 @@
+FN Clarivate Analytics Web of Science
+VR 1.0
+PT S
+AU Beimel, A
+   Stahl, Y
+AF Beimel, A
+   Stahl, Y
+BE Cimato, S
+   Galdi, C
+   Persiano, G
+TI Robust information-theoretic private information retrieval
+SO SECURITY IN COMMUNICATION NETWORKS
+SE Lecture Notes in Computer Science
+LA English
+DT Article; Proceedings Paper
+CT 3rd International Conference on Security in Communication Networks
+CY SEP 11-13, 2002
+CL AMALFI, ITALY
+ID PERFECT HASH FAMILIES; CONSTRUCTIONS; CODES; SIZE
+AB A Private Information Retrieval (PIR) protocol allows a user to retrieve a data item of its choice from a database, such that the servers storing the database do not gain information on the identity of the item being retrieved. PIR protocols were studied in depth since the subject was introduced in Chor, Goldreich, Kushilevitz, and Sudan 1995. The standard definition of PIR protocols raises a simple question - what happens if some of the servers crash during the operation? How can we devise a protocol which still works in the presence of crashing servers? Current systems do not guarantee availability of servers at all times for many reasons, e.g., crash of server or communication problems. Our purpose is to design robust PIR protocols, i.e., protocols which still work correctly even if only k out of E servers are available during the protocols' operation (the user does not know in advance which servers are available). We present various robust PIR protocols giving different tradeoffs between the different parameters. These protocols are incomparable, i.e., for different values of n and k we will get better results using different protocols. We first present a generic transformation from regular PIR protocols to robust PIR protocols, this transformation is important since any improvement in the communication complexity of regular PIR protocol will immediately implicate improvement in the robust PIR protocol communication. We also present two specific robust PIR protocols. Finally, we present robust PIR protocols which can tolerate Byzantine servers, i.e., robust PIR protocols which still work in the presence of malicious servers or servers with corrupted or obsolete databases.
+C1 Ben Gurion Univ Negev, Dept Comp Sci, IL-84105 Beer Sheva, Israel.
+RP Beimel, A (reprint author), Ben Gurion Univ Negev, Dept Comp Sci, IL-84105 Beer Sheva, Israel.
+EM beimel@cs.bgu.ac.il; stahl@cs.bgu.ac.il
+OI Beimel, Amos/0000-0002-6572-4195
+NR 29
+TC 8
+Z9 9
+U1 0
+U2 1
+PU SPRINGER-VERLAG BERLIN
+PI BERLIN
+PA HEIDELBERGER PLATZ 3, D-14197 BERLIN, GERMANY
+SN 0302-9743
+BN 3-540-00420-3
+J9 LECT NOTES COMPUT SC
+PY 2003
+VL 2576
+BP 326
+EP 341
+PG 16
+WC Computer Science, Artificial Intelligence; Computer Science, Information
+   Systems; Telecommunications
+SC Computer Science; Telecommunications
+GA BW38W
+UT WOS:000181845500024
+DA 2019-08-27
+ER
+
+EF
