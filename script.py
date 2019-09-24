@@ -3,7 +3,8 @@ import os
 import sys
 import re
 import csv
-import pandas as pd
+#import pandas as pd
+from difflib import SequenceMatcher
 
 
 def count_verify_void_line(line):
@@ -228,6 +229,9 @@ def finalOutputFile():
                 file.write(line)
             file.write("\n")
             art.close()
+
+def similiarString(stringA, stringB):
+    return SequenceMatcher(None, stringA, stringB).ratio()
             
 def main():
     '''
@@ -256,12 +260,16 @@ def main():
     #csv_title_and_class(titles_articles, list_file)
     #asd()
     # print(string[2:])
-    convertCIWtoEndNoteAndSaveFolder("pre-endnote/")
+    #convertCIWtoEndNoteAndSaveFolder("pre-endnote/")
     #line = tagIdentifyCiw(["AB A Private Information Retrieval (PIR) protocol enables a user to retrieve a data item from a database while hiding the identity of the item being retrieved. In a t-private, k-server PIR protocol the database is replicated among k servers, and the user's privacy is protected from any collusion of up to t servers. The main cost-measure of such protocols is the communication complexity of retrieving a single bit of data.\n", "   This work addresses the information-theoretic setting for PIR, in which the user's privacy should be unconditionally protected from collusions of servers. We present a unified general construction, whose abstract components can be instantiated to yield both old and new families of PIR protocols. A main ingredient in the new protocols is a generalization of a solution by Babai, Kimmel, and Lokam to a communication complexity problem in the so-called simultaneous messages model.\n", '   Our construction strictly improves upon previous constructions and resolves some previous anomalies. In particular, we obtain: (1) t-private k-server PIR protocols with O(n(1/[(2k-1)/t])) communication bits, where n is the database size. For t > 1, this is a substantial asymptotic improvement over the previous state of the art; (2) a constant-factor improvement in the communication complexity of 1-private PIR, providing the first improvement to the 2-server case since PIR protocols were introduced; (3) efficient PIR protocols with logarithmic query length. The latter protocols have applications to the construction of efficient families of locally decodable codes over large alphabets and to PIR protocols with reduced work by the servers.\n'])
     #print(line)
     # string = "Article; Proceedings Paper"
     # find = string.find('Article')
     # print(find)
-    finalOutputFile()
+    #finalOutputFile()
+    string_a = "oia"
+    string_b = "oia oia"
+    print(similiarString(string_a,string_b))
+
     
 main()
