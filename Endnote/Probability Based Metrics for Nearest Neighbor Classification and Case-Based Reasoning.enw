@@ -1,0 +1,16 @@
+%0 Conference Proceedings
+%T Probability Based Metrics for Nearest Neighbor Classification and Case-Based Reasoning
+%A Blanzieri, Enrico
+%A Ricci⋆, Francesco
+%Y Althoff, Klaus-Dieter
+%Y Bergmann, Ralph
+%Y Branting, L.Karl
+%S Case-Based Reasoning Research and Development
+%D 1999
+%I Springer Berlin Heidelberg
+%C Berlin, Heidelberg
+%@ 978-3-540-48508-7
+%F 10.1007/3-540-48508-2_2
+%X This paper is focused on a class of metrics for the Nearest Neighbor classifier, whose definition is based on statistics computed on the case base. We show that these metrics basically rely on a probability estimation phase. In particular, we reconsider a metric proposed in the 80’s by Short and Fukunaga, we extend its definition to an input space that includes categorical features and we evaluate empirically its performance. Moreover, we present an original probability based metric, called Minimum Risk Metric (MRM), i.e. a metric for classification tasks that exploits estimates of the posterior probabilities. MRM is optimal, in the sense that it optimizes the finite misclassification risk, whereas the Short and Fukunaga Metric minimize the difference between finite risk and asymptotic risk. An experimental comparison of MRM with the Short and Fukunaga Metric, the Value Difference Metric, and Euclidean-Hamming metrics on benchmark datasets shows that MRM outperforms the other metrics. MRM performs comparably to the Bayes Classifier based on the same probability estimates. The results suggest that MRM can be useful in case-based applications where the retrieval of a nearest neighbor is required.
+%P 14-28
+

@@ -1,0 +1,15 @@
+%0 Conference Proceedings
+%T Deleting and Building Sort Out Techniques for Case Base Maintenance
+%A Salamó, Maria
+%A Golobardes, Elisabet
+%Y Craw, Susan
+%Y Preece, Alun
+%S Advances in Case-Based Reasoning
+%D 2002
+%I Springer Berlin Heidelberg
+%C Berlin, Heidelberg
+%@ 978-3-540-46119-7
+%F 10.1007/3-540-46119-1_27
+%X Early work on case based reasoning reported in the literature shows the importance of case base maintenance for successful practical systems. Different criteria to the maintenance task have been used for more than half a century. In this paper we present different sort out techniques for case base maintenance. All the sort out techniques proposed are based on the same principle: a Rough Sets competence model. First of all, we present sort out reduction techniques based on deletion of cases. Next, we present sort out techniques that build new reduced competent case memories based on the original ones. The main purpose of these methods is to maintain the competence and reduce, as much as possible, its size. Experiments using different domains, most of them from the UCI repository, show that the reduction techniques maintain the competence obtained by the original case memory. The results are analysed with those obtained using well-known reduction techniques.
+%P 365-379
+

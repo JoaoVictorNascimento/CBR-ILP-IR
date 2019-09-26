@@ -1,0 +1,14 @@
+%0 Conference Proceedings
+%T A hybrid approach to word segmentation
+%A Kazakov, Dimitar
+%A Manandhar, Suresh
+%Y Page, David
+%S Inductive Logic Programming
+%D 1998
+%I Springer Berlin Heidelberg
+%C Berlin, Heidelberg
+%@ 978-3-540-69059-7
+%F 10.1007/BFb0027316
+%X This article presents a combination of unsupervised and supervised learning techniques for generation of word segmentation rules from a list of words. First, a bias for word segmentation is introduced and a simple genetic algorithm is used for the search of segmentation that corresponds to the best bias value. In the second phase, the segmentation obtained from the genetic algorithm is used as an input for two inductive logic programming algorithms, namely FoIDL and CLOG. The result is a logic program that can be used for segmentation of unseen words. The learnt program contains affixes which are characteristic for the given language and can be used in other morphology tasks.
+%P 125-134
+

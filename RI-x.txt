@@ -1,0 +1,12 @@
+A Multi­Layered, XML­Based Approach to the Integration of Linguis­ tic and Semantic Annotations
+The SENSEVAL­2 Panel on Domains, Topics and Senses
+University of Glasgow at the Web track of TREC 2002 Vassilis Plachouras, Iadh Ounis, Gianni Amati  , and C.J. Van Rijsbergen
+3D GRAPHICS TOOLS FOR SOUND COLLECTIONS
+A Multivalued Conditional Logic with Probabilistic Interpretation for Causal Decision Theory
+A new approach to clustering
+Breaking the O(n 1=(2k 1) ) Barrier for Information­Theoretic Private Information Retrieval
+Improving Algorithms for Boosting
+MULTIFEATURE AUDIO SEGMENTATION FOR BROWSING AND ANNOTATION
+Metasearch Consistency #
+Models for Metasearch
+Self­Organising Networks for Classification Learning from Normal and Aphasic Speech

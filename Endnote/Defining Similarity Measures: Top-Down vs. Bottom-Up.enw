@@ -1,0 +1,14 @@
+%0 Conference Proceedings
+%T Defining Similarity Measures: Top-Down vs. Bottom-Up
+%A Stahl, Armin
+%Y Craw, Susan
+%Y Preece, Alun
+%S Advances in Case-Based Reasoning
+%D 2002
+%I Springer Berlin Heidelberg
+%C Berlin, Heidelberg
+%@ 978-3-540-46119-7
+%F 10.1007/3-540-46119-1_30
+%X Defining similarity measures is a crucial task when developing CBR applications. Particularly, when employing utility-based similarity measures rather than pure distance-based measures one is confronted with a difficult knowledge engineering task. In this paper we point out some problems of the state-of-the-art procedure to defining similarity measures. To overcome these problems we propose an alternative strategy to acquire the necessary domain knowledge based on a Machine Learning approach. To show the feasibility of this strategy several application scenarios are discussed and some results of an experimental evaluation for one of these scenarios are presented.
+%P 406-420
+

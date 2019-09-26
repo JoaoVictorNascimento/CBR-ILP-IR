@@ -1,0 +1,14 @@
+%0 Conference Proceedings
+%T Sorted Downward Refinement: Building Background Knowledge into a Refinement Operator for Inductive Logic Programming
+%A Frisch, Alan M.
+%Y Džeroski, Sašo
+%Y Flach, Peter
+%S Inductive Logic Programming
+%D 1999
+%I Springer Berlin Heidelberg
+%C Berlin, Heidelberg
+%@ 978-3-540-48751-7
+%F 10.1007/3-540-48751-4_11
+%X Since its inception, the field of inductive logic programming has been centrally concerned with the use of background knowledge in induction. Yet, surprisingly, no serious attempts have been made to account for background knowledge in refinement operators for clauses, even though such operators are one of the most important, prominent and widely-used devices in the field. This paper shows how a sort theory, which encodes taxonomic knowledge, can be built into a downward, subsumption-based refinement operator for clauses.
+%P 104-115
+

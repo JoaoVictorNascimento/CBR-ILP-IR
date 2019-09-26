@@ -1,0 +1,16 @@
+%0 Conference Proceedings
+%T Spatial composition using cases: IDIOM
+%A Smith, Ian
+%A Lottaz, Claudio
+%A Faltings, Boi
+%Y Veloso, Manuela
+%Y Aamodt, Agnar
+%S Case-Based Reasoning Research and Development
+%D 1995
+%I Springer Berlin Heidelberg
+%C Berlin, Heidelberg
+%@ 978-3-540-48446-2
+%F 10.1007/3-540-60598-3_9
+%X This paper describes a system called IDIOM (Interactive Design using Intelligent Objects and Models) that was developed in order to study model-based case combination and adaptation in design. Intelligent objects are defined to be parts of cases that are interpreted at run-time by domain models and through user interaction. Incremental parameterization and dimensionality reduction ensures that design solutions are proposed quickly and reliably. An implementation in the domain of spatial composition for building designs demonstrates several aspects of the approach.
+%P 88-97
+

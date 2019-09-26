@@ -1,0 +1,15 @@
+%0 Conference Proceedings
+%T Induction of Slovene nominal paradigms
+%A Džeroski, Sašo
+%A Erjavec, Tomaž
+%Y Lavrač, Nada
+%Y Džeroski, Sašo
+%S Inductive Logic Programming
+%D 1997
+%I Springer Berlin Heidelberg
+%C Berlin, Heidelberg
+%@ 978-3-540-69587-5
+%F 10.1007/3540635149_42
+%X The paper presents results of using FoIDL, an inductive logic programming system, to learn the inflectional paradigms of Slovene nouns. Foidl learns first-order decision lists, defined as ordered list of clauses; it has been previously tested on the problem of inducing rules for forming the past tense of English verbs. Slovene, unlike English, has rich inflectional morphology, and the paper reports the result of applying Foidl over a large lexicon of Slovene word-forms to induce rules for the synthesis and analysis of the full inflectional paradigms of Slovene nouns.
+%P 141-148
+

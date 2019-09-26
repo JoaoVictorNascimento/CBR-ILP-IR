@@ -1,0 +1,21 @@
+%0 Conference Proceedings
+%T ILP: Just Do It
+%A Page, David
+%Y Lloyd, John
+%Y Dahl, Veronica
+%Y Furbach, Ulrich
+%Y Kerber, Manfred
+%Y Lau, Kung-Kiu
+%Y Palamidessi, Catuscia
+%Y Pereira, Luís Moniz
+%Y Sagiv, Yehoshua
+%Y Stuckey, Peter J.
+%S Computational Logic — CL 2000
+%D 2000
+%I Springer Berlin Heidelberg
+%C Berlin, Heidelberg
+%@ 978-3-540-44957-7
+%F 10.1007/3-540-44957-4_2
+%X Inductive logic programming (ILP) is built on a foundation laid by research in other areas of computational logic. But in spite of this strong foundation, at 10 years of age ILP now faces a number of new challenges brought on by exciting application opportunities. The purpose of this paper is to interest researchers from other areas of computational logic in contributing their special skill sets to help ILP meet these challenges. The paper presents five future research directions for ILP and points to initial approaches or results where they exist. It is hoped that the paper will motivate researchers from throughout computational logic to invest some time into “doing” ILP.
+%P 25-40
+

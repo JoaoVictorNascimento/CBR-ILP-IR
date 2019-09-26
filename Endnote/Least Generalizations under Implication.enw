@@ -1,0 +1,14 @@
+%0 Conference Proceedings
+%T Least generalizations under implication
+%A Nienhuys-Cheng, Shan-Hwei
+%A de Wolf, Ronald
+%Y Muggleton, Stephen
+%S Inductive Logic Programming
+%D 1997
+%I Springer Berlin Heidelberg
+%C Berlin, Heidelberg
+%@ 978-3-540-69583-7
+%F 10.1007/3-540-63494-0_61
+%X One of the most prominent approaches in Inductive Logic Programming is the use of least generalizations under subsumption of given clauses. However, subsumption is weaker than logical implication, and not very well suited for handling recursive clauses. Therefore an important open question in this area concerns the existence of least generalizations under implication (LGIs). Our main new result in this paper is the existence and computability of such an LGI for any finite set of clauses which contains at least one non-tautologous function-free clause. We can also define implication relative to background knowledge. In this case, least generalizations only exist in a very limited case.
+%P 283-298
+

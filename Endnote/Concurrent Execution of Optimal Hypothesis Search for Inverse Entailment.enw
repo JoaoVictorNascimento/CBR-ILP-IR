@@ -1,0 +1,16 @@
+%0 Conference Proceedings
+%T Concurrent Execution of Optimal Hypothesis Search for Inverse Entailment
+%A Ohwada, Hayato
+%A Nishiyama, Hiroyuki
+%A Mizoguchi, Fumio
+%Y Cussens, James
+%Y Frisch, Alan
+%S Inductive Logic Programming
+%D 2000
+%I Springer Berlin Heidelberg
+%C Berlin, Heidelberg
+%@ 978-3-540-44960-7
+%F 10.1007/3-540-44960-4_10
+%X Inductive Logic Programming (ILP) allows first-order learning and provides greater expressiveness than propositional learning. However, due to its tradeoff, the learning speed may not be reasonable for datamining settings. To overcome this problem, this paper describes a distributed implementation of an ILP engine, allowing speeding up optimal hypothesis search in inverse entailment according to the number of processors. In this implementation, load balancing is achieved by contract net communication between the processors, resulting in a dynamic allocation of the hypothesis search task. This paper describes our concurrent search algorithm, distributed implementation and experimental results for speeding up inverse entailment. An initial experiment was conducted to demonstrate the well-balanced task allocation.
+%P 165-173
+

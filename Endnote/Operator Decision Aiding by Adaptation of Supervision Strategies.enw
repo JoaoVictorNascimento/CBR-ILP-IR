@@ -1,0 +1,16 @@
+%0 Conference Proceedings
+%T Operator decision aiding by adaptation of supervision strategies
+%A Fuchs, Béatrice
+%A Mille, Alain
+%A Chiron, Benoît
+%Y Veloso, Manuela
+%Y Aamodt, Agnar
+%S Case-Based Reasoning Research and Development
+%D 1995
+%I Springer Berlin Heidelberg
+%C Berlin, Heidelberg
+%@ 978-3-540-48446-2
+%F 10.1007/3-540-60598-3_3
+%X This paper presents a CBR application in the domain of industrial supervision. The domain knowledge is acquired at design stage through different models and some critical prototypical situations. At operating stage, new situations and their associated supervision strategy complete the supervision system and are reused by adaptation in later situations in similar contexts. The system can be viewed as an artificial operator who collects experiences from the operators in order to propose relevant variants in similar situations. First, we present current approaches in process supervision. Then, knowledge and cases representation that support case-based reasoning and the different stages of the reasoning process are presented. We focus on case adaptation, and show different degrees of case reuse, depending on available knowledge.
+%P 23-32
+

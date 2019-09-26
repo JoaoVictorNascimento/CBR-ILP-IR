@@ -1,0 +1,16 @@
+%0 Conference Proceedings
+%T The case for graph-structured representations
+%A Sanders, Kathryn E.
+%A Kettler, Brian P.
+%A Hendler, James A.
+%Y Leake, David B.
+%Y Plaza, Enric
+%S Case-Based Reasoning Research and Development
+%D 1997
+%I Springer Berlin Heidelberg
+%C Berlin, Heidelberg
+%@ 978-3-540-69238-6
+%F 10.1007/3-540-63233-6_496
+%X Case-based reasoning involves reasoning from cases: specific pieces of experience, the reasoner's or another's, that can be used to solve problems. We use the term “graph-structured” for representations that (1) are capable of expressing the relations between any two objects in a case, (2) allow the set of relations used to vary from case to case, and (3) allow the set of possible relations to be expanded as necessary to describe new cases. Such representations can be implemented as, for example, semantic networks or lists of concrete propositions in some logic.
+%P 245-254
+

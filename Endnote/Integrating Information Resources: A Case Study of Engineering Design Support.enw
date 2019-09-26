@@ -1,0 +1,19 @@
+%0 Conference Proceedings
+%T Integrating Information Resources: A Case Study of Engineering Design Support⋆
+%A Leake, David B.
+%A Birnbaum, Larry
+%A Hammond, Kristian
+%A Marlow, Cameron
+%A Yang, Hao
+%Y Althoff, Klaus-Dieter
+%Y Bergmann, Ralph
+%Y Branting, L.Karl
+%S Case-Based Reasoning Research and Development
+%D 1999
+%I Springer Berlin Heidelberg
+%C Berlin, Heidelberg
+%@ 978-3-540-48508-7
+%F 10.1007/3-540-48508-2_35
+%X The development of successful case-based design aids depends both on the CBR processes themselves and on crucial questions of integrating the CBR system into the larger task context: how to make the CBR component provide information at the right time and in the right form, how to access relevant information from additional information sources to supplement the case library, how to capture information for use downstream and how to unobtrusively acquire new cases. This paper presents a set of design principles and techniques that integrate methods from CBR and information retrieval to address these questions. The paper illustrates their application through a case study of the Stamping Advisor, a tool to support feasibility analysis for stamped metal automotive parts.
+%P 482-496
+

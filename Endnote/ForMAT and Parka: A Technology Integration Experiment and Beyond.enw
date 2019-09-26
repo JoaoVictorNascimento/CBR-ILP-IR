@@ -1,0 +1,14 @@
+%0 Conference Proceedings
+%T A scalable approach for question based indexing of encyclopedic texts
+%A Wisdo, Christopher
+%Y Leake, David B.
+%Y Plaza, Enric
+%S Case-Based Reasoning Research and Development
+%D 1997
+%I Springer Berlin Heidelberg
+%C Berlin, Heidelberg
+%@ 978-3-540-69238-6
+%F 10.1007/3-540-63233-6_492
+%X This paper describes a tool set developed to aid a human content analyst index texts for use in a particular form of structured hypermedia known as an ASK System. The tool set assists the content analyst by employing a library of question templates to represent the types of questions the output ASK system might contain. Question templates provided roughly a six-fold increase in the rate with which texts are indexed compared to manual techniques. Indexing progress is linear throughout, indicating that the methodology can be used to effectively index a large body of texts.
+%P 200-210
+

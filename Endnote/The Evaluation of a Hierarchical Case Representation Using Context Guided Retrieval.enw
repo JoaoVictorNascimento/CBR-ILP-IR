@@ -1,0 +1,15 @@
+%0 Conference Proceedings
+%T The evaluation of a hierarchical case representation using context guided retrieval
+%A Watson, Ian
+%A Perera, Srinath
+%Y Leake, David B.
+%Y Plaza, Enric
+%S Case-Based Reasoning Research and Development
+%D 1997
+%I Springer Berlin Heidelberg
+%C Berlin, Heidelberg
+%@ 978-3-540-69238-6
+%F 10.1007/3-540-63233-6_497
+%X This paper presents the results of the comparison of the performance of a hierarchical case representation using a context guided retrieval method against that of a simpler flat file representation using standard nearest neighbour retrieval. The estimation of the construction costs of light industrial warehouse buildings is used as the test domain. Each case comprises approximately 400 features. These are structured into a hierarchical case representation that holds more general contextual features at its top and specific building elements at its leaves. A modified nearest neighbour retrieval algorithm is used that is guided by contextual similarity. Problems are decomposed into sub-problems and solutions recomposed into a final solution. The comparative results show that the context guided retrieval method using the hierarchical case representation out performs the simple flat file representation and standard nearest neighbour retrieval.
+%P 255-266
+

@@ -1,0 +1,14 @@
+%0 Conference Proceedings
+%T “Fish and Sink” an anytime-algorithm to retrieve adequate cases
+%A Schaaf, Jörg Walter
+%Y Veloso, Manuela
+%Y Aamodt, Agnar
+%S Case-Based Reasoning Research and Development
+%D 1995
+%I Springer Berlin Heidelberg
+%C Berlin, Heidelberg
+%@ 978-3-540-48446-2
+%F 10.1007/3-540-60598-3_50
+%X The main idea of the presented approach is based on the observation that identical data can be interpreted and used differently in different situations and by different persons. Data is considered individually and according to the actual situation. This phenomena can be interpreted as regarding different aspects. Here, the notion of aspects is applied to cases in the area of Cased Based Reasoning. This requires special representation of cases, special structure of case bases and a new algorithm to work on the defined structure. In this paper we will focus on description and discussion of an anytime algorithm that searches for cases regarding the relevant aspects.
+%P 538-547
+

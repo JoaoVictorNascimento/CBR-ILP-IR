@@ -1,0 +1,16 @@
+%0 Conference Proceedings
+%T Case memory and retrieval based on the immune system
+%A Hunt, John E.
+%A Cooke, Denise E.
+%A Holstein, Horst
+%Y Veloso, Manuela
+%Y Aamodt, Agnar
+%S Case-Based Reasoning Research and Development
+%D 1995
+%I Springer Berlin Heidelberg
+%C Berlin, Heidelberg
+%@ 978-3-540-48446-2
+%F 10.1007/3-540-60598-3_19
+%X A variety of case memory organisations and case retrieval techniques have been proposed in the literature. Each of these has different features which can affect how useful they are for different applications. However, in applications which are likely to hold very large numbers of cases, which are highly volatile, and the structure of which is poorly understood, most of the current approaches are unsuitable.
+%P 205-216
+

@@ -1,0 +1,15 @@
+%0 Conference Proceedings
+%T Learning User Preferences in Case-Based Software Reuse
+%A Gomes, Paulo
+%A Bento, Carlos
+%Y Blanzieri, Enrico
+%Y Portinale, Luigi
+%S Advances in Case-Based Reasoning
+%D 2000
+%I Springer Berlin Heidelberg
+%C Berlin, Heidelberg
+%@ 978-3-540-44527-2
+%F 10.1007/3-540-44527-7_11
+%X Case-Based Reasoning is a good framework for Software Reuse because it provides a flexible and powerful searching mechanism for software components. In a CBR system for software reuse it is important to learn the user preferences adapting the system software choices to the user. In a complex domain as software design, the similarity metric will also be complex, thus creating the necessity for a learning algorithm capable of weight learning. In this paper we present an evolutionary approach to similarity weight learning in a CBR system for software reuse. This approach is justified by the similarity metric complexity and recursive nature, which makes other learning methods to fail. We present experimental work showing the feasibility of this approach and we also present a parametric study, exploring several crossover and mutation strategies.
+%P 112-123
+

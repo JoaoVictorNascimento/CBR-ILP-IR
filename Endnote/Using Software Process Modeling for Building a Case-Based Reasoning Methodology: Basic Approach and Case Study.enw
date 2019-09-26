@@ -1,0 +1,16 @@
+%0 Conference Proceedings
+%T Using software process modeling for building a case-based reasoning methodology: Basic approach and case study
+%A Bergmann, Ralph
+%A Wilke, Wolfgang
+%A Schumacher, Jürgen
+%Y Leake, David B.
+%Y Plaza, Enric
+%S Case-Based Reasoning Research and Development
+%D 1997
+%I Springer Berlin Heidelberg
+%C Berlin, Heidelberg
+%@ 978-3-540-69238-6
+%F 10.1007/3-540-63233-6_520
+%X Building a methodology for developing and maintaining CBR applications is an important goal currently addressed by CBR researchers and practitioners. Since CBR application development is a special kind of software development, building a CBR methodology can certainly be viewed as a software engineering research and development activity. This paper presents a perspective of how software process modeling, which is a recent approach in software engineering, can be used for building a case-based reasoning methodology. Further we describe a case study to show the applicability of the proposed concepts.
+%P 509-518
+

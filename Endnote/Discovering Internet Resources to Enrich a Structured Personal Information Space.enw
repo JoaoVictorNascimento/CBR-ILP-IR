@@ -1,0 +1,7 @@
+%0 %0 Conference Paper
+%T Discovering Internet Resources to Enrich a Structured Personal Information Space
+%D 2000
+%A %A Michèle Ouellet
+%A Jan Gecsei
+%A Jian-Yun Nie 
+%X The Internet is a tremendous resource where one can find documents to enrich a personal information space. The question is: how can one find relevant documents and how can these be organized into an information space? In this paper, we describe a prototype which aims to provide the user with assistance in these two tasks. Our approach assumes the existence of an initial concept structure set up by the user. This structure may contain only rudimentary descriptions for each concept. The system's task is to find relevant documents from the Internet and to insert them in the appropriate places in the concept structure.

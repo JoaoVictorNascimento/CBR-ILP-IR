@@ -1,0 +1,20 @@
+%0 Conference Proceedings
+%T Using CBR for Automation of Software Design Patterns
+%A Gomes, Paulo
+%A Pereira, Francisco C.
+%A Paiva, Paulo
+%A Seco, Nuno
+%A Carreiro, Paulo
+%A Ferreira, José L.
+%A Bento, Carlos
+%Y Craw, Susan
+%Y Preece, Alun
+%S Advances in Case-Based Reasoning
+%D 2002
+%I Springer Berlin Heidelberg
+%C Berlin, Heidelberg
+%@ 978-3-540-46119-7
+%F 10.1007/3-540-46119-1_39
+%X Software design patterns are used in software engineering as a way to improve and maintain software systems. Patterns are abstract solutions to problem categories, and they describe why, how, and when can a pattern be applied. Their description is based on natural language, which makes the automation of design patterns a difficult task. In this paper we present an approach for automation of design pattern application. We focus on the selection of what pattern to apply, and where to apply it. We follow a Case-Based Reasoning approach, providing a complete framework for pattern application. In our approach cases describe situations for application of patterns.
+%P 534-548
+

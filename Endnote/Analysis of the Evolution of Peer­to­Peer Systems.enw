@@ -1,0 +1,7 @@
+%0 Conference Proceedings
+%T Analysis of the Evolution of Peer­to­Peer Systems
+%D 2002  
+%A Liben-Nowell, David
+%A Balakrishnan, Hariharan
+%A Karger, David R.
+%X In this paper, we give a theoretical analysis of peer-to-peer (P2P) networks operating in the face of concurrent joins and unexpected departures. We focus on Chord, a recently developed P2P system that implements a distributed hash table abstraction, and study the process by which Chord maintains its distributed state as nodes join and leave the system. We argue that traditional performance measures based on run-time are uninformative for a continually running P2P network, and that the rate at which nodes in the network need to participate to maintain system state is a more useful metric. We give a general lower bound on this rate for a network to remain connected, and prove that an appropriately modified version of Chord's maintenance rate is within a logarithmic factor of the optimum rate.

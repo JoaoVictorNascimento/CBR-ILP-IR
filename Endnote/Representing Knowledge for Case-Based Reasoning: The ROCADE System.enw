@@ -1,0 +1,15 @@
+%0 Conference Proceedings
+%T Representing Knowledge for Case-Based Reasoning: The Rocade System
+%A Fuchs, Béatrice
+%A Mille, Alain
+%Y Blanzieri, Enrico
+%Y Portinale, Luigi
+%S Advances in Case-Based Reasoning
+%D 2000
+%I Springer Berlin Heidelberg
+%C Berlin, Heidelberg
+%@ 978-3-540-44527-2
+%F 10.1007/3-540-44527-7_9
+%X This paper presents the object-based knowledge representation system Rocade, that is aimed at the development of case-based reasoning (cbr) systems. cbr is studied by reference to the two levels defined by Newell: at the knowledge level, a general detailed model of the cbr process has been proposed. This model is intended to be implemented at the symbol level materialized by the Rocade system. This paper presents these two complementary levels and focuses on Rocade. The concepts and reasoning mechanisms of Rocade are described, as well as its architecture. Then, its architecture allowing different ways to use it is presented. Rocade is illustrated with examples of two cbr systems. The implementation of 2 CBR systems are used to illustrate the rocade system the functionalities of the rocade system
+%P 86-98
+

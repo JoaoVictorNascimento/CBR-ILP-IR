@@ -1,0 +1,20 @@
+%0 Conference Proceedings
+%T Experiments on Case-Based Retrieval of Software Designs
+%A Gomes, Paulo
+%A Pereira, Francisco C.
+%A Paiva, Paulo
+%A Seco, Nuno
+%A Carreiro, Paulo
+%A Ferreira, José L.
+%A Bento, Carlos
+%Y Craw, Susan
+%Y Preece, Alun
+%S Advances in Case-Based Reasoning
+%D 2002
+%I Springer Berlin Heidelberg
+%C Berlin, Heidelberg
+%@ 978-3-540-46119-7
+%F 10.1007/3-540-46119-1_10
+%X Software systems are becoming increasingly complex, demanding for more computational resources and better software development methodologies. The software engineer and the CASE tool must work like a team. For this to happen, the CASE tool must be able to understand the user, and to provide new functionalities, such as flexible retrieval of old designs. We think that Case-Based Reasoning can provide a reasoning framework capable of meeting these demands. One important task that a CASE tool based on Case-Based Reasoning can perform adequately, is the retrieval of relevant designs. These designs can be stored in a case library, central to the software development company, thus enabling knowledge sharing through out the company. In this paper we present an approach to case-based retrieval of software designs, and experimental results achieved with this approach.
+%P 118-132
+

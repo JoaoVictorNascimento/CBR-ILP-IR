@@ -1,0 +1,16 @@
+%0 Conference Proceedings
+%T Learning rules that classify ocular fundus images for glaucoma diagnosis
+%A Mizoguchi, Fumio
+%A Ohwada, Hayato
+%A Daidoji, Makiko
+%A Shirato, Shiroteru
+%Y Muggleton, Stephen
+%S Inductive Logic Programming
+%D 1997
+%I Springer Berlin Heidelberg
+%C Berlin, Heidelberg
+%@ 978-3-540-69583-7
+%F 10.1007/3-540-63494-0_53
+%X This paper provides an empirical study of an Inductive Logic Programming (ILP) method through the application to classifying ocular fundus images for glaucoma diagnosis. Key issues in this study are not only dealing with low-level measurement data such as image, but also producing diagnostic rules that are readable and comprehensive for interactions to medical experts. For this purpose, we develop a constraintdirected ILP system, GKS, that handles both symbolic and numerical data, and produce Horn clauses with numerical constraints. Furthermore, we provide GKS with a “sequentail” learning facility where GKS repeatedly generates a single best rule which becomes background knowledge for the next learning phase. Since the learning target for this application is the abnormality of each segment in image, generated rules represent the relationships between abnormal segments. Since such relationships can be interpreted as qualitative rules and be used as diagnostic rules directly, the present method provides automatic construction of knowledge base from expert's accumulated diagnostic experience. Furthermore, the experimental result shows that induced rules have high statistical performance. The present study indicates the advantage and possibility of the ILP approach to medical diagnosis from measurement data.
+%P 146-159
+

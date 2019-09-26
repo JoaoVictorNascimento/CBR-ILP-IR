@@ -1,0 +1,6 @@
+%0 Conference Proceedings
+%T Heterogeneous Web Data Extraction using Ontology
+%D 2001
+%A Snoussi, Hicham
+%A Nie, Jing
+%X Multi-agent systems can be fully developed only when they have access to a large number of information sources. These latter are becoming more and more available on the Internet in form of web pages. This paper does not deal with the problem of information retrieval, but rather the extraction of data from HTML web pages in order to make them usable by autonomous agents. This problem is not trivial because of the heterogeneity of web pages. We describe our approach to facilitate the formalizati on, extraction and grouping of data from different sources. To do this, we developed a utility tool th at assists us in generating a uniform description for each information source, using a descriptive domain ontology. Users and agents can query the extracted data using a standard querying interface. The ultim a e goal of this tool is to provide useful information to autonomous agents. 

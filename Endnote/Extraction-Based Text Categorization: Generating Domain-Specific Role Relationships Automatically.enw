@@ -1,0 +1,6 @@
+%0 Conference Proceedings
+%T Extraction-Based Text Categorization: Generating Domain-Specific Role Relationships Automatically
+%D 1999
+%A Riloff, Ellen
+%A Lorenzen, Jeffrey Jay
+%X In previous work, we developed several algorithms that use information extraction techniques to achieve high-precision text categorization. The relevancy signatures algorithm classifies texts using extraction patterns, and the augmented relevancy signatures algorithm classifies texts using extraction patterns and semantic features associated with role fillers (Riloff and Lehnert, 1994). These algorithms relied on hand-coded training data, including annotated texts and a semantic dictionary. In this chapter, we describe two advances that significantly improve the practicality of our approach. First, we explain how the extraction patterns can be generated automatically using only preclassified texts as input. Second, we present the word-augmented relevancy signatures algorithm that uses lexical items to represent domain-specific role relationships instead of semantic features. Using these techniques, we can automatically build text categorization systems that benefit from domain-specific natural language processing. 

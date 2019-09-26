@@ -1,0 +1,16 @@
+%0 Conference Proceedings
+%T Case-Based Reasoning for cash flow forecasting using fuzzy retrieval
+%A Lee, Rosina Weber
+%A Barcia, Ricardo Miranda
+%A Khator, Suresh K.
+%Y Veloso, Manuela
+%Y Aamodt, Agnar
+%S Case-Based Reasoning Research and Development
+%D 1995
+%I Springer Berlin Heidelberg
+%C Berlin, Heidelberg
+%@ 978-3-540-48446-2
+%F 10.1007/3-540-60598-3_47
+%X Case-Based Reasoning (CBR) simulates the human way of solving problems as it solves a new problem using a successful past experience applied to a similar problem. In this paper we describe a CBR system that develops forecasts for cash flow accounts. Forecasting cash flows to a certain degree of accuracy is an important aspect of a Working Capital Decision Support System. Working Capital (WC) management decisions reflect a choice among different options on how to arrange the cash flow. The decision establishes an actual event in the cash flow which means that one needs to envision the consequences of such a decision. Hence, forecasting cash flows accurately can minimize losses caused by usually unpredictable events. Cash flows are usually forecasted by a combination of different techniques enhanced by human experts' feelings about the future, which are grounded in past experience. This makes the use of the CBR paradigm the proper choice. Advantages of a CBR system over other Artificial Intelligence techniques are associated to knowledge acquisition, knowledge representation, reuse, updating, and justification. An important step in developing a CBR system is the retrieval of similar cases. The proposed system makes use of fuzzy integrals to calculate the synthetic evaluations of similarities between cases instead of the usual weighted mean.
+%P 510-519
+

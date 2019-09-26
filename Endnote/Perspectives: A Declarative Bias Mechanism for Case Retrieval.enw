@@ -1,0 +1,15 @@
+%0 Conference Proceedings
+%T Perspectives: A declarative bias mechanism for case retrieval
+%A Arcos, Josep Lluís
+%A de Mántaras, Ramon López
+%Y Leake, David B.
+%Y Plaza, Enric
+%S Case-Based Reasoning Research and Development
+%D 1997
+%I Springer Berlin Heidelberg
+%C Berlin, Heidelberg
+%@ 978-3-540-69238-6
+%F 10.1007/3-540-63233-6_499
+%X The aim of this paper is to present a mechanism, called perspectives, to describe declarative biases for case retrieval in structured representations of cases. Our approach is based on the observation that, in complex tasks, the identification of the relevant aspects for retrieval in a given situation may involve the use of knowledge intensive methods. This identification process requires dynamical decisions about the relevant aspects of a problem and usually forces to consider non predefined retrieval indexes in the memory of cases. Declarative biases provide a flexible way of constructing dynamical perspectives for retrieval in the memory of cases. We have implemented the notion of perspectives in a reflective object-centered representation language, called Noos, based on feature terms. Finally, we have used perspectives as declarative biases for retrieval in the Saxex application, a complex real-world case-based reasoning system for generating expressive performances of melodies based on examples of human performances that are represented as structured.
+%P 279-290
+

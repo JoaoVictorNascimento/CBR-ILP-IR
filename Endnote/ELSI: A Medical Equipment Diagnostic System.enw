@@ -1,0 +1,16 @@
+%0 Conference Proceedings
+%T ELSI: A Medical Equipment Diagnostic System
+%A Cuddihy, Paul
+%A Cheetham, William
+%Y Althoff, Klaus-Dieter
+%Y Bergmann, Ralph
+%Y Branting, L.Karl
+%S Case-Based Reasoning Research and Development
+%D 1999
+%I Springer Berlin Heidelberg
+%C Berlin, Heidelberg
+%@ 978-3-540-48508-7
+%F 10.1007/3-540-48508-2_30
+%X A case-based reasoning system for diagnosing medical equipment, called ELSI, has been in use by the GE corporation since 1994. When a customer or field engineer calls the service center for help with a problem, the equipment’s error log is automatically downloaded. In ninety seconds or less, ELSI displays a sorted list of the best-matching logs in a case base of previous known problems, shows the fix, service notes, explains which sections of the log match, and which fixes each section predicts. This diagnostic information allows the service center engineer to recommend a temporary work-around or remote fixes to a customer, or helps a field engineer show up on site with the right parts the first time.
+%P 415-425
+

@@ -1,0 +1,16 @@
+%0 Conference Proceedings
+%T A Symmetric Nearest Neighbor Learning Rule
+%A Nock, Richard
+%A Sebban, Marc
+%A Jappy, Pascal
+%Y Blanzieri, Enrico
+%Y Portinale, Luigi
+%S Advances in Case-Based Reasoning
+%D 2000
+%I Springer Berlin Heidelberg
+%C Berlin, Heidelberg
+%@ 978-3-540-44527-2
+%F 10.1007/3-540-44527-7_20
+%X In this paper, we propose a thorough investigation of a nearest neighbor rule which we call the “Symmetric Nearest Neighbor (sNN) rule”. Basically, it symmetrises the classical nearest neighbor relationship from which are computed the points voting for some instance. Experiments on 29 datasets, most of which are readily available, show that the method significantly outperforms the traditional Nearest Neighbors methods. Experiments on a domain of interest related to tropical pollution normalization also show the greater potential of this method. We finally discuss the reasons for the rule’s efficiency, provide methods for speeding-up the classification time, and derive from the sNN rule a reliable and fast algorithm to fix the parameter k in the k-NN rule, a longstanding problem in this field.
+%P 222-233
+

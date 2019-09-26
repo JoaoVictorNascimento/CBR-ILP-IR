@@ -1,0 +1,15 @@
+%0 Conference Proceedings
+%T Searching the Subsumption Lattice by a Genetic Algorithm
+%A Tamaddoni-Nezhad, Alireza
+%A Muggleton, Stephen H.
+%Y Cussens, James
+%Y Frisch, Alan
+%S Inductive Logic Programming
+%D 2000
+%I Springer Berlin Heidelberg
+%C Berlin, Heidelberg
+%@ 978-3-540-44960-7
+%F 10.1007/3-540-44960-4_15
+%X A framework for combining Genetic Algorithms with ILP methods is introduced and a novel binary representation and relevant genetic operators are discussed. It is shown that the proposed representation encodes a subsumption lattice in a complete and compact way. It is also shown that the proposed genetic operators are meaningful and can be interpreted in ILP terms such as lgg(least general generalization) and mgi(most general instance). These operators can be used to explore a subsumption lattice efficiently by doing binary operations (e.g. and/or). An implementation of the proposed framework is used to combine Inverse Entailment of CProgol with a genetic search.
+%P 243-252
+

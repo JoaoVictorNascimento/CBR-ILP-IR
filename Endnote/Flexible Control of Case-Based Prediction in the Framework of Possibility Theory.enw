@@ -1,0 +1,16 @@
+%0 Conference Proceedings
+%T Flexible Control of Case-Based Prediction in the Framework of Possibility Theory
+%A Dubois, Didier
+%A Hüllermeier, Eyke
+%A Prade, Henri
+%Y Blanzieri, Enrico
+%Y Portinale, Luigi
+%S Advances in Case-Based Reasoning
+%D 2000
+%I Springer Berlin Heidelberg
+%C Berlin, Heidelberg
+%@ 978-3-540-44527-2
+%F 10.1007/3-540-44527-7_7
+%X The “similar problem-similar solution” hypothesis underlying case-based reasoning is modelled in the framework of possibility theory and fuzzy sets. Thus, case-based prediction can be realized in the form of fuzzy set-based approximate reasoning. The inference process makes use of fuzzy rules. It is controlled by means of modifier functions acting on such rules and related similarity measures. Our approach also allows for the incorporation of domain-specific (expert) knowledge concerning the typicality (or exceptionality) of the cases at hand. It thus favors a view of case-based reasoning according to which the user interacts closely with the system in order to control the generalization beyond observed data. Our method is compared to instance-based learning and kernel-based density estimation. Loosely speaking, it adopts basic principles of these approaches and supplements them with the capability of combining knowledge and data in a flexible way.
+%P 61-73
+

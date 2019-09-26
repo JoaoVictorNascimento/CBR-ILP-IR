@@ -1,0 +1,21 @@
+%0 Conference Proceedings
+%T A large case-based reasoner for legal cases
+%A Weber-Lee, Rosina
+%A Barcia, Ricardo Miranda
+%A da Costa, Marcio C.
+%A Filho, Ilson W. Rodrigues
+%A Hoeschl, Hugo C.
+%A Bueno, Tania C. D'Agostini
+%A Martins, Alejandro
+%A Pacheco, Roberto C.
+%Y Leake, David B.
+%Y Plaza, Enric
+%S Case-Based Reasoning Research and Development
+%D 1997
+%I Springer Berlin Heidelberg
+%C Berlin, Heidelberg
+%@ 978-3-540-69238-6
+%F 10.1007/3-540-63233-6_491
+%X In this paper we propose a large case-based reasoner for the legal domain. Analyzing legal texts for indexing purposes makes the implementation of large case bases a complex task. We present a methodology to automatically convert legal texts into legal cases guided by domain expert knowledge in a rule-based system with Natural Language Processing (NLP) techniques. This methodology can be generalized to be applied in different domains making Case-Based Reasoning (CBR) paradigm a powerful technology to solve real world problems with large knowledge sources.
+%P 190-199
+

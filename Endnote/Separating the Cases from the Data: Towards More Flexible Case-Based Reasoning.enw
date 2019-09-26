@@ -1,0 +1,16 @@
+%0 Conference Proceedings
+%T Separating the cases from the data: Towards more flexible case-based reasoning
+%A Brown, Mike
+%A Watson, Ian
+%A Filer, Nick
+%Y Veloso, Manuela
+%Y Aamodt, Agnar
+%S Case-Based Reasoning Research and Development
+%D 1995
+%I Springer Berlin Heidelberg
+%C Berlin, Heidelberg
+%@ 978-3-540-48446-2
+%F 10.1007/3-540-60598-3_15
+%X The number of successful, small-scale and purpose-built applications of CBR is growing rapidly. However, CBR has so far not been widely used as a methodology for reusing the large-scale data repositories typically maintained by a corporation. To facilitate this, cases must no longer be considered as concretely represented at the data level, but as virtual views of the underlying data. This paper argues that the basic requirement to support virtual cases are mapping functions between different data representations. It is argued that the use of mapping functions can increase flexibility in a number of ways. Multiple CBR applications can exploit a single database. Similarly, a single case representation can span multiple databases. Support for communication between different CBR applications as well as the evolution of case representation within a single application are also catered for by the same methodology. The paper provides reference to related work on database systems, with respect to the issues of mapping function implementation and management.
+%P 157-168
+

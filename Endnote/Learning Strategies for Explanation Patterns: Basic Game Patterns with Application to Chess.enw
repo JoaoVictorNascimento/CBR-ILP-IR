@@ -1,0 +1,14 @@
+%0 Conference Proceedings
+%T Learning strategies for explanation patterns: Basic game patterns with application to chess
+%A Kerner, Yaakov
+%Y Veloso, Manuela
+%Y Aamodt, Agnar
+%S Case-Based Reasoning Research and Development
+%D 1995
+%I Springer Berlin Heidelberg
+%C Berlin, Heidelberg
+%@ 978-3-540-48446-2
+%F 10.1007/3-540-60598-3_45
+%X In this paper we describe game-independent strategies, capable of learning explanation patterns (XPs) for evaluation of any basic game pattern. A basic game pattern is defined as a minimal configuration of a small number of pieces and squares which describes only one salient game feature. Each basic pattern can be evaluated by a suitable XP. We have developed five game-independent strategies (replacement, specialization, generalization, deletion, and insertion) capable of learning XPs or parts of them. Learned XPs can direct players' attention to important analysis that might have been overlooked otherwise. These XPs can improve their understanding, evaluating and planning abilities. At present, the application is only in the domain of chess. The proposed strategies have been further developed into 21 specific chess strategies, which are incorporated in an intelligent educational chess system that is under development.
+%P 491-500
+

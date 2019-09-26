@@ -1,0 +1,16 @@
+%0 Conference Proceedings
+%T Fault Management in Computer Networks Using Case-Based Reasoning: DUMBO System
+%A Melchiors, Cristina
+%A Tarouco, Liane M. R.
+%Y Althoff, Klaus-Dieter
+%Y Bergmann, Ralph
+%Y Branting, L.Karl
+%S Case-Based Reasoning Research and Development
+%D 1999
+%I Springer Berlin Heidelberg
+%C Berlin, Heidelberg
+%@ 978-3-540-48508-7
+%F 10.1007/3-540-48508-2_37
+%X Nowadays, the complexity involved in computer network fault management demands a great amount of information about the involved technologies and their associated problems. Besides, Trouble Ticket Systems have been used to store the occurred problems, actuating as an historical memory of the network. Thus, a correct approach to consolidate the network historic memory is the development of an expert system that takes in account the knowledge accumulated in the Trouble Ticket Systems to propose solutions for an average problem. This work presents a system that uses Case-Based Reasoning paradigm applied to a Trouble Ticket System to suggest solutions for a new problem occurred. This system aims to aid diagnosis and resolution stages of network management problems. Typical problems of this domain, the proposed solution and results reached with the developed prototype are described.
+%P 510-524
+

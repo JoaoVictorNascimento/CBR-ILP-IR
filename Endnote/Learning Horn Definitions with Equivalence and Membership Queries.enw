@@ -1,0 +1,15 @@
+%0 Conference Proceedings
+%T Learning Horn definitions with equivalence and membership queries
+%A Reddy, Chandra
+%A Tadepalli, Prasad
+%Y Lavrač, Nada
+%Y Džeroski, Sašo
+%S Inductive Logic Programming
+%D 1997
+%I Springer Berlin Heidelberg
+%C Berlin, Heidelberg
+%@ 978-3-540-69587-5
+%F 10.1007/3540635149_53
+%X A Horn definition is a set of Horn clauses with the same head literal. In this paper, we consider learning non-recursive, function-free first-order Horn definitions. We show that this class is exactly learnable from equivalence and membership queries. It follows then that this class is PAC learnable using examples and membership queries. Our results have been shown to be applicable to learning efficient goal-decomposition rules in planning domains.
+%P 243-255
+

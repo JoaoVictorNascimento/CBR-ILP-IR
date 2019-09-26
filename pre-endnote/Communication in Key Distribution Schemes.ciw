@@ -1,0 +1,47 @@
+FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Beimel, A
+   Chor, B
+AF Beimel, A
+   Chor, B
+TI Communication in key distribution schemes
+SO IEEE TRANSACTIONS ON INFORMATION THEORY
+LA English
+DT Article
+DE key distribution; communicating protocols; space efficiency; one-time
+   schemes; cryptography
+ID INFORMATION; CRYPTOGRAPHY
+AB A (g, b) key distribution scheme allows conferences of g users to generate secret keys, such that disjoint coalitions. of b users cannot gain any information on the generated key (in the information-theoretic sense). In this work, we study the relationships between communication and space efficiency of key distribution schemes. We prove that communication does not help in the context of unrestricted schemes. On the other hand, we show that for restricted schemes, which are secure only when used by a limited number of conferences, communication can substantially improve the space efficiency. We also present lower bounds on the space efficiency of restricted schemes.
+RP Beimel, A (reprint author), TECHNION ISRAEL INST TECHNOL, DEPT COMP SCI, IL-32000 HAIFA, ISRAEL.
+RI BEIMEL, AMOS/F-2033-2012
+OI BEIMEL, AMOS/0000-0002-6572-4195
+NR 16
+TC 19
+Z9 21
+U1 0
+U2 0
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI PISCATAWAY
+PA 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+SN 0018-9448
+EI 1557-9654
+J9 IEEE T INFORM THEORY
+JI IEEE Trans. Inf. Theory
+PD JAN
+PY 1996
+VL 42
+IS 1
+BP 19
+EP 28
+DI 10.1109/18.481774
+PG 10
+WC Computer Science, Information Systems; Engineering, Electrical &
+   Electronic
+SC Computer Science; Engineering
+GA TU912
+UT WOS:A1996TU91200002
+DA 2019-08-29
+ER
+
+EF

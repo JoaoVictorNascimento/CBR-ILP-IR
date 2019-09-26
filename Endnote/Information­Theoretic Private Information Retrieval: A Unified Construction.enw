@@ -1,0 +1,16 @@
+%0 Conference Proceedings
+%T Information-Theoretic Private Information Retrieval: A Unified Construction
+%A Beimel, Amos
+%A Ishai, Yuval
+%Y Orejas, Fernando
+%Y Spirakis, Paul G.
+%Y van Leeuwen, Jan
+%S Automata, Languages and Programming
+%D 2001
+%I Springer Berlin Heidelberg
+%C Berlin, Heidelberg
+%@ 978-3-540-48224-6
+%F 10.1007/3-540-48224-5_74
+%X A Private Information Retrieval (PIR) protocol enables a user to retrieve a data item from a database while hiding the identity of the item being retrieved. In a t-private, k-server PIR protocol the database is replicated among k servers, and the user’s privacy is protected from any collusion of up to t servers. The main cost-measure of such protocols is the communication complexity of retrieving a single bit of data.
+%P 912-926
+

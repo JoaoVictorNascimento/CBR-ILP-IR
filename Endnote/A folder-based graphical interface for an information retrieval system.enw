@@ -1,0 +1,5 @@
+%0 Conference Proceedings
+%T A folder-based graphical interface for an information retrieval system
+%D 1999
+%A Low, Aidan
+%X Past advances in user interface design include the move from an application-centric model to the document-centric model found in the file/folder graphical interfaces of modern operating systems. Recently, we have also seen advances in query-based information retrieval technology, such as the search engines of the World-Wide Web. This thesis proposes an interface that combines the power of these two technologies to produce a unified interface that allows users to navigate their information space more easily and more intuitively. This interface, the Haystack Browser, presents users with a file/folder graphical interface that allows users to dynamically categorize their information space by creating "folders" that correspond to queries within an information retrieval system. The interface is implemented as an extension of the Haystack Project, a personalized information retrieval system under development at the MIT Laboratory for Computer Science. Thesis Supervisor: David R. Karger Title: Associate Professor 

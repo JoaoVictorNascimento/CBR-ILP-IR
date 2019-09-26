@@ -1,0 +1,14 @@
+%0 Conference Proceedings
+%T A Digital Libraries System based on Multi-level Agents
+%D 1999
+%A Hamard, K.
+%A Nie, Jing
+%A Bochmann, Gregor von
+%A Godin, Robert
+%A Kerhervé, Brigitte
+%A Radhakrishnan, Thiruvengadam
+%A Shinghal, Rajjan
+%A Turner, James Milton
+%A Berouti, Fadi
+%A Ferrie, Frank P.
+%X In this paper, we describe an agent-based architecture for digital library (DL) systems and its implementation. This architecture is inspired from Harvest and UMDL, but several extensions have been made. The most important extension concerns the building of multi-level indexing and cataloguing. Search agents are either local or global. A global search agent interacts with other agents of the system, and manages a set of local search agents. We extended the Z39.50 standard in order to support the visual characteristics of images and we also integrated agents for multilingual retrieval. This work shows that the agent-based architecture is flexible enough to integrate various kinds of agents and services in a single system.

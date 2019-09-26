@@ -1,0 +1,17 @@
+%0 Conference Proceedings
+%T Case-Based Reasoning for Antibiotics Therapy Advice
+%A Schmidt, Rainer
+%A Gierl, Lothar
+%A Pollwein, Bernhard
+%Y Althoff, Klaus-Dieter
+%Y Bergmann, Ralph
+%Y Branting, L.Karl
+%S Case-Based Reasoning Research and Development
+%D 1999
+%I Springer Berlin Heidelberg
+%C Berlin, Heidelberg
+%@ 978-3-540-48508-7
+%F 10.1007/3-540-48508-2_40
+%X In this paper, we describe case-based techniques in a medical application. We have developed a prototype of an antibiotics therapy adviser within the ICONS project, where the main advantage of applying CBR techniques is to speed-up the process of computing advisable therapies. However, some adaptations do not really belong to the Case-Based Reasoning paradigm though information from former cases is considered. They deal with rather typical medical tasks, namely modifications due to information updates. In our incrementally working system we have attempted to solve the problem of the continuously increasing number of stored cases by generalising from specific single cases to more general prototypes and by subsequently erasing redundant cases. Here we present results of experiments with threshold settings for our prototype architecture. The results show that the chosen design, which has mainly been founded on experiences with diagnostic applications, is not only advantageous for this therapeutic task, but that it contains a slight drawback as well.
+%P 550-560
+

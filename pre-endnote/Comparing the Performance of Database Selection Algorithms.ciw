@@ -1,0 +1,58 @@
+FN Clarivate Analytics Web of Science
+VR 1.0
+PT B
+AU French, JC
+   Powell, AL
+   Callan, J
+   Viles, CL
+   Emmitt, T
+   Prey, KJ
+   Mou, Y
+AF French, JC
+   Powell, AL
+   Callan, J
+   Viles, CL
+   Emmitt, T
+   Prey, KJ
+   Mou, Y
+BE Hearst, M
+   Gey, F
+   Tong, R
+TI Comparing the performance of database selection algorithms
+SO SIGIR'99: PROCEEDINGS OF 22ND INTERNATIONAL CONFERENCE ON RESEARCH AND
+   DEVELOPMENT IN INFORMATION RETRIEVAL
+LA English
+DT Proceedings Paper
+CT 22nd International Conference on Research and Development in Information
+   Retrieval
+CY AUG, 1999
+CL UNIV CA, BERKELEY, CA
+SP British Comp Soc, Info Retriev Special Grp, Gesell Info Germany, Microsoft, West Grp, AT&T Labs, Sun Microsyst, Verity, Xerox Parc, IBM, Lexis-Nexis
+HO UNIV CA
+ID RETRIEVAL
+AB We compare the performance of two database selection algorithms reported in the literature. Their performance is compared using a common testbed designed specifically for database selection techniques. The testbed is a decomposition of the TREC/TIPSTER data into 236 subcollections. The databases from our testbed were ranked using both the gGlOSS and CORI techniques and compared to a baseline derived from TREC relevance judgements. We examined the degree to which CORI and gGlOSS approximate this baseline. Our results confirm our earlier observation that the gGlOSS Ideal(l) ranks do not estimate relevance-based ranks well. We also find that CORI is a uniformly better estimator of relevance-based ranks than gGlOSS for the test environment used in this study. Part of the advantage of the CORI algorithm can be explained by a strong correlation between gGlOSS and a sire-based baseline (SBR). We also find that CORI produces consistently accurate rankings on testbeds ranging from 100-921 sites. However for a given level of recall, search effort appears to scale linearly with the number of databases.
+C1 Univ Virginia, Dept Comp Sci, Charlottesville, VA 22903 USA.
+RP French, JC (reprint author), Univ Virginia, Dept Comp Sci, Charlottesville, VA 22903 USA.
+OI Powell, Allison/0000-0001-9526-4348
+NR 25
+TC 35
+Z9 37
+U1 0
+U2 0
+PU ASSOC COMPUTING MACHINERY
+PI NEW YORK
+PA 1515 BROADWAY, NEW YORK, NY 10036-9998 USA
+BN 1-58113-096-1
+PY 1999
+BP 238
+EP 245
+DI 10.1145/312624.312684
+PG 8
+WC Computer Science, Information Systems
+SC Computer Science
+GA BN86U
+UT WOS:000083284000032
+DA 2019-08-26
+ER
+
+EF

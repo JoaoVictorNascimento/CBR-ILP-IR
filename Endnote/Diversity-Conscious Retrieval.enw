@@ -1,0 +1,14 @@
+%0 Conference Proceedings
+%T Diversity-Conscious Retrieval
+%A McSherry, David
+%Y Craw, Susan
+%Y Preece, Alun
+%S Advances in Case-Based Reasoning
+%D 2002
+%I Springer Berlin Heidelberg
+%C Berlin, Heidelberg
+%@ 978-3-540-46119-7
+%F 10.1007/3-540-46119-1_17
+%X There is growing awareness of the need for recommender systems to offer a more diverse choice of alternatives than is possible by simply retrieving the cases that are most similar to a target query. Recent research has shown that major gains in recommendation diversity can often be achieved at the expense of relatively small reductions in similarity. However, there are many domains in which it may not be acceptable to sacrifice similarity in the interest of diversity. To address this problem, we examine the conditions in which similarity can be increased without loss of diversity and present a new approach to retrieval which is designed to deliver such similarity-preserving increases in diversity when possible. We also present a more widely applicable approach to increasing diversity in which the requirement that similarity is fully preserved is relaxed to allow some loss of similarity, provided it is strictly controlled.
+%P 219-233
+

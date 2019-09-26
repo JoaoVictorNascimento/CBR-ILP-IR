@@ -1,0 +1,49 @@
+FN Clarivate Analytics Web of Science
+VR 1.0
+PT S
+AU Fujii, A
+   Ishikawa, T
+AF Fujii, A
+   Ishikawa, T
+BE White, JS
+TI Applying machine translation to two-stage cross-language information
+   retrieval
+SO ENVISIONING MACHINE TRANSLATION IN THE INFORMATION FUTURE, PROCEEDINGS
+SE Lecture Notes in Artificial Intelligence
+LA English
+DT Article; Proceedings Paper
+CT 4th Conference of the
+   Association-for-Machine-Translation-in-the-Americas
+CY OCT 10-14, 2000
+CL CUERNAVACA, MEXICO
+SP Assoc Machine Translat Americas
+ID TEXT RETRIEVAL
+AB Cross-language information retrieval (CLIR), where queries and documents are in different languages, needs a translation of queries and/or documents, so as to standardize both of them into a common representation. For this purpose, the use of machine translation is an effective approach. However, computational cost is prohibitive in translating large-scale document collections. To resolve this problem, we propose a two-stage CLIR method. First, we translate a given query into the document language, and retrieve a limited number of foreign documents. Second, we machine translate only those documents into the user language, and re-rank them based on the translation result. We also show the effectiveness of our method by way of experiments using Japanese queries and English technical documents.
+C1 Univ Lib & Informat Sci, Tsukuba, Ibaraki 3058550, Japan.
+RP Fujii, A (reprint author), Univ Lib & Informat Sci, 1-2 Kasuga, Tsukuba, Ibaraki 3058550, Japan.
+EM fujii@ulis.ac.jp
+NR 23
+TC 2
+Z9 2
+U1 0
+U2 0
+PU SPRINGER-VERLAG BERLIN
+PI BERLIN
+PA HEIDELBERGER PLATZ 3, D-14197 BERLIN, GERMANY
+SN 0302-9743
+BN 3-540-41117-8
+J9 LECT NOTES ARTIF INT
+PY 2000
+VL 1934
+BP 13
+EP 24
+PG 12
+WC Computer Science, Artificial Intelligence; Computer Science, Theory &
+   Methods
+SC Computer Science
+GA BU08U
+UT WOS:000174952300002
+DA 2019-08-28
+ER
+
+EF

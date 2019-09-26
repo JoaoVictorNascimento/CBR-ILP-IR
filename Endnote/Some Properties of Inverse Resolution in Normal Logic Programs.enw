@@ -1,0 +1,14 @@
+%0 Conference Proceedings
+%T Some Properties of Inverse Resolution in Normal Logic Programs
+%A Sakama, Chiaki
+%Y Džeroski, Sašo
+%Y Flach, Peter
+%S Inductive Logic Programming
+%D 1999
+%I Springer Berlin Heidelberg
+%C Berlin, Heidelberg
+%@ 978-3-540-48751-7
+%F 10.1007/3-540-48751-4_26
+%X This paper studies the properties of inverse resolution in normal logic programs. The V-operators are known as operations for inductive generalization in definite logic programs. In the presence of negation as failure in a program, however, the V-operators do not work as generalization operations in general and often make a consistent program inconsistent. Moreover, they may destroy the syntactic structure of logic programs such as acyclicity and local stratification. On the procedural side, unrestricted application of the V-operators may lose answers computed in the original program and make queries flounder. We provide sufficient conditions for the V-operators to avoid these problems.
+%P 279-290
+

@@ -1,0 +1,14 @@
+%0 Conference Proceedings
+%T Learning first-order acyclic Horn programs from entailment
+%A Reddy, Chandra
+%A Tadepalli, Prasad
+%Y Page, David
+%S Inductive Logic Programming
+%D 1998
+%I Springer Berlin Heidelberg
+%C Berlin, Heidelberg
+%@ 978-3-540-69059-7
+%F 10.1007/BFb0027308
+%X In this paper, we consider learning first-order Horn programs from entailment. In particular, we show that any subclass of first-order acyclic Horn programs with constant arity is exactly learnable from equivalence and entailment membership queries provided it allows a polynomial-time subsumption procedure and satisfies some closure conditions. One consequence of this is that first-order acyclic determinate Horn programs with constant arity are exactly learnable from equivalence and entailment membership queries.
+%P 23-37
+

@@ -1,0 +1,39 @@
+FN Clarivate Analytics Web of Science
+VR 1.0
+PT B
+AU HERLOCKER, JL
+   KONSTAN, JA
+AF HERLOCKER, JL
+   KONSTAN, JA
+GP USENIX ASSOC
+TI Tcl commands as media in a distributed multimedia toolkit
+SO USENIX ASSOCIATION - PROCEEDINGS OF THE TCL/TK WORKSHOP
+LA English
+DT Proceedings Paper
+AB This paper discusses the design and implementation of a command stream based on Tcl. A command stream is a series of arbitrary commands that can be tightly synchronized with other media in a distributed multimedia presentation. In TclStream, we represent an arbitrary command as a collection of fragments of Tcl code. The command stream medium supports the standard manipulation functions of multimedia environments: reverse, fast-forward, random access, and variable speed. The ability to specify arbitrary actions, combined with fine playback control, make TclStream an extremely flexible and powerful presentation medium. 
+CT Tcl/Tk Workshop
+CY JUL 06-08, 1995
+CL TORONTO, CANADA
+SP Unisys, Inc, USENIX Assoc
+C1 UNIV MINNESOTA,DEPT COMP SCI,MINNEAPOLIS,MN 55455.
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU USENIX ASSOC
+PI BERKELEY
+PA SUITE 215, 2560 NINTH ST, BERKELEY, CA 94710
+BN 1-880446-72-3
+PY 1995
+BP 205
+EP 212
+PG 4
+WC Computer Science, Software Engineering
+SC Computer Science
+GA BD67J
+UT WOS:A1995BD67J00023
+DA 2019-08-26
+ER
+
+EF

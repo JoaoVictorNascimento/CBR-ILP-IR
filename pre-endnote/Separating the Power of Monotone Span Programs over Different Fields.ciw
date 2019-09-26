@@ -1,0 +1,48 @@
+FN Clarivate Analytics Web of Science
+VR 1.0
+PT S
+AU Beimel, A
+   Weinreb, E
+AF Beimel, A
+   Weinreb, E
+BE Titsworth, F
+TI Separating the power of monotone span programs over different fields
+SO 44TH ANNUAL IEEE SYMPOSIUM ON FOUNDATIONS OF COMPUTER SCIENCE,
+   PROCEEDINGS
+SE ANNUAL IEEE SYMPOSIUM ON FOUNDATIONS OF COMPUTER SCIENCE
+LA English
+DT Proceedings Paper
+CT 44th Annual IEEE Symposium on Foundations of Computer Science
+CY OCT 11-14, 2003
+CL CAMBRIDGE, MA
+SP IEEE Comp Soc, TC Math Fdn Comp
+ID LOWER BOUNDS; COMPUTATION; COMPLEXITY; SECRET; MATRIX
+AB Monotone span programs are a linear-algebraic model of computation. They are equivalent to linear secret sharing schemes and have various applications in cryptography and complexity. A fundamental question is how the choice of the field in which the algebraic operations are performed effects the power of the span program. In this paper we prove that the power of monotone span programs over finite fields of different characteristics is incomparable; we show a super-polynomial separation between any two fields with different characteristics, answering an open problem of Pudlak and Sgall 1998. Using this result we prove a super-polynomial lower bound for monotone span programs for a function in uniform - NC2 (and therefore in P), answering an open problem of Babai, Wigderson, and Gal 1999. (All previous lower bounds for monotone span programs were for functions not known to be in P.) Finally, we show that quasi-linear schemes, a generalization of linear secret sharing schemes introduced in Beimel and Ishai 2001, are stronger than linear secret sharing schemes. In particular, this proves, without any assumptions, that non-linear secret sharing schemes are more efficient than linear secret sharing schemes.
+C1 Ben Gurion Univ Negev, Dept Comp Sci, IL-84105 Beer Sheva, Israel.
+RP Beimel, A (reprint author), Ben Gurion Univ Negev, Dept Comp Sci, IL-84105 Beer Sheva, Israel.
+RI BEIMEL, AMOS/F-2033-2012
+OI BEIMEL, AMOS/0000-0002-6572-4195
+NR 26
+TC 4
+Z9 4
+U1 0
+U2 0
+PU IEEE COMPUTER SOC
+PI LOS ALAMITOS
+PA 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1264 USA
+SN 0272-5428
+BN 0-7695-2040-5
+J9 ANN IEEE SYMP FOUND
+PY 2003
+BP 428
+EP 437
+DI 10.1109/SFCS.2003.1238216
+PG 10
+WC Computer Science, Theory & Methods
+SC Computer Science
+GA BX89K
+UT WOS:000186758200043
+DA 2019-08-27
+ER
+
+EF

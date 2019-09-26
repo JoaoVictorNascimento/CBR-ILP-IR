@@ -1,0 +1,14 @@
+%0 Conference Proceedings
+%T Towards the integration of case-based, schema-based and model-based reasoning for supporting complex design tasks
+%A Bartsch-Spörl, Brigitte
+%Y Veloso, Manuela
+%Y Aamodt, Agnar
+%S Case-Based Reasoning Research and Development
+%D 1995
+%I Springer Berlin Heidelberg
+%C Berlin, Heidelberg
+%@ 978-3-540-48446-2
+%F 10.1007/3-540-60598-3_14
+%X This paper presents an approach of how to build bridges between case-based and model-based reasoning. Unlike other approaches, these bridges do not intend to surmount the whole ”abstraction distance” between concrete cases and generic models in one step. Instead they introduce and use a web of supporting columns which consist of useful intermediate representations called schemata, prototypes, patterns, templates or whatever is a suitable characterisation for their functional role in the design process.
+%P 145-156
+

@@ -1,0 +1,15 @@
+%0 Conference Proceedings
+%T ICARUS: Design and Deployment of a Case-Based Reasoning System for Locomotive Diagnostics
+%A Varma, Anil
+%Y Althoff, Klaus-Dieter
+%Y Bergmann, Ralph
+%Y Branting, L.Karl
+%S Case-Based Reasoning Research and Development
+%D 1999
+%I Springer Berlin Heidelberg
+%C Berlin, Heidelberg
+%@ 978-3-540-48508-7
+%F 10.1007/3-540-48508-2_43
+%X Locomotives, like many modern complex machines, are equipped with the capability to generate on-board fault messages indicating the presence of anomalous conditions. Such messages tend to generate in large quantities and difficult and time consuming to interpret manually. This paper presents the design and development of a case-based reasoning system for diagnosing locomotive faults using such fault messages as input. The process of using historical repair data and expert input for case generation and validation is described. An algorithm for case matching is presented along with some results on pilot data.
+%P 581-596
+

@@ -1,0 +1,7 @@
+%0 Conference Proceedings
+%T Inferring Graphs from Walks
+%A Aslam, Javed A.
+%A Rivest, Ronald L.
+%B COLT
+%D 1990
+%X We consider the problem of inferring an undirected, degree-bounded, edge-colored graph from the sequence of edge colors seen in a walk of that graph. This problem can be viewed as reconstructing the structure of a Markov chain from its output. (That is, we are not concerned with inferring the transition probabilities, but only the underlying graph structure of the Markov chain.) We present polynomial-time algorithms for the inference of underlying graphs of degree-bound 2 (linear chains and cycles), based on some surprising properties about the confluence of various sets of rewrite rules.

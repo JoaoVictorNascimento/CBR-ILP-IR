@@ -1,0 +1,15 @@
+%0 Conference Proceedings
+%T Generating numerical literals during refinement
+%A Anthony, Simon
+%A Frisch, Alan M.
+%Y Lavrač, Nada
+%Y Džeroski, Sašo
+%S Inductive Logic Programming
+%D 1997
+%I Springer Berlin Heidelberg
+%C Berlin, Heidelberg
+%@ 978-3-540-69587-5
+%F 10.1007/3540635149_35
+%X Despite the rapid emergence and success of Inductive Logic Programming, problems still surround number handling—problems directly inherited from the choice of logic programs as the representation language. Our conjecture is that a generalisation of the representation language to Constraint Logic Programs provides an effective solution to this problem. We support this claim with the presentation of an algorithm called NUM, to which a top-down refinement operator can delegate the task of finding numerical literals. NUM can handle equations, in-equations and dis-equations in a uniform way, and, furthermore, provides more generality than competing approaches since numerical literals are not required to cover all the positive examples available.
+%P 61-76
+

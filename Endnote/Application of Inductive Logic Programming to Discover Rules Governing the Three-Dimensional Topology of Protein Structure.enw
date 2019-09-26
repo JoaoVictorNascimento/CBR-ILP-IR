@@ -1,0 +1,15 @@
+%0 Conference Proceedings
+%T Application of inductive logic programming to discover rules governing the three-dimensional topology of protein structure
+%A Turcotte, Marcel
+%A Muggleton, Stephen H.
+%A Sternberg, Michael J. E.
+%Y Page, David
+%S Inductive Logic Programming
+%D 1998
+%I Springer Berlin Heidelberg
+%C Berlin, Heidelberg
+%@ 978-3-540-69059-7
+%F 10.1007/BFb0027310
+%X Inductive Logic Programming (ILP) has been applied to discover rules governing the three-dimensional topology of protein structure. The data-set unifies two sources of information; SCOP and PROMOTIF. Cross-validation results for experiments using two background knowledge sets, global (attribute-valued) and constitutional (relational), are presented. The application makes use of a new feature of Progol4.4 for numeric parameter estimation. At this early stage of development, the rules produced can only be applied to proteins for which the secondary structure is known. However, since the rules are insightful, they should prove to be helpful in assisting the development of taxonomic schemes. The application of ILP to fold recognition represents a novel and promising approach to this problem.
+%P 53-64
+

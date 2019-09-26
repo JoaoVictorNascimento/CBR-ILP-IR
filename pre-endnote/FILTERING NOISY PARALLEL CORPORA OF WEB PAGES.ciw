@@ -1,0 +1,52 @@
+FN Clarivate Analytics Web of Science
+VR 1.0
+PT S
+AU Nie, JY
+   Cai, J
+AF Nie, JY
+   Cai, J
+GP IEEE
+   IEEE
+   IEEE
+   IEEE
+TI Filtering noisy parallel corpora of Web pages
+SO 2001 IEEE INTERNATIONAL CONFERENCE ON SYSTEMS, MAN, AND CYBERNETICS,
+   VOLS 1-5: E-SYSTEMS AND E-MAN FOR CYBERNETICS IN CYBERSPACE
+SE IEEE INTERNATIONAL CONFERENCE ON SYSTEMS, MAN, AND CYBERNETICS,
+   CONFERENCE PROCEEDINGS
+LA English
+DT Proceedings Paper
+CT IEEE International Conference on Systems, Man and Cybernetics (SMC)
+CY OCT 07-10, 2001
+CL TUCSON, AZ
+SP IEEE, Raytheon
+DE parallel text; statistical translation model; filtering; cross-language
+   information retrieval
+AB In our previous study, we successfully built an automatic mining system for parallel texts from the Web - PTMiner that is able to determine a large number of parallel Web pages for different language pairs. However, there are a number of non-parallel text pairs in this corpus. This paper proposes a filtering approach to clean up the corpus. Our experiments show that once the corpus is cleaned, both the translation accuracy of the resulting translation models and the effectiveness of cross-language information retrieval (CLIR) using these models are improved significantly.
+C1 Univ Montreal, RALI Lab, Dept Informat & Rech Operat, Montreal, PQ H3C 3J7, Canada.
+RP Nie, JY (reprint author), Univ Montreal, RALI Lab, Dept Informat & Rech Operat, Montreal, PQ H3C 3J7, Canada.
+NR 10
+TC 0
+Z9 0
+U1 0
+U2 0
+PU IEEE
+PI NEW YORK
+PA 345 E 47TH ST, NEW YORK, NY 10017 USA
+SN 1062-922X
+BN 0-7803-7087-2
+J9 IEEE SYS MAN CYBERN
+PY 2002
+BP 453
+EP 458
+PG 6
+WC Computer Science, Artificial Intelligence; Computer Science,
+   Cybernetics; Computer Science, Information Systems; Engineering,
+   Electrical & Electronic
+SC Computer Science; Engineering
+GA BU92K
+UT WOS:000177404200077
+DA 2019-08-29
+ER
+
+EF

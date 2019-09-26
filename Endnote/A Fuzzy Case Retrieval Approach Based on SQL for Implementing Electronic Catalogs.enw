@@ -1,0 +1,15 @@
+%0 Conference Proceedings
+%T A Fuzzy Case Retrieval Approach Based on SQL for Implementing Electronic Catalogs
+%A Portinale, Luigi
+%A Montani, Stefania
+%Y Craw, Susan
+%Y Preece, Alun
+%S Advances in Case-Based Reasoning
+%D 2002
+%I Springer Berlin Heidelberg
+%C Berlin, Heidelberg
+%@ 978-3-540-46119-7
+%F 10.1007/3-540-46119-1_24
+%X Providing a flexible and efficient way of consulting a catalog in e-commerce applications is of primary importance in order to guarantee the customer with a set of products actually related to his/her interests. Most electronic catalogs exploit standard database techniques both for storage and retrieval of product information. However, a naive application of ordinary databases may produce unsatisfactory results, since standard query tools are not able to retrieve information (i.e. products) that only partially match the user/customer specification. The use of CBR may alleviate some of the above problems, because of the ability of a CBR system of retrieving products having characteristics similar to the ones specified by the user. While the majority of the approaches is based on k-NN retrieval techniques, in the present paper we propose fuzzy-based retrieval as a natural way for implementing flexible search on electronic catalogs. Since the exploitation of standard DBMS technology is of paramount importance for deploying any E-commerce application, we also propose to use a fuzzy extension to SQL for retrieving a set of products that the customer specifies using precise as well as vague or imprecise features. The proposed implementation is based on a client/server web-based architecture working on top of a relational standard DBMS. A specific example concerning an on-line wine shop is used to demonstrate the capabilities of the approach.
+%P 321-335
+

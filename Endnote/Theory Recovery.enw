@@ -1,0 +1,16 @@
+%0 Conference Proceedings
+%T Theory Recovery
+%A Parson, Rupert
+%A Khan, Khalid
+%A Muggleton, Stephen
+%Y Džeroski, Sašo
+%Y Flach, Peter
+%S Inductive Logic Programming
+%D 1999
+%I Springer Berlin Heidelberg
+%C Berlin, Heidelberg
+%@ 978-3-540-48751-7
+%F 10.1007/3-540-48751-4_24
+%X In this paper we examine the problem of repairing incomplete background knowledge using Theory Recovery. Repeat Learning under ILP considers the problem of updating background knowledge in order to progressively increase the performance of an ILP algorithm as it tackles a sequence of related learning problems. Theory recovery is suggested as a suitable mechanism. A bound is derived for the performance of theory recovery in terms of the information content of the missing predicate definitions. Experiments are described that use the logical back-propagation ability of Progol 5.0 to perform theory recovery. The experimental results are consistent with the derived bound.
+%P 257-267
+

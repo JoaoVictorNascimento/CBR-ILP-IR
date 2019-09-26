@@ -1,0 +1,13 @@
+%0 Conference Proceedings
+%T Completing Inverse Entailment
+%A Muggleton, Stephen
+%Y Page, David
+%S Inductive Logic Programming
+%D 1998
+%I Springer Berlin Heidelberg
+%C Berlin, Heidelberg
+%@ 978-3-540-69059-7
+%F 10.1007/BFb0027328
+%X Yamamoto has shown that the Inverse Entailment (IE) mechanism described previously by the author is complete for Plotkin's relative subsumption but incomplete for entailment. That is to say, an hypothesised clause H can be derived from an example E under a background theory B using IE if and only if H subsumes E relative to B in Plotkin's sense. Yamamoto gives examples of H for which B U H ⊨ E but H cannot be constructed using IE from B and E. The main result of the present paper is a theorem to show that by enlarging the bottom set used within IE, it is possible to make a revised version of IE complete with respect to entailment for Horn theories. Furthermore, it is shown for function-free definite clauses that given a bound k on the arity of predicates used in B and E, the cardinality of the enlarged bottom set is bounded above by the polynomial function p(c + 1)k, where p is the number of predicates in B, E and c is the number of constants in B ⊔ Ē.
+%P 245-249
+

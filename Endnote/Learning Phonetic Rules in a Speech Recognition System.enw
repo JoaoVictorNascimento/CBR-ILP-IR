@@ -1,0 +1,18 @@
+%0 Conference Proceedings
+%T Learning phonetic rules in a speech recognition system
+%A Alexin, Zoltán
+%A Csirik, János
+%A Gyimóthy, Tibor
+%A Jelasity, Mark
+%A Tóth, László
+%Y Lavrač, Nada
+%Y Džeroski, Sašo
+%S Inductive Logic Programming
+%D 1997
+%I Springer Berlin Heidelberg
+%C Berlin, Heidelberg
+%@ 978-3-540-69587-5
+%F 10.1007/3540635149_33
+%X Current speech recognition systems can be categorized into two broad classes; the knowledge-based approach and the stochastic one. In this paper we present a rule-based method for the recognition of Hungarian vowels. A spectrogram model was used as a front-end module and some acoustic features were extracted (e.g. locations, intensities and shapes of local maxima) from spectrograms by using a genetic algorithm method. On the basis of these features we developed a rule set for the recognition of isolated Hungarian vowels. These rules represented by Prolog clauses were refined by the IMPUT Inductive Logic Programming method.
+%P 35-44
+

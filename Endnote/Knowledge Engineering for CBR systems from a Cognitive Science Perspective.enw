@@ -1,0 +1,17 @@
+%0 Conference Proceedings
+%T Knowledge engineering for CBR systems from a cognitive science perspective
+%A Strube, G.
+%A Enzinger, A.
+%A Janetzko, D.
+%A Knauff, M.
+%Y Veloso, Manuela
+%Y Aamodt, Agnar
+%S Case-Based Reasoning Research and Development
+%D 1995
+%I Springer Berlin Heidelberg
+%C Berlin, Heidelberg
+%@ 978-3-540-48446-2
+%F 10.1007/3-540-60598-3_51
+%X Although CBR has been advertised as a technique to elude knowledge engineering (KE), we argue that knowledge-level modeling in KE is of eminent importance to the success of CBR systems, both for practical and theoretical reasons. Cases are knowledge structures linked to some underlying database (although not necessarily in a one-to-one fashion), and in order to define case structures and their relations to the database, domain knowledge is needed. In this paper, we focus on KE for CBR in the domain of architectural design, first looking at general analyses of work processes and information use, then discussing microanalyses of task structure in order to define case size, finally proceeding to knowledge-level evaluation of the domain knowledge acquired and modeled so far.
+%P 548-558
+

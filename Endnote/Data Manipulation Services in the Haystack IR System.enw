@@ -1,0 +1,5 @@
+%0 Conference Proceedings
+%T Data manipulation services in the Haystack IR system
+%D 1998
+%A Asdoorian, Mark
+%X The Haystack project seeks to design and implement a distributed, intelligent, personalized, information retrieval system. Haystack archives documents with metadata, which is also indexed by the system to improve query results. To support this system, an infrastructure needed to be designed and implemented. This thesis covers the overall design of that infrastructure with a focus on the service model, event model, remote communications model, and necessary services for the addition of our core metadata for documents in the system.

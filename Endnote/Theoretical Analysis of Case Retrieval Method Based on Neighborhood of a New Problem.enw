@@ -1,0 +1,15 @@
+%0 Conference Proceedings
+%T Theoretical analysis of case retrieval method based on neighborhood of a new problem
+%A Okamoto, Seishi
+%A Yugami, Nobuhiro
+%Y Leake, David B.
+%Y Plaza, Enric
+%S Case-Based Reasoning Research and Development
+%D 1997
+%I Springer Berlin Heidelberg
+%C Berlin, Heidelberg
+%@ 978-3-540-69238-6
+%F 10.1007/3-540-63233-6_505
+%X The retrieval of similar cases is often performed by using the neighborhood of a new problem. The neighborhood is usually denned by a certain fixed number of most similar cases (k nearest neighbors) to the problem. This paper deals with an alternative definition of neighborhood that comprises the cases within a certain distance, d, from the problem. We present an average-case analysis of a classifier, the d-nearest neighborhood method (d-NNh), that retrieves cases in this neighborhood and predicts their majority class as the class of the problem. Our analysis deals with m-of-n/l target concepts, and handles three types of noise. We formally compute the expected classification accuracy of d-NNh, then we explore the predicted behavior of d-NNh. By combining this exploration for d-NNh and one for k-nearest neighbor method (k-NN) in our previous study, we compare the predicted behavior of each in noisy domains. Our formal analysis is supported with Monte Carlo simulations.
+%P 349-358
+

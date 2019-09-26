@@ -1,0 +1,5 @@
+%0 Conference Proceedings
+%T Learning Query Behavior in the Haystack System
+%D 2000
+%A Chien, Wendy S.
+%X Haystack is a personalized information retrieval system that allows users to store, maintain, and query for information. This thesis describes how learning is added to the system so that when a user makes a query on a topic similar to a previous query, the system can use the relevance feedback information from before to provide an improved result set for the current query. The learning module was designed to be modular and extensible so more sophisticated learning algorithms and techniques can be easily implemented in the future. Testing of our system showed that learning based on relevance feedback somewhat improved the results of the queries.

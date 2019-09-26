@@ -1,0 +1,14 @@
+%0 Conference Proceedings
+%T Stratified case-based reasoning in non-refinable abstraction hierarchies
+%A Branting, L. Karl
+%Y Leake, David B.
+%Y Plaza, Enric
+%S Case-Based Reasoning Research and Development
+%D 1997
+%I Springer Berlin Heidelberg
+%C Berlin, Heidelberg
+%@ 978-3-540-69238-6
+%F 10.1007/3-540-63233-6_521
+%X Stratified case-based reasoning (Scbr.) is a technique in which case abstractions are used to assist case retrieval, matching, and adaptation. Previous work showed that Scbr can significantly decrease the computational expense required for retrieval, matching, and adaptation in a route-finding domain characterized by abstraction hierarchies with the downward refinement property. This work explores the effectiveness of Scbr in hierarchies without the downward refinement property. In an experimental evaluation using such hierarchies (1) Scbr significantly decreased search cost in hierarchies without the downward refinement property, although the speedup over ground-level A* was not as great as in refinable hierarchies, (2) little difference was observed in Scbr search costs between case libraries created top-down in the process of Refinement and those created bottom-up from a valid ground solution, and (3) the most important factor in determining speedup appeared to be a priori likelihood that a previous solution can be usefully applied to a new problem.
+%P 519-530
+

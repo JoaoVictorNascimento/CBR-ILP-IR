@@ -89,7 +89,7 @@ def csv_title_and_class(titles_file, titles_articles):
                 writer.writerow({'title': title_file, 'class': title_article[:2]})    
             else:
                 writer.writerow({'title': title_file, 'class': title_article[:3]})
-'''
+
 def found():
     data2 = pd.read_csv("articles_not_found.csv").drop_duplicates(subset=None, keep='first', inplace=False)
     data1 = pd.read_csv("title_and_class.csv").drop_duplicates(subset=None, keep='first', inplace=False)
@@ -99,7 +99,7 @@ def found():
     data = merged_left[ pd.isnull(merged_left.class_y) ]
     data = data.drop(['class_y'], axis=1)
     data.to_csv('articles_found.csv', index=False)
-'''
+
 def get_by_class(clasS):
     file = open('articles_not_found.csv')
     lines = csv.reader(file)
@@ -232,28 +232,7 @@ def finalOutputFile():
 
 def similiarString(stringA, stringB):
     return SequenceMatcher(None, stringA, stringB).ratio()
-
-
-def foundClassTitle(title):
-    with open('title_and_class.csv', encoding='ISO-8859-1') as csvfile:
-        readCsv = csv.reader(csvfile, delimiter=',')
-        
-        for line in readCsv:
-            if (similiarString(title, line[0]) > 0.8):
-                return line[1]
-
-def putClassTitleEndNote():
-        file = open('endnoteTest.enw', mode='r', newline='')
-        lines = file.readlines()
-        file.close()
-        lines.insert(2,"3")
-
-        file = open('endnoteTest.enw', mode='w', newline='')
-        lines = "".join(lines)
-        file.write(lines)
-        file.close()
-
-        
+            
 def main():
     '''
     Usage: python3 script.py Articles/
@@ -290,8 +269,7 @@ def main():
     #finalOutputFile()
     string_a = "oia"
     string_b = "oia oia"
-    #print(similiarString(string_a,string_b))
-    #foundClassTitle("Bootstrapping Case Base Development with Annotated Case Summaries")
-    putClassTitleEndNote()
+    print(similiarString(string_a,string_b))
+
     
 main()

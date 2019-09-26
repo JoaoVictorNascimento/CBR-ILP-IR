@@ -1,0 +1,15 @@
+%0 Conference Proceedings
+%T Examining locally varying weights for nearest neighbor algorithms
+%A Howe, Nicholas
+%A Cardie, Claire
+%Y Leake, David B.
+%Y Plaza, Enric
+%S Case-Based Reasoning Research and Development
+%D 1997
+%I Springer Berlin Heidelberg
+%C Berlin, Heidelberg
+%@ 978-3-540-69238-6
+%F 10.1007/3-540-63233-6_515
+%X Previous work on feature weighting for case-based learning algorithms has tended to use either global weights or weights that vary over extremely local regions of the case space. This paper examines the use of coarsely local weighting schemes, where feature weights are allowed to vary but are identical for groups or clusters of cases. We present a new technique, called class distribution weighting (CDW), that allows weights to vary at the class level. We further extend CDW into a family of related techniques that exhibit varying degrees of locality, from global to local. The class distribution techniques are then applied to a set of eleven concept learning tasks. We find that one or more of the CDW variants significantly improves classification accuracy for nine of the eleven tasks. In addition, we find that the relative importance of classes, features, and feature values in a particular domain determines which variant is most successful.
+%P 455-466
+

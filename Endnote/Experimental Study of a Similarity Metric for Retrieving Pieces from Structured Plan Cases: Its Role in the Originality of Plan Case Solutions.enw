@@ -1,0 +1,17 @@
+%0 Conference Proceedings
+%T Experimental study of a similarity metric for retrieving pieces from structured plan cases: Its role in the originality of plan case solutions
+%A Macedo, Luís
+%A Pereira, Francisco C.
+%A Grilo, Carlos
+%A Cardoso, Amílcar
+%Y Leake, David B.
+%Y Plaza, Enric
+%S Case-Based Reasoning Research and Development
+%D 1997
+%I Springer Berlin Heidelberg
+%C Berlin, Heidelberg
+%@ 978-3-540-69238-6
+%F 10.1007/3-540-63233-6_526
+%X This paper describes a quantitative similarity metric and its contribution to achieve original plan solutions. This similarity metric is used by an iterative process of piece retrieval from structured plan cases. Within our approach plan cases are tree-like networks of pieces (goals and actions). These case pieces are ill-related each other by links (explanations). These links may be classified as hierarchical or temporal, antecedent or consequent, and explicit or implicit. Besides links, each case piece has also information about its properties (the attributes-value pairs), its hierarchical and temporal position in the case (the address), and about its constraints in the relationship with others (the constraints). The similarity metric computes a similarity value between two case pieces taking into account similarities between these case piece's information types. Each time a problem is proposed, different weights are given to some of those similarities, with the aim of solving it with an original solution. This similarity metric is used by the system INSPIRER (ImagiNation taking as Source Past and Imperfectly REalated Reasonings). We illustrate the role of the similarity metric in the creativity of solutions, focusing specially their originality, with the presentation of the experimental results obtained in the musical composition domain, which is considered by us as a planning domain.
+%P 575-586
+

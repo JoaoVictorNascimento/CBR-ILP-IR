@@ -1,0 +1,15 @@
+%0 Conference Proceedings
+%T Lookahead and discretization in ILP
+%A Blockeel, Hendrik
+%A De Raedt, Luc
+%Y Lavrač, Nada
+%Y Džeroski, Sašo
+%S Inductive Logic Programming
+%D 1997
+%I Springer Berlin Heidelberg
+%C Berlin, Heidelberg
+%@ 978-3-540-69587-5
+%F 10.1007/3540635149_36
+%X We present and evaluate two methods for improving the performance of ILP systems. One of them is discretization of numerical attributes, based on Fayyad and Irani's text [9], but adapted and extended in such a way that it can cope with some aspects of discretization that only occur in relational learning problems (when indeterminate literals occur). The second technique is lookahead. It is a well-known problem in ILP that a learner cannot always assess the quality of a refinement without knowing which refinements will be enabled afterwards, i.e. without looking ahead in the refinement lattice. We present a simple method for specifying when lookahead is to be used, and what kind of lookahead is interesting. Both the discretization and lookahead techniques are evaluated experimentally. The results show that both techniques improve the quality of the induced theory, while computational costs are acceptable.
+%P 77-84
+

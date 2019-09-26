@@ -1,0 +1,16 @@
+%0 Conference Proceedings
+%T Case-Based Reasoning for Estuarine Model Design
+%A Passone, Sara
+%A Chung, Paul W. H.
+%A Nassehi, Vahid
+%Y Craw, Susan
+%Y Preece, Alun
+%S Advances in Case-Based Reasoning
+%D 2002
+%I Springer Berlin Heidelberg
+%C Berlin, Heidelberg
+%@ 978-3-540-46119-7
+%F 10.1007/3-540-46119-1_43
+%X Estuaries are complex natural water systems. Their behaviour depend on many factors, which are possible to analyse only by adopting different study approaches. The physical processes within estuaries, such as floods and pollutant dispersion, are generally investigated through computer modelling. In this paper the application of case-based reasoning technology to support the design of estuarine models is described. The system aims to provide a nonexpert user in modelling with the necessary guidance for selecting a model that matches his goal and the nature of the problem to be solved. The system is based on three components: a case-based reasoning scheme, a genetic algorithm and a library of numerical estuarine models. An example based on the Upper Milford Haven estuary (UK) is used to demonstrate the efficacy of the system’s structure for supporting estuarine model design.
+%P 590-603
+

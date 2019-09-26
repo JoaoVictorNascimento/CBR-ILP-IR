@@ -1,0 +1,17 @@
+%0 Journal Article
+%T Metrics for evaluating database selection techniques
+%A French, James C.
+%A Powell, Allison L.
+%J World Wide Web
+%D 2000
+%8 November 01
+%V 3
+%N 3
+%@ 1573-1413
+%F French2000
+%X The increasing availability of online databases and other information resources in digital libraries and on the World Wide Web has created the need for efficient and effective algorithms for selecting databases to search. A number of techniques have been proposed for query routing or database selection. We have developed a methodology and metrics that can be used to directly compare competing techniques. They can also be used to isolate factors that influence the performance of these techniques so that we can better understand performance issues. In this paper we describe the methodology we have used to examine the performance of database selection algorithms such as gGlOSS and CORI. In addition we develop the theory behind a “random” database selection algorithm and show how it can be used to help analyze the behavior of realistic database selection algorithms.
+%9 journal article
+%R 10.1023/A:1019241915635
+%U https://doi.org/10.1023/A:1019241915635
+%P 153-163
+

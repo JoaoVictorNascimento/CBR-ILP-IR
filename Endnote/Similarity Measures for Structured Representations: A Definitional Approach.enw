@@ -1,0 +1,14 @@
+%0 Conference Proceedings
+%T Similarity Measures for Structured Representations: A Definitional Approach
+%A Falkman, Göran
+%Y Blanzieri, Enrico
+%Y Portinale, Luigi
+%S Advances in Case-Based Reasoning
+%D 2000
+%I Springer Berlin Heidelberg
+%C Berlin, Heidelberg
+%@ 978-3-540-44527-2
+%F 10.1007/3-540-44527-7_33
+%X A similarity framework for definitional representations is presented. Similarity assessment is based on the computation and estimation of structural relationships (connections) among definitions. The framework is general enough to capture many different types of similarity measures: ordinal and cardinal measures, asymmetric measures, and measures between any number of objects. By definition, the similarity measures retrieve the cases that need the least adaptation.
+%P 380-392
+

@@ -1,0 +1,15 @@
+%0 Conference Proceedings
+%T Similarity evaluation between observed behaviours for the prediction of processes
+%A Rougegrez, Sophie
+%Y Wess, Stefan
+%Y Althoff, Klaus-Dieter
+%Y Richter, Michael M.
+%S Topics in Case-Based Reasoning
+%D 1994
+%I Springer Berlin Heidelberg
+%C Berlin, Heidelberg
+%@ 978-3-540-48655-8
+%F 10.1007/3-540-58330-0_84
+%X This article deals with the prediction of processes. Research work on this topic considers some well known processes. Their prediction is based on a model which takes precisely into account the influence of the parameters involved in the modification of their state. Such models are not conceivable here: the point is indeed of some processes that human beings control little, like forest fires, which is the subject of the system presented here. The reasoning that it uses relies on cases. We consider indeed that if two processes behaved the same way during a certain interval then their behaviours are very likely to be similar afterwards. The matching is based on an approximate string matching. Because of the complexity of the handled processes, points of view have been introduced. Their consideration requires a matching adapted to each one. They are presented here.
+%P 155-166
+

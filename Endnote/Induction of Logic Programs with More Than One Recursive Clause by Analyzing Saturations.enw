@@ -1,0 +1,17 @@
+%0 Conference Proceedings
+%T Induction of logic programs with more than one recursive clause by analyzing saturations
+%A Furusawa, Mitsue
+%A Inuzuka, Nobuhiro
+%A Seki, Hirohisa
+%A Itoh, Hidenori
+%Y Lavrač, Nada
+%Y Džeroski, Sašo
+%S Inductive Logic Programming
+%D 1997
+%I Springer Berlin Heidelberg
+%C Berlin, Heidelberg
+%@ 978-3-540-69587-5
+%F 10.1007/3540635149_45
+%X This paper describes a bottom-up ILP algorithm called MRI, which induces recursive programs with one or more recursive clauses from a few of examples. It analyzes saturations using path structures, which express streams of terms processed by predicates and was originally introduced by Identam-Almquist. We introduce extension and difference of path structures. Recursive clauses can be expressed as a difference among path structures. The paper also shows experimental results.
+%P 165-172
+

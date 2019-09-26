@@ -1,0 +1,5 @@
+%0 Conference Proceedings
+%T Semi-automatic Acquisition of Machine Translation Knowledge from Examples
+%D 1998
+%A Ren, Fuji
+%X A crucial problem in rule-based machine translation is the acquisition of translation knowledge. Many studies have been conducted for automatic acquisition in the past, but they require a great deal of annotated examples. In this paper, we describe a semi-automatic acquisition from translation examples in Japanese-Chinese environment. Whenever necessary, the process interacts with a user (a linguist) who will provides additional information and constraints for generalizing the translation examples. The semiautomatic approach is more efficient in the sense that less examples are required than automatic approaches. Once the acquired knowledge is integrated with an MT system, we observe an improvement in translation quality.

@@ -1,0 +1,18 @@
+%0 Journal Article
+%T Relational Reinforcement Learning
+%A Džeroski, Sašo
+%A De Raedt, Luc
+%A Driessens, Kurt
+%J Machine Learning
+%D 2001
+%8 April 01
+%V 43
+%N 1
+%@ 1573-0565
+%F Džeroski2001
+%X Relational reinforcement learning is presented, a learning technique that combines reinforcement learning with relational learning or inductive logic programming. Due to the use of a more expressive representation language to represent states, actions and Q-functions, relational reinforcement learning can be potentially applied to a new range of learning tasks. One such task that we investigate is planning in the blocks world, where it is assumed that the effects of the actions are unknown to the agent and the agent has to learn a policy. Within this simple domain we show that relational reinforcement learning solves some existing problems with reinforcement learning. In particular, relational reinforcement learning allows us to employ structural representations, to abstract from specific goals pursued and to exploit the results of previous learning phases when addressing new (more complex) situations.
+%9 journal article
+%R 10.1023/A:1007694015589
+%U https://doi.org/10.1023/A:1007694015589
+%P 7-52
+

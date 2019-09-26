@@ -1,0 +1,15 @@
+%0 Conference Proceedings
+%T A New Algorithm for Learning Range Restricted Horn Expressions
+%A Arias, Marta
+%A Khardon, Roni
+%Y Cussens, James
+%Y Frisch, Alan
+%S Inductive Logic Programming
+%D 2000
+%I Springer Berlin Heidelberg
+%C Berlin, Heidelberg
+%@ 978-3-540-44960-7
+%F 10.1007/3-540-44960-4_2
+%X A learning algorithm for the class of range restricted Horn expressions is presented and proved correct. The algorithm works within the framework of learning from entailment, where the goal is to exactly identify some pre-fixed and unknown expression by making questions to membership and equivalence oracles. This class has been shown to be learnable in previous work. The main contribution of this paper is in presenting a more direct algorithm for the problem which yields an improvement in terms of the number of queries made to the oracles. The algorithm is also adapted to the class of Horn expressions with inequalities on all syntactically distinct terms where a significant improvement in the number of queries is obtained.
+%P 21-39
+

@@ -1,0 +1,15 @@
+%0 Conference Proceedings
+%T Integrating case based reasoning and tabu search for solving optimisation problems
+%A Grolimund, Stephan
+%A Ganascia, Jean-Gabriel
+%Y Veloso, Manuela
+%Y Aamodt, Agnar
+%S Case-Based Reasoning Research and Development
+%D 1995
+%I Springer Berlin Heidelberg
+%C Berlin, Heidelberg
+%@ 978-3-540-48446-2
+%F 10.1007/3-540-60598-3_41
+%X Tabu search is an established heuristic optimisation technique for problems where exact algorithms are not available. It belongs to the same family as simulated annealing or genetic algorithms. It extends the basic iterative improvement scheme by adding control learning. A technique of this kind, intensification, captures experience established on a frequency-based analysis of past search. Experience is reused while the same optimisation process is going on in order to guide search to better solutions.
+%P 451-460
+

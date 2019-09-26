@@ -1,0 +1,15 @@
+%0 Conference Proceedings
+%T Collaborative Maintenance - A Distributed, Interactive Case-Base Maintenance Strategy
+%A Ferrario, Maria Angela
+%A Smyth, Barry
+%Y Blanzieri, Enrico
+%Y Portinale, Luigi
+%S Advances in Case-Based Reasoning
+%D 2000
+%I Springer Berlin Heidelberg
+%C Berlin, Heidelberg
+%@ 978-3-540-44527-2
+%F 10.1007/3-540-44527-7_34
+%X Case-base maintenance is an important emerging issue for case-base reasoners as they scale-up to handle real-world problems in unstable environments. Overtime the contents of a case-base may become out-of-date or inconsistent with the current target problem space, and maintenance strategies must be devised to help recognise and repair these problems, by deleting, adding, or modifying cases, for example. In this paper we describe a maintenance framework called collaborative maintenance (CM), which has been designed to facilitate, monitor, and control the incremental up-date of live, dynamic case-bases. Our approach is novel in that it automatically supports a distributed, interactive maintenance process - users are permitted to recommend case updates and the collaborative maintenance process ensures that these recommendations are properly reviewed and actioned.
+%P 393-405
+

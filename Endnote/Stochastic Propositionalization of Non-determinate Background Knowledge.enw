@@ -1,0 +1,15 @@
+%0 Conference Proceedings
+%T Stochastic propositionalization of non-determinate background knowledge
+%A Kramer, Stefan
+%A Pfahringer, Bernhard
+%A Helma, Christoph
+%Y Page, David
+%S Inductive Logic Programming
+%D 1998
+%I Springer Berlin Heidelberg
+%C Berlin, Heidelberg
+%@ 978-3-540-69059-7
+%F 10.1007/BFb0027312
+%X Both propositional and relational learning algorithms require a good representation to perform well in practice. Usually such a representation is either engineered manually by domain experts or derived automatically by means of so-called constructive induction. Inductive Logic Programming (ILP) algorithms put a somewhat less burden on the data engineering effort as they allow for a structured, relational representation of background knowledge. In chemical and engineering domains, a common representational device for graph-like structures are so-called non-determinate relations. Manually engineered features in such domains typically test for or count occurrences of specific substructures having specific properties. However, representations containing non-determinate relations pose a serious efficiency problem for most standard ILP algorithms. Therefore, we have devised a stochastic algorithm to automatically derive features from non-determinate background knowledge. The algorithm conducts a top-down search for first-order clauses, where each clause represents a binary feature. These features are used instead of the non-determinate relations in a subsequent induction step. In contrast to comparable algorithms search is not class-blind and there are no arbitrary size restrictions imposed on candidate clauses. An empirical investigation in three chemical domains supports the validity and usefulness of the proposed algorithm.
+%P 80-94
+

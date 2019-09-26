@@ -1,0 +1,14 @@
+%0 Conference Proceedings
+%T Induction of Constraint Grammar-rules using Progol
+%A Eineborg, Martin
+%A Lindberg, Nikolaj
+%Y Page, David
+%S Inductive Logic Programming
+%D 1998
+%I Springer Berlin Heidelberg
+%C Berlin, Heidelberg
+%@ 978-3-540-69059-7
+%F 10.1007/BFb0027315
+%X The paper reports a pilot study aiming at inducing rules for disambiguating words with different possible part of speech readings in unrestricted Swedish text. The rules, which are inspired by Constraint Grammar, are learnt using the Progol inductive logic programming system. The training data is sampled from the part of speech tagged one million word Stockholm-Umeå Corpus. The results show that the induction of disambiguation rules using Progol is a realistic way of learning rules of good quality with a minimum of manual effort. When tested on unseen data, 97% of the words retain the correct reading after tagging leaving an ambiguity of 1.15 readings per word.
+%P 116-124
+

@@ -1,0 +1,16 @@
+%0 Conference Proceedings
+%T Selecting and Comparing Multiple Cases to Maximise Result Quality after Adaptation in Case-Based Adaptive Scheduling
+%A Scott, Steve
+%A Osborne, Hugh
+%A Simpson, Ron
+%Y Blanzieri, Enrico
+%Y Portinale, Luigi
+%S Advances in Case-Based Reasoning
+%D 2000
+%I Springer Berlin Heidelberg
+%C Berlin, Heidelberg
+%@ 978-3-540-44527-2
+%F 10.1007/3-540-44527-7_44
+%X Recent Case-Based Reasoning research has begun to refocus attention on the problem of automatic adaptation of the retrieved case to give a fuller solution to the new problem. Such work has highlighted problems with the usefulness of similarity assessment of cases where adaptation is involved. As a response to this, methods of case selection are evolving that take adaptation into account. This current work looks more closely at the relationship between selection and adaptation. It considers experimental evidence considering adaptation of multiple cases for one problem. It argues that selection of the best case after adaptation will often make more efficient use of case knowledge than any attempt to pre-select a single case for adaptation.
+%P 517-528
+

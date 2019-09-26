@@ -1,0 +1,18 @@
+%0 Conference Proceedings
+%T On a sufficient condition for the existence of most specific hypothesis in progol
+%A Furukawa, Koichi
+%A Murakami, Tomoko
+%A Ueno, Ken
+%A Ozaki, Tomonobu
+%A Shimazu, Keiko
+%Y Lavrač, Nada
+%Y Džeroski, Sašo
+%S Inductive Logic Programming
+%D 1997
+%I Springer Berlin Heidelberg
+%C Berlin, Heidelberg
+%@ 978-3-540-69587-5
+%F 10.1007/3540635149_44
+%X In this paper, we give a sufficient condition for the existence of the most specific hypothesis (MSH) in Progol. Muggleton [2] showed that for any first order theory (background knowledge) B and a single clause (a positive example) E, there exists the most specific hypothesis ¬bot(B, E) which satisfies B ≈ ¬,bot(B, E) ⊨ E and for any hypothesis H satisfying B ≈ H ⊨ E, H entails bot(B, E) assuming that hypotheses are all single clauses. Yamamoto[8] gave a counter example and indicated that Muggleton's proof contains error. He also gave a sufficient condition under which the MSH exists. In this paper, we give another and more realistic sufficient condition to guarantee the existence of the MSH.
+%P 157-164
+

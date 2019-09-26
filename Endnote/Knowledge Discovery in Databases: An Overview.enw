@@ -1,0 +1,16 @@
+%0 Book Section
+%T Knowledge Discovery in Databases: An Overview
+%A Fayyad, Usama
+%E Džeroski, Sašo
+%E Lavrač, Nada
+%B Relational Data Mining
+%D 2001
+%I Springer Berlin Heidelberg
+%C Berlin, Heidelberg
+%@ 978-3-662-04599-2
+%F Fayyad2001
+%X Data Mining and Knowledge Discovery in Databases (KDD) promise to play an important role in the way people interact with databases, especially decision support databases where analysis and exploration operations are essential. Inductive logic programming can potentially play some key roles in KDD. We define the basic notions in data mining and KDD, define the goals, present motivation, and give a high-level definition of the KDD Process and how it relates to Data Mining. We then focus on data mining methods. Basic coverage of a sampling of methods will be provided to illustrate the methods and how they are used. We cover two case studies of successful applications in science data analysis, one of which is the classification of cataloging of a major astronomy sky survey covering 2 billion objects in the northern sky. The system can outperform human as well as classical computational analysis tools in astronomy on the task of recognizing faint stars and galaxies. We conclude with a listing of research challenges and we outline the areas where ILP could play some important roles in KDD.
+%R 10.1007/978-3-662-04599-2_2
+%U https://doi.org/10.1007/978-3-662-04599-2_2
+%P 28-47
+

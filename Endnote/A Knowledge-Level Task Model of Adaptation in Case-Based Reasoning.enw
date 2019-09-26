@@ -1,0 +1,16 @@
+%0 Conference Proceedings
+%T A Knowledge-level Task Model of Adaptation in Case-Based Reasoning
+%A Fuchs, Béatrice
+%A Mille, Alain
+%Y Althoff, Klaus-Dieter
+%Y Bergmann, Ralph
+%Y Branting, L.Karl
+%S Case-Based Reasoning Research and Development
+%D 1999
+%I Springer Berlin Heidelberg
+%C Berlin, Heidelberg
+%@ 978-3-540-48508-7
+%F 10.1007/3-540-48508-2_9
+%X The adaptation step is central in case-based reasoning (CBR), because it conditions the obtaining of a solution to a problem. This step is difficult from the knowledge acquisition and engineering points of view. We propose a knowledge level analysis of the adaptation step in CBR using the reasoning task concept. Our proposal is based on the study of several CBR systems for complex applications which imply the adaptation task. Three of them are presented to illustrate our analysis. We sketch from this study a generic model of the adaptation process using the task concept. This model is in conformity with other CBR formal models.
+%P 118-131
+

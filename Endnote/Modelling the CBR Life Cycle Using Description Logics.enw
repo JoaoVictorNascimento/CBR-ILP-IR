@@ -1,0 +1,18 @@
+%0 Conference Proceedings
+%T Modelling the CBR Life Cycle Using Description Logics ⋆
+%A Gómez-Albarrán, Mercedes
+%A González-Calero, Pedro A.
+%A Díaz-Agudo, Belén
+%A Fernández-Conde, Carlos
+%Y Althoff, Klaus-Dieter
+%Y Bergmann, Ralph
+%Y Branting, L.Karl
+%S Case-Based Reasoning Research and Development
+%D 1999
+%I Springer Berlin Heidelberg
+%C Berlin, Heidelberg
+%@ 978-3-540-48508-7
+%F 10.1007/3-540-48508-2_11
+%X In this paper Description Logics are presented as a suitable formalism to model the CBR life cycle. We propose a general model to structure the knowledge needed in a CBR system, where adaptation knowledge is explicitly represented. Next, the CBR processes are described based on this model and the CBR system OoFRA is presented as an example of our approach.
+%P 147-161
+

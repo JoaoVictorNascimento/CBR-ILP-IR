@@ -1,0 +1,15 @@
+%0 Conference Proceedings
+%T Mining association rules in multiple relations
+%A Dehaspe, Luc
+%A De Raedt, Luc
+%Y Lavrač, Nada
+%Y Džeroski, Sašo
+%S Inductive Logic Programming
+%D 1997
+%I Springer Berlin Heidelberg
+%C Berlin, Heidelberg
+%@ 978-3-540-69587-5
+%F 10.1007/3540635149_40
+%X The application of algorithms for efficiently generating association rules is so far restricted to cases where information is put together in a single relation. We describe how this restriction can be overcome through the combination of the available algorithms with standard techniques from the field of inductive logic programming. We present the system Warmr, which extends Apriori [2] to mine association rules in multiple relations. We apply Warmr to the natural language processing task of mining part-of-speech tagging rules in a large corpus of English. be applied to further constrain the space of interesting ARMR's.
+%P 125-132
+

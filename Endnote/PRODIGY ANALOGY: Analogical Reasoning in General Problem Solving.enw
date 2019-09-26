@@ -1,0 +1,15 @@
+%0 Conference Proceedings
+%T PRODILOGY/ANALOGY: Analogical reasoning in general problem solving
+%A Veloso, Manuela M.
+%Y Wess, Stefan
+%Y Althoff, Klaus-Dieter
+%Y Richter, Michael M.
+%S Topics in Case-Based Reasoning
+%D 1994
+%I Springer Berlin Heidelberg
+%C Berlin, Heidelberg
+%@ 978-3-540-48655-8
+%F 10.1007/3-540-58330-0_75
+%X This paper describes the integration of analogical reasoning into general problem solving as a method of learning at the strategy level to solve problems more effectively. The method based on derivational analogy has been fully implemented in prodigy/analogy and proven empirically to be amenable to scaling up both in terms of domain and problem complexity. prodigy/analogy addresses a set of challenging problems, namely: how to accumulate episodic problem solving experience, cases, how to define and decide when two problem solving situations are similar, how to organize a large library of planning cases so that it may be efficiently retrieved, and finally how to successfully transfer chains of problem solving decisions from past experience to new problem solving situations when only a partial match exists among corresponding problems. The paper discusses the generation and replay of the problem solving cases and we illustrate the algorithms with examples. We present briefly the library organization and the retrieval strategy. We relate this work with other alternative strategy learning methods, and also with plan reuse. prodigy/analogy casts the strategy-level learning process for the first time as the automation of the complete cycle of constructing, storing, retrieving, and flexibly reusing problem solving experience. We demonstrate the effectiveness of the analogical replay strategy by providing empirical results on the performance of prodigy/analogy, accumulating and reusing a large case library in a complex problem solving domain. The integrated learning system reduces the problem solving search effort incrementally as more episodic experience is compiled into the library of accumulated learned knowledge.
+%P 33-50
+

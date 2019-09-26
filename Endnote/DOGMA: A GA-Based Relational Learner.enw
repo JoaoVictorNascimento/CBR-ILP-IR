@@ -1,0 +1,13 @@
+%0 Conference Proceedings
+%T DOGMA: A GA-based relational learner
+%A Hekanaho, Jukka
+%Y Page, David
+%S Inductive Logic Programming
+%D 1998
+%I Springer Berlin Heidelberg
+%C Berlin, Heidelberg
+%@ 978-3-540-69059-7
+%F 10.1007/BFb0027324
+%X We describe a GA-based concept learning/theory revision system DOGMA and discuss how it can be applied to relational learning. The search for better theories in DOGMA is guided by a novel fitness function that combines the minimal description length and information gain measures. To show the efficacy of the system we compare it to other learners in two relational domains.
+%P 205-214
+

@@ -1,0 +1,16 @@
+%0 Conference Proceedings
+%T Acquiring Graphic Design Knowledge with Nonmonotonic Inductive Learning
+%A Chiba, Kazuya
+%A Ohwada, Hayato
+%A Mizoguchi, Fumio
+%Y Džeroski, Sašo
+%Y Flach, Peter
+%S Inductive Logic Programming
+%D 1999
+%I Springer Berlin Heidelberg
+%C Berlin, Heidelberg
+%@ 978-3-540-48751-7
+%F 10.1007/3-540-48751-4_7
+%X In this paper, we present a new method based on nonmonotonic learning where the Inductive Logic Programming (ILP) algorithm is used twice and apply our method to acquire graphic design knowledge. Acquiring design knowledge is a challenging task because such knowledge is complex and vast. We thus focus on principles of layout and constraints that layouts must satisfy to realize automatic layout generation. Although we do not have negative examples in this case, we can generate them randomly by considering that a page with just one element moved is always wrong. Our nonmonotonic learning method introduces a new predicate for exceptions. In our method, the ILP algorithm is executed twice, exchanging positive and negative examples. From our experiments using magazine advertisements, we obtained rules characterizing good layouts and containing relationships between elements. Moreover, the experiments show that our method can learn more accurate rules than normal ILP can.
+%P 56-67
+

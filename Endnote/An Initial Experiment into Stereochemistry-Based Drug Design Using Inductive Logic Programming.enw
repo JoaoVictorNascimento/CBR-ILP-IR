@@ -1,0 +1,15 @@
+%0 Conference Proceedings
+%T An initial experiment into stereochemistry-based drug design using inductive logic programming
+%A Muggleton, Stephen
+%A Page, David
+%A Srinivasan, Ashwin
+%Y Muggleton, Stephen
+%S Inductive Logic Programming
+%D 1997
+%I Springer Berlin Heidelberg
+%C Berlin, Heidelberg
+%@ 978-3-540-69583-7
+%F 10.1007/3-540-63494-0_46
+%X Previous applications of Inductive Logic Programming to drug design have not addressed stereochemistry, or the three-dimensional aspects of molecules. While some success is possible without consideration of stereochemistry, researchers within the pharmaceutical industry consider stereochemistry to be central to most drug design problems. This paper reports on an experimental application of the ILP system P-Progol to stereochemistry-based drug design. The experiment tests whether P-Progol can identify the structure responsible for the activity of ACE (angiotensin-converting enzyme inhibitors from 28 positive examples, that is, from 28 molecules that display the activity of ACE inhibition. ACE inhibitors are a widely-used form of medication for the treatment of hypertension. It should be stressed that this structure was already known prior to the experiment and therefore is not a new discovery; the experiment was proposed by a researcher within the pharmaceutical industry to test the applicability of ILP to stereochemistry-based drug design. While the result of the experiment is quite positive, one challenge remains before ILP can be applied to a multitude of drug design problems.
+%P 23-40
+

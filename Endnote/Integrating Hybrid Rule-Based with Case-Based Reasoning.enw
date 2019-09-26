@@ -1,0 +1,15 @@
+%0 Conference Proceedings
+%T Integrating Hybrid Rule-Based with Case-Based Reasoning
+%A Prentzas, Jim
+%A Hatzilygeroudis, Ioannis
+%Y Craw, Susan
+%Y Preece, Alun
+%S Advances in Case-Based Reasoning
+%D 2002
+%I Springer Berlin Heidelberg
+%C Berlin, Heidelberg
+%@ 978-3-540-46119-7
+%F 10.1007/3-540-46119-1_25
+%X In this paper, we present an approach integrating neurule-based and case-based reasoning. Neurules are a kind of hybrid rules that combine a symbolic (production rules) and a connectionist representation (adaline unit). Each neurule is represented as an adaline unit. One way that the neurules can be produced is from symbolic rules by merging the symbolic rules having the same conclusion. In this way, the number of rules in the rule base is decreased. If the symbolic rules, acting as source knowledge of the neurules, do not cover the full complexities of the domain, accuracy of the produced neurules is affected as well. To improve accuracy, neurules can be integrated with cases representing their exceptions. The integration approach enhances a previous method integrating symbolic rules with cases. The use of neurules instead of symbolic rules improves the efficiency of the inference mechanism and allows for drawing conclusions even if some of the inputs are unknown.
+%P 336-349
+

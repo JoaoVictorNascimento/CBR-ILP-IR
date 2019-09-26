@@ -1,0 +1,7 @@
+%0 Article
+%T HUMAN PERCEPTION AND COMPUTER EXTRACTION OF MUSICAL BEAT STRENGTH
+%D 2000
+%A Tzanetakis, George
+%A Essl, Georg
+%A Cook, Perry 
+%X Musical signals exhibit periodic temporal structure that create the sensation of rhythm. In order to model, analyze, and retrieve musical signals it is important to automatically extract rhythmic information. To somewhat simplify the problem, automatic algo-rithms typically only extract information about the main beat of the signal which can be loosely defined as the regular periodic se-quence of pulses corresponding to where a human would tap his foot while listening to the music. In these algorithms, the beat is characterized by its frequency (tempo), phase (accent locations) and a confidence measure about its detection. The main focus of this paper is the concept of Beat Strength, which will be loosely defined as one rhythmic characteristic that could allow to discriminate between two pieces of music having the same tempo. Using this definition, we might say that a piece of Hard Rock has a higher beat strength than a piece of Classical Music at the same tempo. Characteristics related to Beat Strength have been implicitely used in automatic beat detection algorithms and shown to be as important as tempo information for music clas-sification and retrieval. In the work presented in this paper, a user study exploring the perception of Beat Strength was conducted and the results were used to calibrate and explore automatic Beat Strength measures based on the calculation of Beat Histograms.

@@ -1,0 +1,14 @@
+%0 Conference Proceedings
+%T Handling Vague and Qualitative Criteria in Case-Based Reasoning Applications
+%A Vollrath, Ivo
+%Y Blanzieri, Enrico
+%Y Portinale, Luigi
+%S Advances in Case-Based Reasoning
+%D 2000
+%I Springer Berlin Heidelberg
+%C Berlin, Heidelberg
+%@ 978-3-540-44527-2
+%F 10.1007/3-540-44527-7_27
+%X In some case-based reasoning (CBR) applications for decision support there are a number of vague or qualitative criteria that have to be taken into account by the similarity measure. Sometimes, these criteria are very hard to acquire or quantify and they often conflict with the “main” quality criterion that is measured by the similarity function. Surprisingly, this sometimes is true even for cost criteria (mostly believed to be quite quantitative): in certain applications, the acceptable cost limit depends mostly on the quality that is available and thus cannot be specified a priori. This paper discusses the problems arising from this kind of implicit criteria and shows approaches of how they can be integrated into the similarity measure of a case-based reasoning system without the need of artificially quantifying them.
+%P 309-321
+

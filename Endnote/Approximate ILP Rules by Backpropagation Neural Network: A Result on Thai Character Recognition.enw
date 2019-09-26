@@ -1,0 +1,15 @@
+%0 Conference Proceedings
+%T Approximate ILP Rules by Backpropagation Neural Network: A Result on Thai Character Recognition
+%A Kijsirikul, Boonserm
+%A Sinthupinyo, Sukree
+%Y Džeroski, Sašo
+%Y Flach, Peter
+%S Inductive Logic Programming
+%D 1999
+%I Springer Berlin Heidelberg
+%C Berlin, Heidelberg
+%@ 978-3-540-48751-7
+%F 10.1007/3-540-48751-4_16
+%X This paper presents an application of Inductive Logic Programming (ILP) and Backpropagation Neural Network (BNN) to the problem of Thai character recognition. In such a learning problem, there exist several different classes of examples; there are 77 different Thai characters. Using examples constructed from character images, ILP learns 77 rules each of which defines each character. However, some unseen character images, especially the noisy images, may not exactly match any learned rule, i.e., they may not be covered by any rule. Therefore, a method for approximating the rule that best matches the unseen data is needed. Here we employ BNN for finding such rules. Experimental results on noisy data show that the accuracy of rules learned by ILP without the help of BNN is comparable to other methods. Furthermore, combining BNN with ILP yields the significant improvement and surpasses the other methods tested in our experiment.
+%P 162-173
+

@@ -1,0 +1,42 @@
+FN Clarivate Analytics Web of Science
+VR 1.0
+PT B
+AU Fujii, A
+   Ishikawa, T
+AF Fujii, A
+   Ishikawa, T
+GP ACL
+TI Organizing encyclopedic knowledge based on the web and its application
+   to question answering
+SO 39TH ANNUAL MEETING OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS,
+   PROCEEDINGS OF THE CONFERENCE
+LA English
+DT Proceedings Paper
+CT 39th Annual Meeting of the Association-for-Computational-Linguistics
+CY JUL 09-11, 2001
+CL Toulouse, FRANCE
+SP Assoc Computat Linguist, CNRS, IRIT, Univ Sci Sociales, Univ Paul Sabatier, ATALA, ELSNET, Minist Educ Natl & Rech, Ctr Linguist & Computacio, Ville Toulouse, Conseil Reg Midi Pyrenees, Air France, EDF, France Telecom, IBM, Microsoft, Synapse Dev, Xerox Res Ctr
+AB We propose a method to generate large-scale encyclopedic knowledge, which is valuable for much NLP research, based on the Web. We first search the Web for pages containing a term in question. Then we use linguistic patterns and HTML structures to extract text fragments describing the term. Finally, we organize extracted term descriptions based on word senses and domains. In addition, we apply an automatically generated encyclopedia to a question answering system targeting the Japanese Information-Technology Engineers Examination.
+C1 Univ Lib & Informat Sci, Tsukuba, Ibaraki 3058550, Japan.
+NR 25
+TC 2
+Z9 2
+U1 0
+U2 0
+PU ASSOCIATION COMPUTATIONAL LINGUISTICS
+PI SOMERSET
+PA PO BOX 6090, SOMERSET, NJ 08875 USA
+BN 1-55860-767-6
+PY 2001
+BP 196
+EP 203
+PG 8
+WC Computer Science, Artificial Intelligence; Computer Science,
+   Interdisciplinary Applications; Linguistics
+SC Computer Science; Linguistics
+GA BAR58
+UT WOS:000223267600025
+DA 2019-08-27
+ER
+
+EF

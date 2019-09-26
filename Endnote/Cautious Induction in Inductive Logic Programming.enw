@@ -1,0 +1,15 @@
+%0 Conference Proceedings
+%T Cautious induction in inductive logic programming
+%A Anthony, Simon
+%A Frisch, Alan M.
+%Y Lavrač, Nada
+%Y Džeroski, Sašo
+%S Inductive Logic Programming
+%D 1997
+%I Springer Berlin Heidelberg
+%C Berlin, Heidelberg
+%@ 978-3-540-69587-5
+%F 10.1007/3540635149_34
+%X Many top-down Inductive Logic Programming systems use a greedy, covering approach to construct hypotheses. This paper presents an alternative, cautious approach, known as cautious induction. We conjecture that cautious induction can allow better hypotheses to be found, with respect to some hypothesis quality criteria. This conjecture is supported by the presentation of an algorithm called OILS, and with a complexity analysis and empirical comparison of OILS with the Progol system. The results are encouraging and demonstrate the applicability of cautious induction to problems with noisy datasets, and to problems which require large, complex hypotheses to be learnt.
+%P 45-60
+

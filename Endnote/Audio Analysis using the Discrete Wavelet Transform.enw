@@ -1,0 +1,8 @@
+%0 Conference Proceedings
+%T Audio Analysis using the Discrete Wavelet Transform
+%D 2001
+%A Tzanetakis, George
+%A Essl, Georg
+%A Cook, Perry R.
+%X The Discrete Wavelet Transform (DWT) is a transformation that can be used to analyze the temporal and spectral properties of non-stationary signals like audio. In this paper we describe some applications of the DWT to the problem of extracting information from non-speech audio. More specifically automatic classification of various types of audio using the DWT is described and compared with other traditional feature extractors proposed in the literature. In addition, a technique for detecting the beat attributes of music is presented. Both synthetic and real world stimuli were used to evaluate the performance of the beat detection algorithm. Key-Words: audio analysis, wavelets, classification, beat extraction.
+

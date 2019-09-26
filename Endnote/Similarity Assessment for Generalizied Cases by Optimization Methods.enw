@@ -1,0 +1,15 @@
+%0 Conference Proceedings
+%T Similarity Assessment for Generalizied Cases by Optimization Methods
+%A Mougouie, Babak
+%A Bergmann, Ralph
+%Y Craw, Susan
+%Y Preece, Alun
+%S Advances in Case-Based Reasoning
+%D 2002
+%I Springer Berlin Heidelberg
+%C Berlin, Heidelberg
+%@ 978-3-540-46119-7
+%F 10.1007/3-540-46119-1_19
+%X Generalized cases are cases that cover a subspace rather than a point in the problem-solution space. Generalized cases can be represented by a set of constraints over the case attributes. For such representations, the similarity assessment between a point query and generalized cases is a difficult problem that is addressed in this paper. The task is to find the distance (or the related similarity) between the point query and the closest point of the area covered by the generalized cases, with respect to some given similarity measure. We formulate this problem as a mathematical optimization problem and we propose a new cutting plane method which enables us to rank generalized cases according to their distance to the query.
+%P 249-263
+

@@ -1,0 +1,15 @@
+%0 Conference Proceedings
+%T Integrating rules and cases for the classification task
+%A Surma, Jerzy
+%A Vanhoof, Koen
+%Y Veloso, Manuela
+%Y Aamodt, Agnar
+%S Case-Based Reasoning Research and Development
+%D 1995
+%I Springer Berlin Heidelberg
+%C Berlin, Heidelberg
+%@ 978-3-540-48446-2
+%F 10.1007/3-540-60598-3_29
+%X The recent progress in Case- Based Reasoning has shown that one of the most important challenges in developing future AI methods will be to combine and synergistically utilize general and case-based knowledge. In this paper a very rudimentary kind of integration for the classification task, based on simple heuristics, is sketched: “To solve a problem, first try to use the conventional rule-based approach. If it does not work, try to remember a similar problem you have solved in the past and adapt the old solution to the new situation”. This heuristic approach is based on the knowledge base that consists of rule base and exception case base. The method of generating this kind of knowledge base from a set of examples is described. The proposed approach is tested, and compared with alternative approaches. The experimental results show that the presented integration method can lead to an improvement in accuracy and comprehensibility.
+%P 325-334
+

@@ -1,0 +1,14 @@
+%0 Conference Proceedings
+%T Refining Complete Hypotheses in ILP
+%A Bratko, Ivan
+%Y Džeroski, Sašo
+%Y Flach, Peter
+%S Inductive Logic Programming
+%D 1999
+%I Springer Berlin Heidelberg
+%C Berlin, Heidelberg
+%@ 978-3-540-48751-7
+%F 10.1007/3-540-48751-4_6
+%X Most ILP systems employ the covering algorithm whereby hypotheses are constructed iteratively clause by clause. Typically the covering algorithm is greedy in the sense that each iteration adds the best clause according to some local evaluation criterion. Some typical problems of the covering algorithm are: unnecessarily long hypotheses, difficulties in handling recursion, difficulties in learning multiple predicates. This paper investigates a non-covering approach to ILP, implemented as a Prolog program called HYPER, whose goals were: use intensional background knowledge, handle recursion well, and enable multi-predicate learning. Experimental results in this paper may appear surprising in the view of the very high combinatorial complexity of the search space associated with the non-covering approach.
+%P 44-55
+

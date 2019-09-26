@@ -1,0 +1,14 @@
+%0 Conference Proceedings
+%T Data mining via ILP: The application of Progol to a database of enantioseparations
+%A Bryant, Christopher H.
+%Y Lavrač, Nada
+%Y Džeroski, Sašo
+%S Inductive Logic Programming
+%D 1997
+%I Springer Berlin Heidelberg
+%C Berlin, Heidelberg
+%@ 978-3-540-69587-5
+%F 10.1007/3540635149_37
+%X As far as this author is aware, this is the first paper to describe the application of Progol to enantioseparations. A scheme is proposed for data mining a relational database of published enantioseparations using Progol. The application of the scheme is described and a preliminary assessment of the usefulness of the resulting generalisations is made using their accuracy, size, ease of interpretation and chemical justification.
+%P 85-92
+
