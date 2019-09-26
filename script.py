@@ -232,6 +232,25 @@ def finalOutputFile():
 
 def similiarString(stringA, stringB):
     return SequenceMatcher(None, stringA, stringB).ratio()
+
+def foundClassTitle(title):
+    with open('title_and_class.csv', encoding='ISO-8859-1') as csvfile:
+        readCsv = csv.reader(csvfile, delimiter=',')
+        
+        for line in readCsv:
+            if (similiarString(title, line[0]) > 0.8):
+                return line[1]
+
+def putClassTitleEndNote():
+        file = open('endnoteTest.enw', mode='r', newline='')
+        lines = file.readlines()
+        file.close()
+        lines.insert(2,"3")
+
+        file = open('endnoteTest.enw', mode='w', newline='')
+        lines = "".join(lines)
+        file.write(lines)
+        file.close()
             
 def main():
     '''
