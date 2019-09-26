@@ -1,6 +1,0 @@
-%0 Journal Article
-%T A framework for audio analysis based on classification and temporal segmentation
-%D 1999 
-%A Tzanetakis, George
-%A Cook, Perry R.
-%X Existing audio tools handle the increasing amount of computer audio data inadequately. The typical tape-recorder paradigm for audio interfaces is inflexible and time consuming, especially for large data sets. On the other hand, completely automatic audio analysis and annotation is impossible using current techniques. Alternative solutions are semi-automatic user interfaces that let users interact with sound in flexible ways based on content. This approach offers significant advantages over manual browsing, annotation and retrieval. Furthermore, it can be implemented using existing techniques for audio content analysis in restricted domains. This paper describes a framework for experimenting evaluating and integrating such techniques. As a test for the architecture, some recently proposed techniques have been implemented and tested. In addition, a new method for temporal segmentation based on audio texture is described. This method is combined with audio analysis techniques and used for hierarchical browsing classification and annotation of audio files.

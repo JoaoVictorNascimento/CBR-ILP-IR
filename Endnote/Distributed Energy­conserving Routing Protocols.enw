@@ -1,7 +1,0 @@
-%0 Journal Article
-%T Distributed Energy­conserving Routing Protocols
-%D 2003
-%A Li, Qun
-%A Aslam, Javed A.
-%A Rus, Daniela
-%X This paper discusses several distributed power-aware routing protocols in wireless ad-hoc networks (especially sensor networks). We seek to optimize the lifetime of the network. We have developed three distributed power-aware algorithms and analyzed their efficiency in terms of the number of message broadcasts and the overall network lifetime modelled as the time to the first message that can not be sent. These are: (1) a distributed min power algorithm (modelled on a distributed version of Dijkstra's algorithm), (2) a distributed max-min algorithm, and (3) the distributed version of the centralized online max-min zP/sub min/ algorithm presented by Qun Li et al. (2001). The first two algorithms are used to define the third, although they are very interesting and useful on their own for applications where the optimization criterion is the minimum power, respectively the maximum residual power. The distributed max-min zP/sub min/ algorithm optimizes the overall lifetime of the network by avoiding nodes of low power, while not using too much total power.

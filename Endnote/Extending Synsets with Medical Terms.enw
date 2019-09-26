@@ -1,7 +1,0 @@
-%0 Conference Proceedings
-%T Extending Synsets with Medical Terms
-%D 2002 
-%A Buitelaar, Paul
-%A Sacaleanu, Bogdan
-%X An important problematic issue with general semantic lexicons like WordNet or GermaNet is that they do not cover many terms and concepts specific to certain domains. Therefore, these resources need to be tuned to a specific domain at hand. This involves selecting those senses that are most appropriate for the domain, as well as extending the sense inventory with novel terms and novel senses that are specific to the domain. In this paper we focus on extending GermaNet synsets with domain specific terms, taking into account the domain relevance of senses (i.e. synsets).
-

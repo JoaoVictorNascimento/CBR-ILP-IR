@@ -1,6 +1,0 @@
-%0 Conference Paper
-%T Parallel Web Text Mining for Cross-Language IR
-%D 2000
-%A Jiang Chen
-%A Jian-Yun Nie 
-%X One of the approaches to cross-language information retrieval (CLIR) is based on the use of parallel texts. In this paper, we will describe a parallel text mining system called PTMiner (Parallel Text Miner) for the Web environment. We will explain the underlying mining algorithm of this system as well as its implementation using a distributed model and database technology. The resulted corpora are used as the training material for statistical translation models. Preliminary experimental results using the models for CLIR are reported.

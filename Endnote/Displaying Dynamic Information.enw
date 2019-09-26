@@ -1,5 +1,0 @@
-%0 Conference Proceedings
-%T Displaying Dynamic Information
-%D 2001
-%A Teevan, Jaime
-%X In this paper I introduce the problem of displaying dynamic information. I give several examples where an individual must interact with information that is changing beyond her control. The challenge in displaying this information is to discover how the user's context can be maintained while giving her access to the new information that becomes available. The user should feel in control of the information despite the fact that it is changing. This can be done effectively by understanding what conceptual anchors the user creates into the data, and keeping them constant while changing the other information as needed. 

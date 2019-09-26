@@ -1,6 +1,0 @@
-%0 Conference Proceedings
-%T Running head: TEXTUAL COHERENCE USING LATENT SEMANTIC ANALYSIS The Measurement of Textual Coherence with Latent Semantic Analysis
-%D 1998
-%A Foltz, Peter W.
-%A Landauer, Thomas K.
-%X Latent  Semantic  Analysis  is  used  as  a  technique  for  measuring  the  coherence  oftexts.  By comparing the vectors for two adjoining segments of text in a high-dimensional  semantic  space,  the  method  provides  a  characterization  of  the  degree  ofsemantic  relatedness  between  the  segments.    We  illustrate  the  approach  forpredicting coherence through re-analyzing sets of texts from two studies thatmanipulated  the  coherence  of  texts  and  assessed  readers'  comprehension.    Theresults indicate that the method is able to predict the effect of  text coherence oncomprehension  and  is  more  effective  than  simple  term-term  overlap  measures.    Inthis  manner,  LSA  can  be  applied  as  an  automated  method  that  produces  coherencepredictions  similar  to  propositional  modeling.    We  describe  additional  studiesinvestigating  the  application  of  LSA  to  analyzing  discourse  structure  and  examinethe potential of LSA as a psychological model of coherence effects in textcomprehension.

@@ -1,8 +1,0 @@
-%0 Journal Article
-%T Analyses for Elucidating Current Question Answering Technology
-%D 2001
-%A Marc Light
-%A Gideon S. Mann
-%A Ellen Riloff
-%A Eric Breck 
-%X In this paper, we take a detailed look at the performance of components of an idealized question answering system on two different tasks: the TREC Question Answering task and a set of reading comprehension exams. We carry out three types of analysis: inherent properties of the data, feature analysis, and performance bounds. Based on these analyses we explain some of the performance results of the current generation of Q/A systems and make predictions on future work. In particular, we present four findings: (1) Q/A system performance is correlated with answer repetition; (2) relative overlap scores are more effective than absolute overlap scores; (3) equivalence classes on scoring functions can be used to quantify performance bounds; and (4) perfect answer typing still leaves a great deal of ambiguity for a Q/A system because sentences often contain several items of the same type.

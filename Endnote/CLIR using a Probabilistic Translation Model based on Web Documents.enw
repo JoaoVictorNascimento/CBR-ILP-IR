@@ -1,5 +1,0 @@
-%0 Conference Paper
-%T CLIR using a Probabilistic Translation Model based on Web Documents
-%D 2000
-%A Nie, Jian-yun
-%X In  this  report,  we  describe  the  approach  we  used  in  TREC-8  Cross-Language  IR  (CLIR)track.    The  approach  is  based  on  probabilistic  translation  models  estimated  from  twoparallel  training  corpora:  one  established  manually,  and  the  other  built  automaticallywith the documents mined from the Web. We describe the principle of model building,the mining of parallel texts, as well as some preliminary evaluations.

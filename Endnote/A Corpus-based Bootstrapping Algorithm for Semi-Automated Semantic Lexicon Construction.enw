@@ -1,7 +1,0 @@
-%0 Journal Article 
-%T A Corpus-based Bootstrapping Algorithm for Semi-Automated Semantic Lexicon Construction
-%D 1999
-%A Riloff, Ellen
-%A Shepherd, Jessica
-%J Natural Language Engineering 
-%X Many applications need a lexicon that represents semantic information but acquiring lexical information is time consuming. We present a corpus-based bootstrapping algorithm that assists users in creating domain-specific semantic lexicons quickly. Our algorithm uses a representative text corpus for the domain and a small set of ‘seed words’ that belong to a semantic class of interest. The algorithm hypothesizes new words that are also likely to belong to the semantic class because they occur in the same contexts as the seed words. The best hypotheses are added to the seed word list dynamically, and the process iterates in a bootstrapping fashion. When the bootstrapping process halts, a ranked list of hypothesized category words is presented to a user for review. We used this algorithm to generate a semantic lexicon for eleven semantic classes associated with the MUC-4 terrorism domain.

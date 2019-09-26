@@ -1,7 +1,0 @@
-%0 Conference Proceedings
-%T A Systematic Approach to Creating and Maintaining Software Documentation
-%A Powell, Allison L.
-%A French, James C.
-%A Knight, John C.
-%D 1996
-%X Current software documentation is difficult to write and seldom meets the varying needs of its users. We propose that by considering different users and applying information retrieval techniques to the information included in software documentation, we can provide effective access to that information. We submit a set of features for inclusion in documentation database systems and describe a prototype designed to determine the usefulness of these features. 

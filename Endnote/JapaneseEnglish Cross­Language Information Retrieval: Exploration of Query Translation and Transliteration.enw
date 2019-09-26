@@ -1,8 +1,0 @@
-%0 Journal Article
-%T Japanese/English Cross-Language Information Retrieval: Exploration of Query Translation and Transliteration
-%A Fujii, Atsushi
-%A Ishikawa, Tetsuya
-%J Computers and the Humanities
-%D 2001
-%X Cross-language information retrieval (CLIR), where queriesand documents are in different languages, has of late become one ofthe major topics within the information retrieval community. Thispaper proposes a Japanese/English CLIR system, where we combine aquery translation and retrieval modules. We currently target theretrieval of technical documents, and therefore the performance of oursystem is highly dependent on the quality of the translation oftechnical terms. However, the technical term translation is stillproblematic in that technical terms are often compound words, and thusnew terms are progressively created by combining existing basewords. In addition, Japanese often represents loanwords based on itsspecial phonogram. Consequently, existing dictionaries find itdifficult to achieve sufficient coverage. To counter the firstproblem, we produce a Japanese/English dictionary for base words, andtranslate compound words on a word-by-word basis. We also use aprobabilistic method to resolve translation ambiguity. For the secondproblem, we use a transliteration method, which corresponds wordsunlisted in the base word dictionary to their phonetic equivalents inthe target language. We evaluate our system using a test collectionfor CLIR, and show that both the compound word translation andtransliteration methods improve the system performance.
-

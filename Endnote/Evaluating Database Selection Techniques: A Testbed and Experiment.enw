@@ -1,9 +1,0 @@
-%0 Conference Paper
-%T Evaluating Database Selection Techniques: A Testbed and Experiment
-%D 1998
-%A James C. French
-%A Allison L. Powell
-%A Charles L. Viles
-%A Travis Emmitt
-%A Kevin J. Prey 
-%X We describe a testbed for database selection techniques and an experiment conducted using this testbed. The testbed is a decomposition of the TREC/TIPSTER data that allows analysis of the data along multiple dimen-sions, including collection-based and temporal-based anal-ysis. We characterize the subcollections in this testbed in terms of number of documents, queries against which the documents have been evaluated for relevance, and distribu-tion of relevant documents. We then present initial results from a study conducted using this testbed that examines the eeectiveness of the gGlOSS approach to database se-lection. The databases from our testbed were ranked us-ing the gGlOSS techniques and compared to the gGlOSS Ideal(l) baseline and a baseline derived from TREC rele-vance judgements. We have examined the degree to which several gGlOSS estimate functions approximate these base-lines. Our initial results connrm that the gGlOSS estima-tors are excellent predictors of the Ideal(l) ranks but that the Ideal(l) ranks do not estimate relevance-based ranks well.

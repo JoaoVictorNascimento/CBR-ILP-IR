@@ -1,8 +1,0 @@
-%0 Conference Proceedings
-%T Generating, Visualizing, and Evaluating High-Quality Clusters for Information Organization
-%D 1998
-%A Aslam, Javed A.
-%A Pelekhov, Katya
-%A Rus, Daniela
-%X We present and analyze the star clustering algorithm. We discuss an implementation of this algorithm that supports browsing and document retrieval through information organization. We define three parameters for evaluating a clustering algorithm to measure the topic separation and topic aggregation achieved by the algorithm. In the absence of benchmarks, we present a method for randomly generating clustering data. Data from our user study shows evidence that the star algorithm is effective for organizing information.
-

@@ -1,5 +1,0 @@
-%0 Conference Proceedings
-%T Improving Full-Text Precision on Short Queries using Simple Constraints
-%D 1996
-%A Hearst, Marti A.
-%X We show that two simple constraints, when applied to short user queries (on the order of 5{10 words) can yield precision scores comparable to or better than those achieved using long queries (50{85 words) at low document cuto levels. These constraints are meant to detect documents that have subtopic passages that includes the most important components of the query. The constraints are: (i) a simple Boolean constraint which requires the user to specify the query as a list of topics; this list is converted into a conjunct of disjuncts by the system, and (ii) a subtopic-sized proximity constraint imposed over the Boolean constraint. The vector space model is used to rank the documents that satisfy both constraints. Experiments run over 45 TREC queries show signi cant, almost consistent improvements over rankings that use no constraints. These results have important rami cations for interactive systems intended for casual users, such as those searching on the World Wide Web.

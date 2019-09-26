@@ -1,7 +1,0 @@
-%0 Conference Paper
-%T MOTION ESTIMATION BASED ON AFFINE MOMENT INVARIANTS
-%D 1998
-%A G. Tzanetakis
-%A M. Traka
-%A G. G. Tziritas
-%X A method is proposed for parametric motion estimation of an image region. It is assumed that the region considered undergoes an affine transformation, which means that the motion is composed of a translation and a pure affine function of pixel coordinates. The solution of the object correspondence problem is assumed to be known. The estimation of the six motion parameters is based on the moments of the corresponding image regions. Moments up to order three are needed. For the motion computation each region is transformed to a standard position which is defined using affine invariants. The result of motion estimation is checked in the construction of a mosaic image.

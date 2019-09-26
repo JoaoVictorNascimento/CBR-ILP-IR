@@ -1,8 +1,0 @@
-%0 Conference Proceedings
-%T Using Mobile Agents for Analyzing Intrusion in Computer Networks
-%D 2001
-%A Aslam, Jay
-%A Cremonini, Marco
-%A Kotz, David
-%A Rus, Daniela
-%X Today hackers disguise their attacks by launching them form a set of compromised hosts distributed across the Internet. It is very difficult to defend against these attacks or to track down their origin. Commercially available intrusion detection systems can signal the occurrence of limited known types of attacks. New types of attacks are launched regularly but these tools are not effective in detecting them. Human experts are still the key tool for identifying, tracking, and disabling new attacks. Often this involves experts from many organizations working together to share their observations, hypothesis, and attack signatures. Unfortunately, today these experts have few tools that help them to automate this process. In this project we recognize that human experts will remain a critical part in the process of identifying, tracking and disabling computer attacks. We also recognize that an important part of the discovery, analysis, and defense against new distributed attacks is the cooperation that occurs between experts across different organizations. Many installations do not have the expertise necessary to develop full attack analyses. 

@@ -1,7 +1,0 @@
-%0 Conference Proceedings
-%T Scalable information organization
-%D 2000
-%A Aslam, Javed A.
-%A Reiss, Fred R.
-%A Rus, Daniela
-%X We present three scalable extensions of the star algorithm for information organization that use sampling. The star algorithm organizes a document collection into clusters that are naturally induced by the topic structure of collection, via a computationally efficient cover by dense subgraphs. We also provide supporting data from extensive experiments. 

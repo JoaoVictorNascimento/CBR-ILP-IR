@@ -1,7 +1,0 @@
-%0 Conference Proceedings
-%T Modular System Design for Multimedial Information Handling
-%A Pakucs, HandlingBotond
-%A Gambäck, Björn
-%A Hansen, Preben
-%D 2007
-%X Often, information retrieval from various other media is analogous to text-based retrieval; however , accessing documents in e.g. audio or video formats causes some extra problems, in particular with respect to document segmentation, choice of indexing features, and robustness. We review these diiculties, together with some previous attempts to overcome them, and then describe a very exible, modular IR system which has been designed with a speciic eye towards these issues. 

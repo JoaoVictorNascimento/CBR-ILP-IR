@@ -1,7 +1,0 @@
-%0 Conference Proceedings
-%T Image background search: combining object detection techniques with content-based image retrieval (CBIR) systems
-%D 1999
-%A R. Srihari
-%A Zhongfei Zhang
-%A Aibing Rao
-%X A framework for combining object detection techniques with a content based image retrieval (CBIR) system is discussed. As an example, a special CBIR system which focuses on human faces as foreground and decides the similarity of images based on background features is presented. This system may be useful in automatically generating albums from consumer photos.

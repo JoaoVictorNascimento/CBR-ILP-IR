@@ -1,7 +1,0 @@
-%0 Conference Proceedings
-%T Using Star Clusters for Filtering
-%D 2000
-%A Aslam, Javed A.
-%A Pelekhov, Katya
-%A Rus, Daniela
-%X We examine applications of clustering to the filtering task. We use the on-line version of the star algorithm [JPR98, JPR99] as the clustering tool because this algorithm computes, with high precision, naturally occuring topics in a collection and it admits an efficient on-line solution for dynamic corpora. We describe several filtering algorithms and show extensive experimental results using the TREC collection. 

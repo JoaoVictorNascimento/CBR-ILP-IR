@@ -1,7 +1,0 @@
-%0 Conference Proceedings
-%T Beyond the Query-By-Example Paradigm: New Query Interfaces for Music Information Retrieval
-%D 2002
-%A Tzanetakis, George
-%A Ermolinskyi, Andreye
-%A Cook, Perry R.
-%X The majority of existing work in music information retrieval for audio signals has followed the content-based query-by-example paradigm. In this paradigm a musical piece is used as a query and the result is a list of other musical pieces ranked by their content similarity. In this paper we describe algorithms and graphical user interfaces that enable novel alternative ways for querying and browsing large audio collections. Computer audition algorithms are used to extract content information from audio signals. This automatically extracted information is used to configure the graphical user interfaces and to genereate new query audio signals for browsing and retrieval.

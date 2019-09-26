@@ -1,6 +1,0 @@
-%0 Conference Proceedings
-%T Evaluating Multi­lingual Information Retrieval and Clustering at ULIS
-%D 2001
-%A Fujii, Atsushi
-%A Ishikawa, Tetsuya
-%X This paper describes our retrieval system for NTCIR-2 Japanese/English CLIR and MLIR tasks. We integrate query and document translation with monolingual retrieval to improve retrieval accuracy, and perform clustering to improve browsing efficiency. We also introduce an entropy-driven technique in evaluating clustering methods. 

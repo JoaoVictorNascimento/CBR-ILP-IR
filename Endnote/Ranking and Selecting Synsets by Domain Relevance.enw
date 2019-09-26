@@ -1,6 +1,0 @@
-%0 Conference Proceedings
-%T Ranking and Selecting Synsets by Domain Relevance
-%D 2001
-%A Buitelaar, Paul
-%A Dfki, Bogdan Sacaleanu
-%XThe paper presents a novel method for domain specific sense assignment. The method determines the domain specific relevance of GermaNet synsets on the basis of the relevance of their constituent terms that cooccur within representative domain corpora. The approach is task independent and completely automatic. Experiments show results on three selected domains: business, soccer and medical. 

@@ -1,7 +1,0 @@
-%0 Conference Proceedings
-%T Hierarchical Power­-aware Routing in Sensor Networks
-%D 2001
-%A Li, Qun
-%A Aslam, Javed
-%A Rus, Daniela
-%X This paper discusses online power-aware routing in large sensor networks. We seek to optimize the lifetime of the network. We develop an approximation algorithm called max-min zPmin that has a good empirical competitive ratio. To ensure scalability, we introduce a hierarchical algorithm, which is called zone-based routing.
