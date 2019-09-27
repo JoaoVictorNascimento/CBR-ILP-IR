@@ -5,6 +5,7 @@ import re
 import csv
 #import pandas as pd
 from difflib import SequenceMatcher
+import fileinput
 
 
 def count_verify_void_line(line):
@@ -231,26 +232,41 @@ def finalOutputFile():
             art.close()
 
 def similiarString(stringA, stringB):
-    return SequenceMatcher(None, stringA, stringB).ratio()
+    # if(SequenceMatcher(None, stringA.upper(), stringB).ratio() > SequenceMatcher(None, stringA, stringB).ratio()):
+    #     return SequenceMatcher(None, stringA.upper(), stringB).ratio()
+
+    
+    return SequenceMatcher(None, stringA.upper(), stringB.upper()).ratio()
 
 def foundClassTitle(title):
     with open('title_and_class.csv', encoding='ISO-8859-1') as csvfile:
         readCsv = csv.reader(csvfile, delimiter=',')
         
         for line in readCsv:
-            if (similiarString(title, line[0]) > 0.8):
+            if (similiarString(title[3:], line[0]) > 0.8):
                 return line[1]
 
-def putClassTitleEndNote():
-        file = open('endnoteTest.enw', mode='r', newline='')
-        lines = file.readlines()
-        file.close()
-        lines.insert(2,"3")
 
-        file = open('endnoteTest.enw', mode='w', newline='')
-        lines = "".join(lines)
-        file.write(lines)
-        file.close()
+def putClassTitleEndNote():
+        file = open('OutputFile.enw')
+                
+        text = file.read()
+        textSplit = text.split('\n\n')
+
+        newfile = open('testeEndnote.enw', mode='w', encoding='utf-8', newline='')
+
+        list_articles = list(map(lambda x: x.split('\n'), textSplit))
+        print("Processing...")
+        for articles in list_articles:
+            lastLine = ''
+            for line in articles:
+                if(line[0:2] == '%T'):
+                    lastLine = '%1 ' + str(foundClassTitle(line[3:])) + '\n\n'
+                newfile.write(line + '\n')
+            newfile.write(lastLine)
+            articles.append(lastLine)
+
+
             
 def main():
     '''
@@ -286,9 +302,12 @@ def main():
     # find = string.find('Article')
     # print(find)
     #finalOutputFile()
-    string_a = "oia"
-    string_b = "oia oia"
-    print(similiarString(string_a,string_b))
+    putClassTitleEndNote()
+    # t = '%T Comparing the performance of database selection algorithms'
+    # print(t[3:])
+    # s1 = 'Filtering noisy parallel corpora of Web pages'
+    # s2 = 'LOWER BOUNDS FOR MONOTONE SPAN PROGRAMS'
+    # print(similiarString(s1,s2))
+    #print('aSa'.upper())
 
-    
 main()
